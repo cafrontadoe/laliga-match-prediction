@@ -1,0 +1,3421 @@
+season,date,home_team,away_team,home_team_goal,away_team_goal
+2016/2017,2016-08-19,Málaga CF,CA Osasuna,1,1
+2016/2017,2016-08-19,Dep. La Coruña,SD Eibar,2,1
+2016/2017,2016-08-20,Barcelona,Real Betis,6,2
+2016/2017,2016-08-20,Granada CF,Villarreal,1,1
+2016/2017,2016-08-20,Sevilla FC,Espanyol,6,4
+2016/2017,2016-08-21,Sporting Gijón,Athletic,2,1
+2016/2017,2016-08-21,Real Sociedad,Real Madrid,0,3
+2016/2017,2016-08-21,Atlético Madrid,Alavés,1,1
+2016/2017,2016-08-22,Celta de Vigo,CD Leganés,0,1
+2016/2017,2016-08-22,Valencia,UD Las Palmas,2,4
+2016/2017,2016-08-26,(20.)Real Betis,Dep. La Coruña(6.),0,0
+2016/2017,2016-08-26,(17.)Espanyol,Málaga CF(12.),2,2
+2016/2017,2016-08-27,(13.)CA Osasuna,Real Sociedad(19.),0,2
+2016/2017,2016-08-27,(15.)SD Eibar,Valencia(18.),1,0
+2016/2017,2016-08-27,(2.)Real Madrid,Celta de Vigo(16.),2,1
+2016/2017,2016-08-27,(7.)CD Leganés,Atlético Madrid(8.),0,0
+2016/2017,2016-08-28,(4.)UD Las Palmas,Granada CF(11.),5,1
+2016/2017,2016-08-28,(10.)Alavés,Sporting Gijón(5.),0,0
+2016/2017,2016-08-28,(14.)Athletic,Barcelona(1.),0,1
+2016/2017,2016-08-28,(9.)Villarreal,Sevilla FC(3.),0,0
+2016/2017,2016-09-09,(9.)Real Sociedad,Espanyol(14.),1,1
+2016/2017,2016-09-10,(19.)Celta de Vigo,Atlético Madrid(10.),0,4
+2016/2017,2016-09-10,(3.)Real Madrid,CA Osasuna(15.),5,2
+2016/2017,2016-09-10,(12.)Málaga CF,Villarreal(13.),0,2
+2016/2017,2016-09-10,(4.)Sevilla FC,UD Las Palmas(1.),2,1
+2016/2017,2016-09-10,(2.)Barcelona,Alavés(11.),1,2
+2016/2017,2016-09-11,(5.)Sporting Gijón,CD Leganés(7.),2,1
+2016/2017,2016-09-11,(20.)Valencia,Real Betis(16.),2,3
+2016/2017,2016-09-11,(17.)Granada CF,SD Eibar(8.),1,2
+2016/2017,2016-09-11,(6.)Dep. La Coruña,Athletic(18.),0,1
+2016/2017,2016-09-16,(11.)Real Betis,Granada CF(17.),2,2
+2016/2017,2016-09-17,(12.)CD Leganés,Barcelona(5.),1,5
+2016/2017,2016-09-17,(7.)Atlético Madrid,Sporting Gijón(3.),5,0
+2016/2017,2016-09-17,(6.)SD Eibar,Sevilla FC(2.),1,1
+2016/2017,2016-09-17,(4.)UD Las Palmas,Málaga CF(16.),1,0
+2016/2017,2016-09-18,(18.)CA Osasuna,Celta de Vigo(20.),0,0
+2016/2017,2016-09-18,(14.)Athletic,Valencia(19.),2,1
+2016/2017,2016-09-18,(9.)Villarreal,Real Sociedad(13.),2,1
+2016/2017,2016-09-18,(15.)Espanyol,Real Madrid(1.),0,2
+2016/2017,2016-09-19,(8.)Alavés,Dep. La Coruña(10.),0,0
+2016/2017,2016-09-20,(15.)Málaga CF,SD Eibar(7.),2,1
+2016/2017,2016-09-20,(4.)Sevilla FC,Real Betis(12.),1,0
+2016/2017,2016-09-21,(1.)Real Madrid,Villarreal(5.),1,1
+2016/2017,2016-09-21,(19.)Celta de Vigo,Sporting Gijón(8.),2,1
+2016/2017,2016-09-21,(13.)Real Sociedad,UD Las Palmas(3.),4,1
+2016/2017,2016-09-21,(18.)Granada CF,Athletic(10.),1,2
+2016/2017,2016-09-21,(2.)Barcelona,Atlético Madrid(6.),1,1
+2016/2017,2016-09-22,(17.)CA Osasuna,Espanyol(16.),1,2
+2016/2017,2016-09-22,(11.)Dep. La Coruña,CD Leganés(14.),1,2
+2016/2017,2016-09-22,(20.)Valencia,Alavés(9.),2,1
+2016/2017,2016-09-23,(16.)Real Betis,Málaga CF(14.),1,0
+2016/2017,2016-09-24,(10.)SD Eibar,Real Sociedad(9.),2,0
+2016/2017,2016-09-24,(8.)Sporting Gijón,Barcelona(3.),0,5
+2016/2017,2016-09-24,(7.)Athletic,Sevilla FC(2.),3,1
+2016/2017,2016-09-24,(5.)UD Las Palmas,Real Madrid(1.),2,2
+2016/2017,2016-09-25,(11.)CD Leganés,Valencia(18.),1,2
+2016/2017,2016-09-25,(4.)Atlético Madrid,Dep. La Coruña(13.),1,0
+2016/2017,2016-09-25,(6.)Villarreal,CA Osasuna(20.),3,1
+2016/2017,2016-09-25,(15.)Espanyol,Celta de Vigo(17.),0,2
+2016/2017,2016-09-26,(12.)Alavés,Granada CF(19.),3,1
+2016/2017,2016-09-30,(14.)Real Sociedad,Real Betis(10.),1,0
+2016/2017,2016-10-01,(19.)Granada CF,CD Leganés(12.),0,1
+2016/2017,2016-10-01,(6.)Sevilla FC,Alavés(9.),2,1
+2016/2017,2016-10-01,(20.)CA Osasuna,UD Las Palmas(7.),2,2
+2016/2017,2016-10-01,(18.)Dep. La Coruña,Sporting Gijón(13.),2,1
+2016/2017,2016-10-02,(15.)Valencia,Atlético Madrid(3.),0,2
+2016/2017,2016-10-02,(1.)Real Madrid,SD Eibar(8.),1,1
+2016/2017,2016-10-02,(17.)Espanyol,Villarreal(4.),0,0
+2016/2017,2016-10-02,(16.)Málaga CF,Athletic(5.),2,1
+2016/2017,2016-10-02,(11.)Celta de Vigo,Barcelona(2.),4,3
+2016/2017,2016-10-14,(7.)UD Las Palmas,Espanyol(17.),0,0
+2016/2017,2016-10-15,(9.)CD Leganés,Sevilla FC(3.),2,3
+2016/2017,2016-10-15,(4.)Barcelona,Dep. La Coruña(14.),4,0
+2016/2017,2016-10-15,(1.)Atlético Madrid,Granada CF(20.),7,1
+2016/2017,2016-10-15,(13.)Real Betis,Real Madrid(2.),1,6
+2016/2017,2016-10-16,(12.)Alavés,Málaga CF(15.),1,1
+2016/2017,2016-10-16,(6.)Athletic,Real Sociedad(10.),3,2
+2016/2017,2016-10-16,(16.)Sporting Gijón,Valencia(18.),1,2
+2016/2017,2016-10-16,(5.)Villarreal,Celta de Vigo(11.),5,0
+2016/2017,2016-10-17,(8.)SD Eibar,CA Osasuna(19.),2,3
+2016/2017,2016-10-21,(19.)CA Osasuna,Real Betis(16.),1,2
+2016/2017,2016-10-22,(17.)Espanyol,SD Eibar(8.),3,3
+2016/2017,2016-10-22,(14.)Valencia,Barcelona(4.),2,3
+2016/2017,2016-10-22,(11.)Real Sociedad,Alavés(10.),3,0
+2016/2017,2016-10-22,(20.)Granada CF,Sporting Gijón(18.),0,0
+2016/2017,2016-10-23,(12.)Celta de Vigo,Dep. La Coruña(15.),4,1
+2016/2017,2016-10-23,(3.)Sevilla FC,Atlético Madrid(1.),1,0
+2016/2017,2016-10-23,(5.)Villarreal,UD Las Palmas(7.),2,1
+2016/2017,2016-10-23,(13.)Málaga CF,CD Leganés(9.),4,0
+2016/2017,2016-10-23,(2.)Real Madrid,Athletic(6.),2,1
+2016/2017,2016-10-28,(14.)CD Leganés,Real Sociedad(7.),0,2
+2016/2017,2016-10-29,(18.)Sporting Gijón,Sevilla FC(2.),1,1
+2016/2017,2016-10-29,(13.)Alavés,Real Madrid(1.),1,4
+2016/2017,2016-10-29,(5.)Atlético Madrid,Málaga CF(10.),4,2
+2016/2017,2016-10-29,(3.)Barcelona,Granada CF(20.),1,0
+2016/2017,2016-10-30,(11.)SD Eibar,Villarreal(4.),2,1
+2016/2017,2016-10-30,(6.)Athletic,CA Osasuna(19.),1,1
+2016/2017,2016-10-30,(12.)Real Betis,Espanyol(17.),0,1
+2016/2017,2016-10-30,(9.)UD Las Palmas,Celta de Vigo(8.),3,3
+2016/2017,2016-10-31,(16.)Dep. La Coruña,Valencia(15.),1,1
+2016/2017,2016-11-04,(11.)Málaga CF,Sporting Gijón(18.),3,2
+2016/2017,2016-11-05,(20.)Granada CF,Dep. La Coruña(17.),1,1
+2016/2017,2016-11-05,(7.)Real Sociedad,Atlético Madrid(4.),2,0
+2016/2017,2016-11-05,(19.)CA Osasuna,Alavés(15.),0,1
+2016/2017,2016-11-05,(10.)UD Las Palmas,SD Eibar(8.),1,0
+2016/2017,2016-11-06,(1.)Real Madrid,CD Leganés(16.),3,0
+2016/2017,2016-11-06,(12.)Espanyol,Athletic(6.),0,0
+2016/2017,2016-11-06,(9.)Celta de Vigo,Valencia(14.),2,1
+2016/2017,2016-11-06,(5.)Villarreal,Real Betis(13.),2,0
+2016/2017,2016-11-06,(3.)Sevilla FC,Barcelona(2.),1,2
+2016/2017,2016-11-18,(14.)Real Betis,UD Las Palmas(9.),2,0
+2016/2017,2016-11-19,(17.)Dep. La Coruña,Sevilla FC(4.),2,3
+2016/2017,2016-11-19,(2.)Barcelona,Málaga CF(10.),0,0
+2016/2017,2016-11-19,(11.)SD Eibar,Celta de Vigo(8.),1,0
+2016/2017,2016-11-19,(5.)Atlético Madrid,Real Madrid(1.),0,3
+2016/2017,2016-11-20,(12.)Alavés,Espanyol(13.),0,1
+2016/2017,2016-11-20,(15.)Valencia,Granada CF(20.),1,1
+2016/2017,2016-11-20,(18.)Sporting Gijón,Real Sociedad(6.),1,3
+2016/2017,2016-11-20,(7.)Athletic,Villarreal(3.),1,0
+2016/2017,2016-11-21,(16.)CD Leganés,CA Osasuna(19.),2,0
+2016/2017,2016-11-25,(8.)SD Eibar,Real Betis(13.),3,1
+2016/2017,2016-11-26,(11.)Málaga CF,Dep. La Coruña(17.),4,3
+2016/2017,2016-11-26,(1.)Real Madrid,Sporting Gijón(18.),2,1
+2016/2017,2016-11-26,(12.)Espanyol,CD Leganés(15.),3,0
+2016/2017,2016-11-26,(3.)Sevilla FC,Valencia(16.),2,1
+2016/2017,2016-11-27,(4.)Villarreal,Alavés(14.),0,2
+2016/2017,2016-11-27,(19.)CA Osasuna,Atlético Madrid(6.),0,3
+2016/2017,2016-11-27,(9.)Celta de Vigo,Granada CF(20.),3,1
+2016/2017,2016-11-27,(5.)Real Sociedad,Barcelona(2.),1,1
+2016/2017,2016-11-28,(10.)UD Las Palmas,Athletic(7.),3,1
+2016/2017,2016-12-03,(20.)Granada CF,Sevilla FC(3.),2,1
+2016/2017,2016-12-03,(2.)Barcelona,Real Madrid(1.),1,1
+2016/2017,2016-12-03,(15.)CD Leganés,Villarreal(6.),0,0
+2016/2017,2016-12-03,(4.)Atlético Madrid,Espanyol(12.),0,0
+2016/2017,2016-12-04,(14.)Real Betis,Celta de Vigo(9.),3,3
+2016/2017,2016-12-04,(8.)Athletic,SD Eibar(7.),3,1
+2016/2017,2016-12-04,(13.)Alavés,UD Las Palmas(10.),1,1
+2016/2017,2016-12-04,(18.)Sporting Gijón,CA Osasuna(19.),3,1
+2016/2017,2016-12-04,(16.)Valencia,Málaga CF(11.),2,2
+2016/2017,2016-12-05,(17.)Dep. La Coruña,Real Sociedad(5.),5,1
+2016/2017,2016-12-09,(11.)Málaga CF,Granada CF(19.),1,1
+2016/2017,2016-12-10,(20.)CA Osasuna,Barcelona(2.),0,3
+2016/2017,2016-12-10,(7.)Real Sociedad,Valencia(17.),3,2
+2016/2017,2016-12-10,(10.)UD Las Palmas,CD Leganés(15.),1,1
+2016/2017,2016-12-10,(1.)Real Madrid,Dep. La Coruña(16.),3,2
+2016/2017,2016-12-11,(8.)SD Eibar,Alavés(13.),0,0
+2016/2017,2016-12-11,(9.)Celta de Vigo,Sevilla FC(3.),0,3
+2016/2017,2016-12-11,(12.)Espanyol,Sporting Gijón(18.),2,1
+2016/2017,2016-12-11,(14.)Real Betis,Athletic(5.),1,0
+2016/2017,2016-12-12,(6.)Villarreal,Atlético Madrid(4.),3,0
+2016/2017,2016-12-16,(13.)Alavés,Real Betis(14.),1,0
+2016/2017,2016-12-17,(18.)Sporting Gijón,Villarreal(4.),1,3
+2016/2017,2016-12-17,(6.)Atlético Madrid,UD Las Palmas(10.),1,0
+2016/2017,2016-12-17,(19.)Granada CF,Real Sociedad(5.),0,2
+2016/2017,2016-12-17,(3.)Sevilla FC,Málaga CF(12.),4,1
+2016/2017,2016-12-18,(15.)CD Leganés,SD Eibar(8.),1,1
+2016/2017,2016-12-18,(16.)Dep. La Coruña,CA Osasuna(20.),2,0
+2016/2017,2016-12-18,(2.)Barcelona,Espanyol(9.),4,1
+2016/2017,2016-12-19,(7.)Athletic,Celta de Vigo(11.),2,1
+2016/2017,2017-02-22,(17.)Valencia,Real Madrid(1.),2,1
+2016/2017,2017-01-06,(9.)Espanyol,Dep. La Coruña(16.),1,1
+2016/2017,2017-01-07,(1.)Real Madrid,Granada CF(19.),5,0
+2016/2017,2017-01-07,(8.)SD Eibar,Atlético Madrid(6.),0,2
+2016/2017,2017-01-07,(10.)UD Las Palmas,Sporting Gijón(18.),1,0
+2016/2017,2017-01-07,(5.)Real Sociedad,Sevilla FC(3.),0,4
+2016/2017,2017-01-08,(7.)Athletic,Alavés(11.),0,0
+2016/2017,2017-01-08,(14.)Real Betis,CD Leganés(15.),2,0
+2016/2017,2017-01-08,(13.)Celta de Vigo,Málaga CF(12.),3,1
+2016/2017,2017-01-08,(4.)Villarreal,Barcelona(2.),1,1
+2016/2017,2017-01-09,(20.)CA Osasuna,Valencia(17.),3,3
+2016/2017,2017-01-14,(17.)CD Leganés,Athletic(7.),0,0
+2016/2017,2017-01-14,(3.)Barcelona,UD Las Palmas(8.),5,0
+2016/2017,2017-01-14,(4.)Atlético Madrid,Real Betis(13.),1,0
+2016/2017,2017-01-14,(15.)Dep. La Coruña,Villarreal(5.),0,0
+2016/2017,2017-01-15,(16.)Valencia,Espanyol(11.),2,1
+2016/2017,2017-01-15,(9.)Celta de Vigo,Alavés(12.),1,0
+2016/2017,2017-01-15,(18.)Sporting Gijón,SD Eibar(10.),2,3
+2016/2017,2017-01-15,(19.)Granada CF,CA Osasuna(20.),1,1
+2016/2017,2017-01-15,(2.)Sevilla FC,Real Madrid(1.),2,1
+2016/2017,2017-01-16,(14.)Málaga CF,Real Sociedad(6.),0,2
+2016/2017,2017-01-20,(10.)UD Las Palmas,Dep. La Coruña(16.),1,1
+2016/2017,2017-01-21,(11.)Espanyol,Granada CF(19.),3,1
+2016/2017,2017-01-21,(1.)Real Madrid,Málaga CF(14.),2,1
+2016/2017,2017-01-21,(12.)Alavés,CD Leganés(17.),2,2
+2016/2017,2017-01-21,(6.)Villarreal,Valencia(15.),0,2
+2016/2017,2017-01-22,(20.)CA Osasuna,Sevilla FC(2.),3,4
+2016/2017,2017-01-22,(7.)Athletic,Atlético Madrid(4.),2,2
+2016/2017,2017-01-22,(13.)Real Betis,Sporting Gijón(18.),0,0
+2016/2017,2017-01-22,(5.)Real Sociedad,Celta de Vigo(8.),1,0
+2016/2017,2017-01-22,(9.)SD Eibar,Barcelona(3.),0,4
+2016/2017,2017-01-27,(20.)CA Osasuna,Málaga CF(15.),1,1
+2016/2017,2017-01-28,(6.)Villarreal,Granada CF(19.),2,0
+2016/2017,2017-01-28,(12.)Alavés,Atlético Madrid(5.),0,0
+2016/2017,2017-01-28,(10.)SD Eibar,Dep. La Coruña(16.),3,1
+2016/2017,2017-01-28,(17.)CD Leganés,Celta de Vigo(8.),0,2
+2016/2017,2017-01-29,(13.)Real Betis,Barcelona(3.),1,1
+2016/2017,2017-01-29,(9.)Espanyol,Sevilla FC(2.),3,1
+2016/2017,2017-01-29,(7.)Athletic,Sporting Gijón(18.),2,1
+2016/2017,2017-01-29,(1.)Real Madrid,Real Sociedad(4.),3,0
+2016/2017,2017-01-30,(11.)UD Las Palmas,Valencia(14.),3,1
+2016/2017,2017-02-04,(15.)Málaga CF,Espanyol(9.),0,1
+2016/2017,2017-02-04,(2.)Barcelona,Athletic(7.),3,0
+2016/2017,2017-02-04,(4.)Atlético Madrid,CD Leganés(17.),2,0
+2016/2017,2017-02-04,(14.)Valencia,SD Eibar(10.),0,4
+2016/2017,2017-02-05,(3.)Sevilla FC,Villarreal(6.),0,0
+2016/2017,2017-02-05,(18.)Sporting Gijón,Alavés(12.),2,4
+2016/2017,2017-02-05,(5.)Real Sociedad,CA Osasuna(19.),3,2
+2016/2017,2017-02-06,(20.)Granada CF,UD Las Palmas(11.),1,0
+2016/2017,2017-03-08,(16.)Dep. La Coruña,Real Betis(13.),1,1
+2016/2017,2017-05-17,(8.)Celta de Vigo,Real Madrid(1.),1,4
+2016/2017,2017-02-10,(8.)Espanyol,Real Sociedad(5.),1,2
+2016/2017,2017-02-11,(13.)Real Betis,Valencia(15.),0,0
+2016/2017,2017-02-11,(12.)Alavés,Barcelona(2.),0,6
+2016/2017,2017-02-11,(7.)Athletic,Dep. La Coruña(16.),2,1
+2016/2017,2017-02-11,(20.)CA Osasuna,Real Madrid(1.),1,3
+2016/2017,2017-02-12,(6.)Villarreal,Málaga CF(14.),1,1
+2016/2017,2017-02-12,(17.)CD Leganés,Sporting Gijón(18.),0,2
+2016/2017,2017-02-12,(11.)UD Las Palmas,Sevilla FC(3.),0,1
+2016/2017,2017-02-12,(4.)Atlético Madrid,Celta de Vigo(10.),3,2
+2016/2017,2017-02-13,(9.)SD Eibar,Granada CF(19.),4,0
+2016/2017,2017-02-17,(19.)Granada CF,Real Betis(13.),4,1
+2016/2017,2017-02-18,(18.)Sporting Gijón,Atlético Madrid(4.),1,4
+2016/2017,2017-02-18,(1.)Real Madrid,Espanyol(9.),2,0
+2016/2017,2017-02-18,(16.)Dep. La Coruña,Alavés(12.),0,1
+2016/2017,2017-02-18,(3.)Sevilla FC,SD Eibar(8.),2,0
+2016/2017,2017-02-19,(5.)Real Sociedad,Villarreal(6.),0,1
+2016/2017,2017-02-19,(15.)Valencia,Athletic(7.),2,0
+2016/2017,2017-02-19,(10.)Celta de Vigo,CA Osasuna(20.),3,0
+2016/2017,2017-02-19,(2.)Barcelona,CD Leganés(17.),2,1
+2016/2017,2017-02-20,(14.)Málaga CF,UD Las Palmas(11.),2,1
+2016/2017,2017-02-24,(12.)UD Las Palmas,Real Sociedad(5.),0,1
+2016/2017,2017-02-25,(11.)Alavés,Valencia(14.),2,1
+2016/2017,2017-02-25,(15.)Real Betis,Sevilla FC(3.),1,2
+2016/2017,2017-02-25,(17.)CD Leganés,Dep. La Coruña(16.),4,0
+2016/2017,2017-02-25,(8.)SD Eibar,Málaga CF(13.),3,0
+2016/2017,2017-02-26,(10.)Espanyol,CA Osasuna(20.),3,0
+2016/2017,2017-02-26,(4.)Atlético Madrid,Barcelona(2.),1,2
+2016/2017,2017-02-26,(7.)Athletic,Granada CF(19.),3,1
+2016/2017,2017-02-26,(18.)Sporting Gijón,Celta de Vigo(9.),1,1
+2016/2017,2017-02-26,(6.)Villarreal,Real Madrid(1.),2,3
+2016/2017,2017-02-28,(5.)Real Sociedad,SD Eibar(8.),2,2
+2016/2017,2017-02-28,(14.)Málaga CF,Real Betis(15.),1,2
+2016/2017,2017-02-28,(13.)Valencia,CD Leganés(16.),1,0
+2016/2017,2017-03-01,(20.)CA Osasuna,Villarreal(6.),1,4
+2016/2017,2017-03-01,(2.)Barcelona,Sporting Gijón(18.),6,1
+2016/2017,2017-03-01,(10.)Celta de Vigo,Espanyol(9.),2,2
+2016/2017,2017-03-01,(1.)Real Madrid,UD Las Palmas(12.),3,3
+2016/2017,2017-03-01,(19.)Granada CF,Alavés(11.),2,1
+2016/2017,2017-03-02,(17.)Dep. La Coruña,Atlético Madrid(4.),1,1
+2016/2017,2017-03-02,(3.)Sevilla FC,Athletic(7.),1,0
+2016/2017,2017-03-03,(14.)Real Betis,Real Sociedad(5.),2,3
+2016/2017,2017-03-04,(16.)CD Leganés,Granada CF(18.),1,0
+2016/2017,2017-03-04,(7.)SD Eibar,Real Madrid(1.),1,4
+2016/2017,2017-03-04,(6.)Villarreal,Espanyol(9.),2,0
+2016/2017,2017-03-04,(2.)Barcelona,Celta de Vigo(10.),5,0
+2016/2017,2017-03-05,(19.)Sporting Gijón,Dep. La Coruña(17.),0,1
+2016/2017,2017-03-05,(4.)Atlético Madrid,Valencia(13.),3,0
+2016/2017,2017-03-05,(12.)UD Las Palmas,CA Osasuna(20.),5,2
+2016/2017,2017-03-05,(8.)Athletic,Málaga CF(15.),1,0
+2016/2017,2017-03-06,(11.)Alavés,Sevilla FC(3.),1,1
+2016/2017,2017-03-10,(9.)Espanyol,UD Las Palmas(12.),4,3
+2016/2017,2017-03-11,(13.)Valencia,Sporting Gijón(19.),1,1
+2016/2017,2017-03-11,(3.)Sevilla FC,CD Leganés(16.),1,1
+2016/2017,2017-03-11,(15.)Málaga CF,Alavés(11.),1,2
+2016/2017,2017-03-11,(18.)Granada CF,Atlético Madrid(4.),0,1
+2016/2017,2017-03-12,(5.)Real Sociedad,Athletic(7.),0,2
+2016/2017,2017-03-12,(17.)Dep. La Coruña,Barcelona(2.),2,1
+2016/2017,2017-03-12,(10.)Celta de Vigo,Villarreal(6.),0,1
+2016/2017,2017-03-12,(1.)Real Madrid,Real Betis(14.),2,1
+2016/2017,2017-03-13,(20.)CA Osasuna,SD Eibar(8.),1,1
+2016/2017,2017-03-17,(12.)UD Las Palmas,Villarreal(5.),1,0
+2016/2017,2017-03-18,(8.)SD Eibar,Espanyol(9.),1,1
+2016/2017,2017-03-18,(7.)Athletic,Real Madrid(1.),1,2
+2016/2017,2017-03-18,(10.)Alavés,Real Sociedad(6.),1,0
+2016/2017,2017-03-18,(14.)Real Betis,CA Osasuna(20.),2,0
+2016/2017,2017-03-19,(17.)CD Leganés,Málaga CF(16.),0,0
+2016/2017,2017-03-19,(4.)Atlético Madrid,Sevilla FC(3.),3,1
+2016/2017,2017-03-19,(19.)Sporting Gijón,Granada CF(18.),3,1
+2016/2017,2017-03-19,(15.)Dep. La Coruña,Celta de Vigo(11.),0,1
+2016/2017,2017-03-19,(2.)Barcelona,Valencia(13.),4,2
+2016/2017,2017-03-31,(9.)Espanyol,Real Betis(13.),2,1
+2016/2017,2017-04-01,(5.)Villarreal,SD Eibar(8.),2,3
+2016/2017,2017-04-01,(20.)CA Osasuna,Athletic(7.),1,2
+2016/2017,2017-04-01,(6.)Real Sociedad,CD Leganés(17.),1,1
+2016/2017,2017-04-01,(15.)Málaga CF,Atlético Madrid(4.),0,2
+2016/2017,2017-04-02,(3.)Sevilla FC,Sporting Gijón(18.),0,0
+2016/2017,2017-04-02,(1.)Real Madrid,Alavés(10.),3,0
+2016/2017,2017-04-02,(14.)Valencia,Dep. La Coruña(16.),3,0
+2016/2017,2017-04-02,(19.)Granada CF,Barcelona(2.),1,4
+2016/2017,2017-04-03,(11.)Celta de Vigo,UD Las Palmas(12.),3,1
+2016/2017,2017-04-04,(7.)Athletic,Espanyol(9.),2,0
+2016/2017,2017-04-04,(14.)Real Betis,Villarreal(6.),0,1
+2016/2017,2017-04-04,(3.)Atlético Madrid,Real Sociedad(5.),1,0
+2016/2017,2017-04-05,(2.)Barcelona,Sevilla FC(4.),3,0
+2016/2017,2017-04-05,(11.)Alavés,CA Osasuna(20.),0,1
+2016/2017,2017-04-05,(18.)Sporting Gijón,Málaga CF(15.),0,1
+2016/2017,2017-04-05,(17.)Dep. La Coruña,Granada CF(19.),0,0
+2016/2017,2017-04-05,(16.)CD Leganés,Real Madrid(1.),2,4
+2016/2017,2017-04-06,(8.)SD Eibar,UD Las Palmas(12.),3,1
+2016/2017,2017-04-06,(13.)Valencia,Celta de Vigo(10.),3,2
+2016/2017,2017-04-07,(5.)Villarreal,Athletic(6.),3,1
+2016/2017,2017-04-08,(9.)Espanyol,Alavés(11.),1,0
+2016/2017,2017-04-08,(1.)Real Madrid,Atlético Madrid(3.),1,1
+2016/2017,2017-04-08,(4.)Sevilla FC,Dep. La Coruña(16.),4,2
+2016/2017,2017-04-08,(15.)Málaga CF,Barcelona(2.),2,0
+2016/2017,2017-04-09,(19.)Granada CF,Valencia(12.),1,3
+2016/2017,2017-04-09,(10.)Celta de Vigo,SD Eibar(8.),0,2
+2016/2017,2017-04-09,(20.)CA Osasuna,CD Leganés(17.),2,1
+2016/2017,2017-04-09,(13.)UD Las Palmas,Real Betis(14.),4,1
+2016/2017,2017-04-10,(7.)Real Sociedad,Sporting Gijón(18.),3,1
+2016/2017,2017-04-14,(7.)Athletic,UD Las Palmas(13.),5,1
+2016/2017,2017-04-15,(16.)Dep. La Coruña,Málaga CF(14.),2,0
+2016/2017,2017-04-15,(18.)Sporting Gijón,Real Madrid(1.),2,3
+2016/2017,2017-04-15,(3.)Atlético Madrid,CA Osasuna(20.),3,0
+2016/2017,2017-04-15,(2.)Barcelona,Real Sociedad(6.),3,2
+2016/2017,2017-04-16,(17.)CD Leganés,Espanyol(9.),0,1
+2016/2017,2017-04-16,(12.)Valencia,Sevilla FC(4.),0,0
+2016/2017,2017-04-16,(15.)Real Betis,SD Eibar(8.),2,0
+2016/2017,2017-04-16,(19.)Granada CF,Celta de Vigo(10.),0,3
+2016/2017,2017-04-17,(11.)Alavés,Villarreal(5.),2,1
+2016/2017,2017-04-21,(4.)Sevilla FC,Granada CF(19.),2,0
+2016/2017,2017-04-22,(15.)Málaga CF,Valencia(12.),2,0
+2016/2017,2017-04-22,(5.)Villarreal,CD Leganés(17.),2,1
+2016/2017,2017-04-22,(20.)CA Osasuna,Sporting Gijón(18.),2,2
+2016/2017,2017-04-22,(9.)Espanyol,Atlético Madrid(3.),0,1
+2016/2017,2017-04-23,(7.)Real Sociedad,Dep. La Coruña(16.),1,0
+2016/2017,2017-04-23,(10.)Celta de Vigo,Real Betis(14.),0,1
+2016/2017,2017-04-23,(13.)UD Las Palmas,Alavés(11.),1,1
+2016/2017,2017-04-23,(1.)Real Madrid,Barcelona(2.),2,3
+2016/2017,2017-04-24,(8.)SD Eibar,Athletic(6.),0,1
+2016/2017,2017-04-25,(18.)Sporting Gijón,Espanyol(9.),1,1
+2016/2017,2017-04-25,(19.)Granada CF,Málaga CF(15.),0,2
+2016/2017,2017-04-25,(3.)Atlético Madrid,Villarreal(5.),0,1
+2016/2017,2017-04-26,(2.)Barcelona,CA Osasuna(20.),7,1
+2016/2017,2017-04-26,(17.)CD Leganés,UD Las Palmas(13.),3,0
+2016/2017,2017-04-26,(12.)Valencia,Real Sociedad(7.),2,3
+2016/2017,2017-04-26,(16.)Dep. La Coruña,Real Madrid(1.),2,6
+2016/2017,2017-04-27,(11.)Alavés,SD Eibar(8.),0,0
+2016/2017,2017-04-27,(4.)Sevilla FC,Celta de Vigo(10.),2,1
+2016/2017,2017-04-27,(6.)Athletic,Real Betis(14.),2,1
+2016/2017,2017-04-28,(5.)Villarreal,Sporting Gijón(18.),3,1
+2016/2017,2017-04-29,(7.)Real Sociedad,Granada CF(19.),2,1
+2016/2017,2017-04-29,(1.)Real Madrid,Valencia(12.),2,1
+2016/2017,2017-04-29,(13.)UD Las Palmas,Atlético Madrid(3.),0,5
+2016/2017,2017-04-29,(9.)Espanyol,Barcelona(2.),0,3
+2016/2017,2017-04-30,(20.)CA Osasuna,Dep. La Coruña(16.),2,2
+2016/2017,2017-04-30,(15.)Real Betis,Alavés(10.),1,4
+2016/2017,2017-04-30,(8.)SD Eibar,CD Leganés(17.),2,0
+2016/2017,2017-04-30,(11.)Celta de Vigo,Athletic(6.),0,3
+2016/2017,2017-05-01,(14.)Málaga CF,Sevilla FC(4.),4,2
+2016/2017,2017-05-05,(4.)Sevilla FC,Real Sociedad(7.),1,1
+2016/2017,2017-05-06,(18.)Sporting Gijón,UD Las Palmas(14.),1,0
+2016/2017,2017-05-06,(3.)Atlético Madrid,SD Eibar(8.),1,0
+2016/2017,2017-05-06,(2.)Barcelona,Villarreal(5.),4,1
+2016/2017,2017-05-06,(19.)Granada CF,Real Madrid(1.),0,4
+2016/2017,2017-05-07,(10.)Alavés,Athletic(6.),1,0
+2016/2017,2017-05-07,(13.)Valencia,CA Osasuna(20.),4,1
+2016/2017,2017-05-07,(16.)Dep. La Coruña,Espanyol(9.),1,2
+2016/2017,2017-05-07,(12.)Málaga CF,Celta de Vigo(11.),3,0
+2016/2017,2017-05-08,(17.)CD Leganés,Real Betis(15.),4,0
+2016/2017,2017-05-13,(9.)Espanyol,Valencia(13.),0,1
+2016/2017,2017-05-13,(20.)CA Osasuna,Granada CF(19.),2,1
+2016/2017,2017-05-14,(10.)Alavés,Celta de Vigo(12.),3,1
+2016/2017,2017-05-14,(6.)Athletic,CD Leganés(16.),1,1
+2016/2017,2017-05-14,(15.)Real Betis,Atlético Madrid(3.),1,1
+2016/2017,2017-05-14,(8.)SD Eibar,Sporting Gijón(18.),0,1
+2016/2017,2017-05-14,(14.)UD Las Palmas,Barcelona(2.),1,4
+2016/2017,2017-05-14,(5.)Villarreal,Dep. La Coruña(17.),0,0
+2016/2017,2017-05-14,(1.)Real Madrid,Sevilla FC(4.),4,1
+2016/2017,2017-05-14,(7.)Real Sociedad,Málaga CF(11.),2,2
+2016/2017,2017-05-19,(20.)Granada CF,Espanyol(10.),1,2
+2016/2017,2017-05-20,(18.)Sporting Gijón,Real Betis(15.),2,2
+2016/2017,2017-05-20,(16.)CD Leganés,Alavés(9.),1,1
+2016/2017,2017-05-20,(17.)Dep. La Coruña,UD Las Palmas(14.),3,0
+2016/2017,2017-05-20,(4.)Sevilla FC,CA Osasuna(19.),5,0
+2016/2017,2017-05-21,(3.)Atlético Madrid,Athletic(6.),3,1
+2016/2017,2017-05-21,(12.)Valencia,Villarreal(5.),1,3
+2016/2017,2017-05-21,(13.)Celta de Vigo,Real Sociedad(7.),2,2
+2016/2017,2017-05-21,(2.)Barcelona,SD Eibar(8.),4,2
+2016/2017,2017-05-21,(11.)Málaga CF,Real Madrid(1.),0,2
+2017/2018,2017-08-18,CD Leganés,Alavés,1,0
+2017/2018,2017-08-18,Valencia,UD Las Palmas,1,0
+2017/2018,2017-08-19,Celta de Vigo,Real Sociedad,2,3
+2017/2018,2017-08-19,Girona,Atlético Madrid,2,2
+2017/2018,2017-08-19,Sevilla FC,Espanyol,1,1
+2017/2018,2017-08-20,Athletic,Getafe,0,0
+2017/2018,2017-08-20,Barcelona,Real Betis,2,0
+2017/2018,2017-08-20,Dep. La Coruña,Real Madrid,0,3
+2017/2018,2017-08-21,Levante,Villarreal,1,0
+2017/2018,2017-08-21,Málaga CF,SD Eibar,0,1
+2017/2018,2017-08-25,(3.)Real Sociedad,Villarreal(15.),3,0
+2017/2018,2017-08-25,(19.)Real Betis,Celta de Vigo(14.),2,1
+2017/2018,2017-08-26,(16.)Alavés,Barcelona(2.),0,2
+2017/2018,2017-08-26,(9.)Girona,Málaga CF(17.),1,0
+2017/2018,2017-08-26,(7.)Levante,Dep. La Coruña(20.),2,2
+2017/2018,2017-08-26,(18.)UD Las Palmas,Atlético Madrid(8.),1,5
+2017/2018,2017-08-27,(11.)Espanyol,CD Leganés(6.),0,1
+2017/2018,2017-08-27,(4.)SD Eibar,Athletic(12.),0,1
+2017/2018,2017-08-27,(13.)Getafe,Sevilla FC(10.),0,1
+2017/2018,2017-08-27,(1.)Real Madrid,Valencia(5.),2,2
+2017/2018,2017-09-08,(3.)CD Leganés,Getafe(14.),1,2
+2017/2018,2017-09-09,(5.)Real Madrid,Levante(8.),1,1
+2017/2018,2017-09-09,(6.)Valencia,Atlético Madrid(4.),0,0
+2017/2018,2017-09-09,(9.)Sevilla FC,SD Eibar(11.),3,0
+2017/2018,2017-09-09,(2.)Barcelona,Espanyol(13.),5,0
+2017/2018,2017-09-10,(15.)Dep. La Coruña,Real Sociedad(1.),2,4
+2017/2018,2017-09-10,(10.)Athletic,Girona(7.),2,0
+2017/2018,2017-09-10,(16.)Celta de Vigo,Alavés(18.),1,0
+2017/2018,2017-09-10,(19.)Villarreal,Real Betis(12.),3,1
+2017/2018,2017-09-11,(17.)Málaga CF,UD Las Palmas(20.),1,3
+2017/2018,2017-09-15,(16.)SD Eibar,CD Leganés(5.),1,0
+2017/2018,2017-09-16,(9.)Levante,Valencia(7.),1,1
+2017/2018,2017-09-16,(10.)Getafe,Barcelona(1.),1,2
+2017/2018,2017-09-16,(13.)Real Betis,Dep. La Coruña(17.),2,1
+2017/2018,2017-09-16,(8.)Atlético Madrid,Málaga CF(19.),1,0
+2017/2018,2017-09-17,(20.)Alavés,Villarreal(12.),0,3
+2017/2018,2017-09-17,(11.)Girona,Sevilla FC(3.),0,1
+2017/2018,2017-09-17,(15.)UD Las Palmas,Athletic(4.),1,0
+2017/2018,2017-09-17,(2.)Real Sociedad,Real Madrid(6.),1,3
+2017/2018,2017-09-18,(18.)Espanyol,Celta de Vigo(14.),2,1
+2017/2018,2017-09-19,(8.)Valencia,Málaga CF(19.),5,0
+2017/2018,2017-09-19,(1.)Barcelona,SD Eibar(10.),6,1
+2017/2018,2017-09-20,(11.)CD Leganés,Girona(15.),0,0
+2017/2018,2017-09-20,(6.)Athletic,Atlético Madrid(5.),1,2
+2017/2018,2017-09-20,(18.)Dep. La Coruña,Alavés(20.),1,0
+2017/2018,2017-09-20,(4.)Real Madrid,Real Betis(13.),0,1
+2017/2018,2017-09-20,(2.)Sevilla FC,UD Las Palmas(12.),1,0
+2017/2018,2017-09-21,(9.)Villarreal,Espanyol(16.),0,0
+2017/2018,2017-09-21,(17.)Celta de Vigo,Getafe(14.),1,1
+2017/2018,2017-09-21,(7.)Levante,Real Sociedad(3.),3,0
+2017/2018,2017-09-23,(3.)Atlético Madrid,Sevilla FC(2.),2,0
+2017/2018,2017-09-23,(19.)Alavés,Real Madrid(8.),1,2
+2017/2018,2017-09-23,(20.)Málaga CF,Athletic(10.),3,3
+2017/2018,2017-09-23,(15.)Girona,Barcelona(1.),0,3
+2017/2018,2017-09-24,(16.)Espanyol,Dep. La Coruña(18.),4,1
+2017/2018,2017-09-24,(14.)Getafe,Villarreal(9.),4,0
+2017/2018,2017-09-24,(12.)UD Las Palmas,CD Leganés(11.),0,2
+2017/2018,2017-09-24,(13.)SD Eibar,Celta de Vigo(17.),0,4
+2017/2018,2017-09-24,(6.)Real Sociedad,Valencia(5.),2,3
+2017/2018,2017-09-25,(7.)Real Betis,Levante(4.),4,0
+2017/2018,2017-09-29,(13.)Celta de Vigo,Girona(17.),3,3
+2017/2018,2017-09-30,(18.)Dep. La Coruña,Getafe(10.),2,1
+2017/2018,2017-09-30,(3.)Sevilla FC,Málaga CF(19.),2,0
+2017/2018,2017-09-30,(8.)Levante,Alavés(20.),0,2
+2017/2018,2017-09-30,(7.)CD Leganés,Atlético Madrid(2.),0,0
+2017/2018,2017-10-01,(9.)Real Sociedad,Real Betis(5.),4,4
+2017/2018,2017-10-01,(1.)Barcelona,UD Las Palmas(15.),3,0
+2017/2018,2017-10-01,(14.)Villarreal,SD Eibar(16.),3,0
+2017/2018,2017-10-01,(4.)Valencia,Athletic(11.),3,2
+2017/2018,2017-10-01,(6.)Real Madrid,Espanyol(12.),2,0
+2017/2018,2017-10-13,(11.)Espanyol,Levante(10.),0,0
+2017/2018,2017-10-14,(14.)Athletic,Sevilla FC(2.),1,0
+2017/2018,2017-10-14,(12.)Getafe,Real Madrid(5.),1,2
+2017/2018,2017-10-14,(19.)Alavés,Real Sociedad(8.),0,2
+2017/2018,2017-10-14,(4.)Atlético Madrid,Barcelona(1.),1,1
+2017/2018,2017-10-15,(18.)SD Eibar,Dep. La Coruña(15.),0,0
+2017/2018,2017-10-15,(16.)Girona,Villarreal(9.),1,2
+2017/2018,2017-10-15,(20.)Málaga CF,CD Leganés(7.),0,2
+2017/2018,2017-10-15,(6.)Real Betis,Valencia(3.),3,6
+2017/2018,2017-10-16,(17.)UD Las Palmas,Celta de Vigo(13.),2,5
+2017/2018,2017-10-21,(12.)Levante,Getafe(15.),1,1
+2017/2018,2017-10-21,(9.)Real Betis,Alavés(19.),2,0
+2017/2018,2017-10-21,(2.)Valencia,Sevilla FC(5.),4,0
+2017/2018,2017-10-21,(1.)Barcelona,Málaga CF(20.),2,0
+2017/2018,2017-10-22,(8.)Villarreal,UD Las Palmas(18.),4,0
+2017/2018,2017-10-22,(10.)Celta de Vigo,Atlético Madrid(4.),0,1
+2017/2018,2017-10-22,(6.)CD Leganés,Athletic(11.),1,0
+2017/2018,2017-10-22,(3.)Real Madrid,SD Eibar(16.),3,0
+2017/2018,2017-10-23,(7.)Real Sociedad,Espanyol(13.),1,1
+2017/2018,2017-10-23,(14.)Dep. La Coruña,Girona(17.),1,2
+2017/2018,2017-10-28,(19.)Alavés,Valencia(2.),1,2
+2017/2018,2017-10-28,(4.)Atlético Madrid,Villarreal(6.),1,1
+2017/2018,2017-10-28,(11.)Athletic,Barcelona(1.),0,2
+2017/2018,2017-10-28,(8.)Sevilla FC,CD Leganés(5.),2,1
+2017/2018,2017-10-29,(14.)Getafe,Real Sociedad(9.),2,1
+2017/2018,2017-10-29,(15.)Girona,Real Madrid(3.),2,1
+2017/2018,2017-10-29,(17.)SD Eibar,Levante(12.),2,2
+2017/2018,2017-10-29,(20.)Málaga CF,Celta de Vigo(10.),2,1
+2017/2018,2017-10-30,(18.)UD Las Palmas,Dep. La Coruña(16.),1,3
+2017/2018,2017-10-30,(13.)Espanyol,Real Betis(7.),1,0
+2017/2018,2017-11-03,(8.)Real Betis,Getafe(11.),2,2
+2017/2018,2017-11-04,(2.)Valencia,CD Leganés(7.),3,0
+2017/2018,2017-11-04,(16.)Dep. La Coruña,Atlético Madrid(4.),0,1
+2017/2018,2017-11-04,(20.)Alavés,Espanyol(10.),1,0
+2017/2018,2017-11-04,(1.)Barcelona,Sevilla FC(5.),2,1
+2017/2018,2017-11-05,(12.)Levante,Girona(13.),1,2
+2017/2018,2017-11-05,(14.)Celta de Vigo,Athletic(15.),3,1
+2017/2018,2017-11-05,(9.)Real Sociedad,SD Eibar(17.),3,1
+2017/2018,2017-11-05,(6.)Villarreal,Málaga CF(19.),2,0
+2017/2018,2017-11-05,(3.)Real Madrid,UD Las Palmas(18.),3,0
+2017/2018,2017-11-17,(10.)Girona,Real Sociedad(7.),1,1
+2017/2018,2017-11-18,(12.)Getafe,Alavés(18.),4,1
+2017/2018,2017-11-18,(9.)CD Leganés,Barcelona(1.),0,3
+2017/2018,2017-11-18,(6.)Sevilla FC,Celta de Vigo(11.),2,1
+2017/2018,2017-11-18,(4.)Atlético Madrid,Real Madrid(3.),0,0
+2017/2018,2017-11-19,(20.)Málaga CF,Dep. La Coruña(16.),3,2
+2017/2018,2017-11-19,(13.)Espanyol,Valencia(2.),0,2
+2017/2018,2017-11-19,(19.)UD Las Palmas,Levante(14.),0,2
+2017/2018,2017-11-19,(15.)Athletic,Villarreal(5.),1,1
+2017/2018,2017-11-20,(17.)SD Eibar,Real Betis(8.),5,0
+2017/2018,2017-11-24,(13.)Celta de Vigo,CD Leganés(8.),1,0
+2017/2018,2017-11-25,(19.)Alavés,SD Eibar(17.),1,2
+2017/2018,2017-11-25,(3.)Real Madrid,Málaga CF(18.),3,2
+2017/2018,2017-11-25,(9.)Real Betis,Girona(11.),2,2
+2017/2018,2017-11-25,(12.)Levante,Atlético Madrid(4.),0,5
+2017/2018,2017-11-26,(16.)Dep. La Coruña,Athletic(15.),2,2
+2017/2018,2017-11-26,(7.)Real Sociedad,UD Las Palmas(20.),2,2
+2017/2018,2017-11-26,(6.)Villarreal,Sevilla FC(5.),2,3
+2017/2018,2017-11-26,(2.)Valencia,Barcelona(1.),1,1
+2017/2018,2017-11-27,(14.)Espanyol,Getafe(10.),1,0
+2017/2018,2017-12-01,(19.)Málaga CF,Levante(14.),0,0
+2017/2018,2017-12-02,(1.)Barcelona,Celta de Vigo(9.),2,2
+2017/2018,2017-12-02,(3.)Atlético Madrid,Real Sociedad(7.),2,1
+2017/2018,2017-12-02,(5.)Sevilla FC,Dep. La Coruña(17.),2,0
+2017/2018,2017-12-02,(16.)Athletic,Real Madrid(4.),0,0
+2017/2018,2017-12-03,(11.)CD Leganés,Villarreal(6.),3,1
+2017/2018,2017-12-03,(13.)Getafe,Valencia(2.),1,0
+2017/2018,2017-12-03,(15.)SD Eibar,Espanyol(12.),3,1
+2017/2018,2017-12-03,(18.)UD Las Palmas,Real Betis(8.),1,0
+2017/2018,2017-12-04,(10.)Girona,Alavés(20.),2,3
+2017/2018,2017-12-08,(19.)Alavés,UD Las Palmas(18.),2,0
+2017/2018,2017-12-09,(8.)Getafe,SD Eibar(13.),0,0
+2017/2018,2017-12-09,(4.)Real Madrid,Sevilla FC(5.),5,0
+2017/2018,2017-12-09,(17.)Dep. La Coruña,CD Leganés(7.),1,0
+2017/2018,2017-12-09,(2.)Valencia,Celta de Vigo(11.),2,1
+2017/2018,2017-12-10,(9.)Real Sociedad,Málaga CF(20.),0,2
+2017/2018,2017-12-10,(10.)Real Betis,Atlético Madrid(3.),0,1
+2017/2018,2017-12-10,(14.)Levante,Athletic(16.),1,2
+2017/2018,2017-12-10,(6.)Villarreal,Barcelona(1.),0,2
+2017/2018,2017-12-11,(15.)Espanyol,Girona(12.),0,1
+2017/2018,2017-12-15,(5.)Sevilla FC,Levante(15.),0,0
+2017/2018,2017-12-16,(14.)Athletic,Real Sociedad(10.),0,0
+2017/2018,2017-12-16,(13.)SD Eibar,Valencia(2.),2,1
+2017/2018,2017-12-16,(3.)Atlético Madrid,Alavés(18.),1,0
+2017/2018,2017-12-17,(9.)Girona,Getafe(7.),1,0
+2017/2018,2017-12-17,(11.)Celta de Vigo,Villarreal(6.),0,1
+2017/2018,2017-12-17,(20.)UD Las Palmas,Espanyol(16.),2,2
+2017/2018,2017-12-17,(1.)Barcelona,Dep. La Coruña(17.),4,0
+2017/2018,2017-12-18,(19.)Málaga CF,Real Betis(12.),0,2
+2017/2018,2018-02-21,(8.)CD Leganés,Real Madrid(4.),1,3
+2017/2018,2017-12-19,(15.)Levante,CD Leganés(12.),0,0
+2017/2018,2017-12-20,(10.)Getafe,UD Las Palmas(19.),2,0
+2017/2018,2017-12-20,(11.)Real Sociedad,Sevilla FC(5.),3,1
+2017/2018,2017-12-21,(8.)SD Eibar,Girona(7.),4,1
+2017/2018,2017-12-21,(18.)Alavés,Málaga CF(20.),1,0
+2017/2018,2017-12-22,(9.)Real Betis,Athletic(14.),0,2
+2017/2018,2017-12-22,(16.)Espanyol,Atlético Madrid(2.),1,0
+2017/2018,2017-12-23,(3.)Real Madrid,Barcelona(1.),0,3
+2017/2018,2017-12-23,(4.)Valencia,Villarreal(6.),0,1
+2017/2018,2017-12-23,(17.)Dep. La Coruña,Celta de Vigo(13.),1,3
+2017/2018,2018-01-06,(2.)Atlético Madrid,Getafe(9.),2,0
+2017/2018,2018-01-06,(3.)Valencia,Girona(8.),2,1
+2017/2018,2018-01-06,(19.)UD Las Palmas,SD Eibar(7.),1,2
+2017/2018,2018-01-06,(5.)Sevilla FC,Real Betis(14.),3,5
+2017/2018,2018-01-07,(13.)CD Leganés,Real Sociedad(10.),1,0
+2017/2018,2018-01-07,(1.)Barcelona,Levante(16.),3,0
+2017/2018,2018-01-07,(12.)Athletic,Alavés(18.),2,0
+2017/2018,2018-01-07,(6.)Villarreal,Dep. La Coruña(17.),1,1
+2017/2018,2018-01-07,(11.)Celta de Vigo,Real Madrid(4.),2,2
+2017/2018,2018-01-08,(20.)Málaga CF,Espanyol(15.),0,1
+2017/2018,2018-01-12,(13.)Getafe,Málaga CF(20.),1,0
+2017/2018,2018-01-13,(11.)Girona,UD Las Palmas(19.),6,0
+2017/2018,2018-01-13,(4.)Real Madrid,Villarreal(6.),0,1
+2017/2018,2018-01-13,(7.)SD Eibar,Atlético Madrid(2.),0,1
+2017/2018,2018-01-13,(17.)Dep. La Coruña,Valencia(3.),1,2
+2017/2018,2018-01-14,(16.)Levante,Celta de Vigo(15.),0,1
+2017/2018,2018-01-14,(18.)Alavés,Sevilla FC(5.),1,0
+2017/2018,2018-01-14,(12.)Espanyol,Athletic(8.),1,1
+2017/2018,2018-01-14,(14.)Real Sociedad,Barcelona(1.),2,4
+2017/2018,2018-01-15,(10.)Real Betis,CD Leganés(9.),3,2
+2017/2018,2018-01-19,(10.)Getafe,Athletic(12.),2,2
+2017/2018,2018-01-20,(14.)Espanyol,Sevilla FC(6.),0,3
+2017/2018,2018-01-20,(2.)Atlético Madrid,Girona(9.),1,1
+2017/2018,2018-01-20,(5.)Villarreal,Levante(17.),2,1
+2017/2018,2018-01-20,(19.)UD Las Palmas,Valencia(3.),2,1
+2017/2018,2018-01-21,(16.)Alavés,CD Leganés(13.),2,2
+2017/2018,2018-01-21,(4.)Real Madrid,Dep. La Coruña(18.),7,1
+2017/2018,2018-01-21,(15.)Real Sociedad,Celta de Vigo(11.),1,2
+2017/2018,2018-01-21,(8.)Real Betis,Barcelona(1.),0,5
+2017/2018,2018-01-22,(7.)SD Eibar,Málaga CF(20.),1,1
+2017/2018,2018-01-26,(12.)Athletic,SD Eibar(8.),1,1
+2017/2018,2018-01-27,(18.)Dep. La Coruña,Levante(17.),2,2
+2017/2018,2018-01-27,(3.)Valencia,Real Madrid(4.),1,4
+2017/2018,2018-01-27,(20.)Málaga CF,Girona(9.),0,0
+2017/2018,2018-01-27,(5.)Villarreal,Real Sociedad(15.),4,2
+2017/2018,2018-01-28,(13.)CD Leganés,Espanyol(14.),3,2
+2017/2018,2018-01-28,(2.)Atlético Madrid,UD Las Palmas(19.),3,0
+2017/2018,2018-01-28,(6.)Sevilla FC,Getafe(11.),1,1
+2017/2018,2018-01-28,(1.)Barcelona,Alavés(16.),2,1
+2017/2018,2018-01-29,(7.)Celta de Vigo,Real Betis(10.),3,2
+2017/2018,2018-02-02,(15.)Real Sociedad,Dep. La Coruña(18.),5,0
+2017/2018,2018-02-03,(8.)SD Eibar,Sevilla FC(6.),5,1
+2017/2018,2018-02-03,(13.)Real Betis,Villarreal(5.),2,1
+2017/2018,2018-02-03,(16.)Alavés,Celta de Vigo(7.),2,1
+2017/2018,2018-02-03,(17.)Levante,Real Madrid(3.),2,2
+2017/2018,2018-02-04,(10.)Getafe,CD Leganés(11.),0,0
+2017/2018,2018-02-04,(14.)Espanyol,Barcelona(1.),1,1
+2017/2018,2018-02-04,(9.)Girona,Athletic(12.),2,0
+2017/2018,2018-02-04,(2.)Atlético Madrid,Valencia(4.),1,0
+2017/2018,2018-02-05,(19.)UD Las Palmas,Málaga CF(20.),1,0
+2017/2018,2018-02-09,(13.)Athletic,UD Las Palmas(19.),0,0
+2017/2018,2018-02-10,(5.)Villarreal,Alavés(16.),1,2
+2017/2018,2018-02-10,(20.)Málaga CF,Atlético Madrid(2.),0,1
+2017/2018,2018-02-10,(12.)CD Leganés,SD Eibar(7.),0,1
+2017/2018,2018-02-10,(3.)Real Madrid,Real Sociedad(14.),5,2
+2017/2018,2018-02-11,(6.)Sevilla FC,Girona(9.),1,0
+2017/2018,2018-02-11,(1.)Barcelona,Getafe(11.),0,0
+2017/2018,2018-02-11,(8.)Celta de Vigo,Espanyol(15.),2,2
+2017/2018,2018-02-11,(4.)Valencia,Levante(17.),3,1
+2017/2018,2018-02-12,(18.)Dep. La Coruña,Real Betis(10.),0,1
+2017/2018,2018-02-16,(10.)Girona,CD Leganés(12.),3,0
+2017/2018,2018-02-17,(18.)UD Las Palmas,Sevilla FC(6.),1,2
+2017/2018,2018-02-17,(7.)SD Eibar,Barcelona(1.),0,2
+2017/2018,2018-02-17,(16.)Alavés,Dep. La Coruña(19.),1,0
+2017/2018,2018-02-17,(20.)Málaga CF,Valencia(4.),1,2
+2017/2018,2018-02-18,(14.)Real Sociedad,Levante(17.),3,0
+2017/2018,2018-02-18,(2.)Atlético Madrid,Athletic(13.),2,0
+2017/2018,2018-02-18,(15.)Espanyol,Villarreal(5.),1,1
+2017/2018,2018-02-18,(8.)Real Betis,Real Madrid(3.),3,5
+2017/2018,2018-02-19,(11.)Getafe,Celta de Vigo(9.),3,0
+2017/2018,2018-02-23,(19.)Dep. La Coruña,Espanyol(16.),0,0
+2017/2018,2018-02-24,(11.)Celta de Vigo,SD Eibar(7.),2,0
+2017/2018,2018-02-24,(3.)Real Madrid,Alavés(15.),4,0
+2017/2018,2018-02-24,(12.)CD Leganés,UD Las Palmas(18.),0,0
+2017/2018,2018-02-24,(1.)Barcelona,Girona(8.),6,1
+2017/2018,2018-02-25,(6.)Villarreal,Getafe(9.),1,0
+2017/2018,2018-02-25,(14.)Athletic,Málaga CF(20.),2,1
+2017/2018,2018-02-25,(4.)Valencia,Real Sociedad(13.),2,1
+2017/2018,2018-02-25,(5.)Sevilla FC,Atlético Madrid(2.),2,5
+2017/2018,2018-02-26,(17.)Levante,Real Betis(10.),0,2
+2017/2018,2018-02-27,(16.)Espanyol,Real Madrid(3.),1,0
+2017/2018,2018-02-27,(10.)Girona,Celta de Vigo(8.),1,0
+2017/2018,2018-02-28,(12.)Athletic,Valencia(4.),1,1
+2017/2018,2018-02-28,(20.)Málaga CF,Sevilla FC(6.),0,1
+2017/2018,2018-02-28,(11.)Getafe,Dep. La Coruña(19.),3,0
+2017/2018,2018-02-28,(2.)Atlético Madrid,CD Leganés(13.),4,0
+2017/2018,2018-02-28,(9.)SD Eibar,Villarreal(5.),1,0
+2017/2018,2018-03-01,(7.)Real Betis,Real Sociedad(14.),0,0
+2017/2018,2018-03-01,(18.)UD Las Palmas,Barcelona(1.),1,1
+2017/2018,2018-03-01,(15.)Alavés,Levante(17.),1,0
+2017/2018,2018-03-03,(6.)Villarreal,Girona(8.),0,2
+2017/2018,2018-03-03,(5.)Sevilla FC,Athletic(12.),2,0
+2017/2018,2018-03-03,(15.)CD Leganés,Málaga CF(20.),2,0
+2017/2018,2018-03-03,(19.)Dep. La Coruña,SD Eibar(7.),1,1
+2017/2018,2018-03-03,(3.)Real Madrid,Getafe(10.),3,1
+2017/2018,2018-03-04,(17.)Levante,Espanyol(14.),1,1
+2017/2018,2018-03-04,(1.)Barcelona,Atlético Madrid(2.),1,0
+2017/2018,2018-03-04,(16.)Real Sociedad,Alavés(13.),2,1
+2017/2018,2018-03-04,(4.)Valencia,Real Betis(9.),2,0
+2017/2018,2018-03-05,(11.)Celta de Vigo,UD Las Palmas(18.),2,1
+2017/2018,2018-03-09,(7.)Girona,Dep. La Coruña(19.),2,0
+2017/2018,2018-03-10,(8.)SD Eibar,Real Madrid(3.),1,2
+2017/2018,2018-03-10,(5.)Sevilla FC,Valencia(4.),0,2
+2017/2018,2018-03-10,(11.)Getafe,Levante(17.),0,1
+2017/2018,2018-03-10,(20.)Málaga CF,Barcelona(1.),0,2
+2017/2018,2018-03-11,(15.)Espanyol,Real Sociedad(13.),2,1
+2017/2018,2018-03-11,(2.)Atlético Madrid,Celta de Vigo(9.),3,0
+2017/2018,2018-03-11,(18.)UD Las Palmas,Villarreal(6.),0,2
+2017/2018,2018-03-11,(14.)Athletic,CD Leganés(12.),2,0
+2017/2018,2018-03-12,(16.)Alavés,Real Betis(10.),1,3
+2017/2018,2018-03-16,(17.)Levante,SD Eibar(9.),2,1
+2017/2018,2018-03-17,(19.)Dep. La Coruña,UD Las Palmas(18.),1,1
+2017/2018,2018-03-17,(4.)Valencia,Alavés(16.),3,1
+2017/2018,2018-03-17,(15.)Real Sociedad,Getafe(11.),1,2
+2017/2018,2018-03-17,(8.)Real Betis,Espanyol(13.),3,0
+2017/2018,2018-03-18,(14.)CD Leganés,Sevilla FC(5.),2,1
+2017/2018,2018-03-18,(1.)Barcelona,Athletic(12.),2,0
+2017/2018,2018-03-18,(10.)Celta de Vigo,Málaga CF(20.),0,0
+2017/2018,2018-03-18,(6.)Villarreal,Atlético Madrid(2.),2,1
+2017/2018,2018-03-18,(3.)Real Madrid,Girona(7.),6,3
+2017/2018,2018-03-31,(7.)Girona,Levante(17.),1,1
+2017/2018,2018-03-31,(13.)Athletic,Celta de Vigo(9.),1,1
+2017/2018,2018-03-31,(18.)UD Las Palmas,Real Madrid(3.),0,3
+2017/2018,2018-03-31,(6.)Sevilla FC,Barcelona(1.),2,2
+2017/2018,2018-04-01,(14.)Espanyol,Alavés(16.),0,0
+2017/2018,2018-04-01,(12.)CD Leganés,Valencia(4.),0,1
+2017/2018,2018-04-01,(11.)SD Eibar,Real Sociedad(15.),0,0
+2017/2018,2018-04-01,(20.)Málaga CF,Villarreal(5.),1,0
+2017/2018,2018-04-01,(2.)Atlético Madrid,Dep. La Coruña(19.),1,0
+2017/2018,2018-04-02,(10.)Getafe,Real Betis(8.),0,1
+2017/2018,2018-04-06,(19.)Dep. La Coruña,Málaga CF(20.),3,2
+2017/2018,2018-04-07,(16.)Alavés,Getafe(11.),2,0
+2017/2018,2018-04-07,(9.)Celta de Vigo,Sevilla FC(7.),4,0
+2017/2018,2018-04-07,(6.)Real Betis,SD Eibar(10.),2,0
+2017/2018,2018-04-07,(1.)Barcelona,CD Leganés(12.),3,1
+2017/2018,2018-04-08,(17.)Levante,UD Las Palmas(18.),2,1
+2017/2018,2018-04-08,(3.)Real Madrid,Atlético Madrid(2.),1,1
+2017/2018,2018-04-08,(15.)Real Sociedad,Girona(8.),5,0
+2017/2018,2018-04-08,(4.)Valencia,Espanyol(14.),1,0
+2017/2018,2018-04-09,(5.)Villarreal,Athletic(13.),1,3
+2017/2018,2018-04-13,(8.)Girona,Real Betis(5.),0,1
+2017/2018,2018-04-14,(7.)Sevilla FC,Villarreal(6.),2,2
+2017/2018,2018-04-14,(1.)Barcelona,Valencia(3.),2,1
+2017/2018,2018-04-14,(19.)UD Las Palmas,Real Sociedad(13.),0,1
+2017/2018,2018-04-14,(14.)CD Leganés,Celta de Vigo(9.),1,0
+2017/2018,2018-04-14,(12.)Athletic,Dep. La Coruña(18.),2,3
+2017/2018,2018-04-15,(10.)SD Eibar,Alavés(16.),0,1
+2017/2018,2018-04-15,(2.)Atlético Madrid,Levante(17.),3,0
+2017/2018,2018-04-15,(11.)Getafe,Espanyol(15.),1,0
+2017/2018,2018-04-15,(20.)Málaga CF,Real Madrid(4.),1,2
+2017/2018,2018-04-17,(18.)Dep. La Coruña,Sevilla FC(7.),0,0
+2017/2018,2018-04-17,(9.)Celta de Vigo,Barcelona(1.),2,2
+2017/2018,2018-04-17,(6.)Villarreal,CD Leganés(14.),2,1
+2017/2018,2018-04-18,(16.)Espanyol,SD Eibar(12.),0,1
+2017/2018,2018-04-18,(4.)Valencia,Getafe(10.),1,2
+2017/2018,2018-04-18,(3.)Real Madrid,Athletic(13.),1,1
+2017/2018,2018-04-19,(15.)Alavés,Girona(8.),1,2
+2017/2018,2018-04-19,(11.)Real Sociedad,Atlético Madrid(2.),3,0
+2017/2018,2018-04-19,(5.)Real Betis,UD Las Palmas(19.),1,0
+2017/2018,2018-04-19,(17.)Levante,Málaga CF(20.),1,0
+2017/2018,2018-04-20,(14.)CD Leganés,Dep. La Coruña(18.),0,0
+2017/2018,2018-04-21,(12.)SD Eibar,Getafe(9.),0,1
+2017/2018,2018-04-21,(10.)Celta de Vigo,Valencia(4.),1,1
+2017/2018,2018-04-22,(8.)Girona,Espanyol(16.),0,2
+2017/2018,2018-04-22,(20.)Málaga CF,Real Sociedad(11.),2,0
+2017/2018,2018-04-22,(19.)UD Las Palmas,Alavés(15.),0,4
+2017/2018,2018-04-22,(2.)Atlético Madrid,Real Betis(5.),0,0
+2017/2018,2018-04-23,(13.)Athletic,Levante(17.),1,3
+2017/2018,2018-05-09,(1.)Barcelona,Villarreal(6.),5,1
+2017/2018,2018-05-09,(7.)Sevilla FC,Real Madrid(3.),3,2
+2017/2018,2018-04-27,(17.)Levante,Sevilla FC(6.),2,1
+2017/2018,2018-04-28,(16.)Espanyol,UD Las Palmas(19.),1,1
+2017/2018,2018-04-28,(11.)Real Sociedad,Athletic(14.),3,1
+2017/2018,2018-04-28,(3.)Real Madrid,CD Leganés(15.),2,1
+2017/2018,2018-04-28,(7.)Villarreal,Celta de Vigo(10.),4,1
+2017/2018,2018-04-29,(8.)Getafe,Girona(9.),1,1
+2017/2018,2018-04-29,(13.)Alavés,Atlético Madrid(2.),0,1
+2017/2018,2018-04-29,(4.)Valencia,SD Eibar(12.),0,0
+2017/2018,2018-04-29,(18.)Dep. La Coruña,Barcelona(1.),2,4
+2017/2018,2018-04-30,(5.)Real Betis,Málaga CF(20.),2,1
+2017/2018,2018-05-04,(7.)Sevilla FC,Real Sociedad(10.),1,0
+2017/2018,2018-05-05,(9.)Girona,SD Eibar(12.),1,4
+2017/2018,2018-05-05,(15.)Athletic,Real Betis(5.),2,0
+2017/2018,2018-05-05,(11.)Celta de Vigo,Dep. La Coruña(18.),1,1
+2017/2018,2018-05-05,(6.)Villarreal,Valencia(4.),1,0
+2017/2018,2018-05-06,(20.)Málaga CF,Alavés(13.),0,3
+2017/2018,2018-05-06,(2.)Atlético Madrid,Espanyol(17.),0,2
+2017/2018,2018-05-06,(19.)UD Las Palmas,Getafe(8.),0,1
+2017/2018,2018-05-06,(1.)Barcelona,Real Madrid(3.),2,2
+2017/2018,2018-05-07,(14.)CD Leganés,Levante(16.),0,3
+2017/2018,2018-05-12,(11.)Real Sociedad,CD Leganés(17.),3,2
+2017/2018,2018-05-12,(13.)Alavés,Athletic(15.),3,1
+2017/2018,2018-05-12,(18.)Dep. La Coruña,Villarreal(6.),2,4
+2017/2018,2018-05-12,(8.)Getafe,Atlético Madrid(2.),0,1
+2017/2018,2018-05-12,(9.)Girona,Valencia(4.),0,1
+2017/2018,2018-05-12,(10.)SD Eibar,UD Las Palmas(19.),1,0
+2017/2018,2018-05-12,(5.)Real Betis,Sevilla FC(7.),2,2
+2017/2018,2018-05-12,(3.)Real Madrid,Celta de Vigo(12.),6,0
+2017/2018,2018-05-13,(16.)Espanyol,Málaga CF(20.),4,1
+2017/2018,2018-05-13,(14.)Levante,Barcelona(1.),5,4
+2017/2018,2018-05-19,(14.)Celta de Vigo,Levante(15.),4,2
+2017/2018,2018-05-19,(17.)CD Leganés,Real Betis(6.),3,2
+2017/2018,2018-05-19,(7.)Sevilla FC,Alavés(12.),1,0
+2017/2018,2018-05-19,(19.)UD Las Palmas,Girona(11.),1,2
+2017/2018,2018-05-19,(20.)Málaga CF,Getafe(8.),0,1
+2017/2018,2018-05-19,(5.)Villarreal,Real Madrid(3.),2,2
+2017/2018,2018-05-20,(4.)Valencia,Dep. La Coruña(18.),2,1
+2017/2018,2018-05-20,(16.)Athletic,Espanyol(13.),0,1
+2017/2018,2018-05-20,(2.)Atlético Madrid,SD Eibar(9.),2,2
+2017/2018,2018-05-20,(1.)Barcelona,Real Sociedad(10.),1,0
+2018/2019,2018-08-17,Girona,Real Valladolid,0,0
+2018/2019,2018-08-17,Real Betis,Levante,0,3
+2018/2019,2018-08-18,Celta de Vigo,Espanyol,1,1
+2018/2019,2018-08-18,Villarreal,Real Sociedad,1,2
+2018/2019,2018-08-18,Barcelona,Alavés,3,0
+2018/2019,2018-08-19,SD Eibar,SD Huesca,1,2
+2018/2019,2018-08-19,Rayo Vallecano,Sevilla FC,1,4
+2018/2019,2018-08-19,Real Madrid,Getafe,2,0
+2018/2019,2018-08-20,Valencia,Atlético Madrid,1,1
+2018/2019,2018-08-20,Athletic,CD Leganés,2,1
+2018/2019,2018-08-24,(17.)Getafe,SD Eibar(15.),2,0
+2018/2019,2018-08-24,(14.)CD Leganés,Real Sociedad(6.),2,2
+2018/2019,2018-08-25,(19.)Alavés,Real Betis(20.),0,0
+2018/2019,2018-08-25,(8.)Atlético Madrid,Rayo Vallecano(18.),1,0
+2018/2019,2018-08-25,(13.)Real Valladolid,Barcelona(2.),0,1
+2018/2019,2018-08-26,(10.)Espanyol,Valencia(11.),2,0
+2018/2019,2018-08-26,(12.)Girona,Real Madrid(4.),1,4
+2018/2019,2018-08-26,(1.)Sevilla FC,Villarreal(16.),0,0
+2018/2019,2018-08-27,(3.)Levante,Celta de Vigo(9.),1,2
+2018/2019,2018-08-27,(5.)Athletic,SD Huesca(7.),2,2
+2018/2019,2018-08-31,(11.)Getafe,Real Valladolid(12.),0,0
+2018/2019,2018-08-31,(19.)SD Eibar,Real Sociedad(8.),2,1
+2018/2019,2018-08-31,(17.)Villarreal,Girona(13.),0,1
+2018/2019,2018-09-01,(6.)Celta de Vigo,Atlético Madrid(9.),2,0
+2018/2019,2018-09-01,(1.)Real Madrid,CD Leganés(16.),4,1
+2018/2019,2018-09-02,(10.)Levante,Valencia(18.),2,2
+2018/2019,2018-09-02,(14.)Alavés,Espanyol(3.),2,1
+2018/2019,2018-09-02,(2.)Barcelona,SD Huesca(5.),8,2
+2018/2019,2018-09-02,(15.)Real Betis,Sevilla FC(7.),1,0
+2018/2019,2018-10-24,(20.)Rayo Vallecano,Athletic(4.),1,1
+2018/2019,2018-09-14,(14.)SD Huesca,Rayo Vallecano(20.),0,1
+2018/2019,2018-09-15,(12.)Atlético Madrid,SD Eibar(15.),1,1
+2018/2019,2018-09-15,(10.)Real Sociedad,Barcelona(1.),1,2
+2018/2019,2018-09-15,(17.)Valencia,Real Betis(6.),0,0
+2018/2019,2018-09-15,(4.)Athletic,Real Madrid(2.),1,1
+2018/2019,2018-09-16,(19.)CD Leganés,Villarreal(18.),0,1
+2018/2019,2018-09-16,(9.)Espanyol,Levante(7.),1,0
+2018/2019,2018-09-16,(16.)Real Valladolid,Alavés(5.),0,1
+2018/2019,2018-09-16,(8.)Sevilla FC,Getafe(11.),0,2
+2018/2019,2018-09-17,(13.)Girona,Celta de Vigo(3.),3,2
+2018/2019,2018-09-21,(15.)SD Huesca,Real Sociedad(12.),0,1
+2018/2019,2018-09-22,(14.)Rayo Vallecano,Alavés(4.),1,5
+2018/2019,2018-09-22,(5.)Celta de Vigo,Real Valladolid(19.),3,3
+2018/2019,2018-09-22,(13.)SD Eibar,CD Leganés(20.),1,0
+2018/2019,2018-09-22,(7.)Getafe,Atlético Madrid(9.),0,2
+2018/2019,2018-09-22,(2.)Real Madrid,Espanyol(6.),1,0
+2018/2019,2018-09-23,(17.)Levante,Sevilla FC(11.),2,6
+2018/2019,2018-09-23,(16.)Villarreal,Valencia(18.),0,0
+2018/2019,2018-09-23,(10.)Real Betis,Athletic(8.),2,2
+2018/2019,2018-09-23,(1.)Barcelona,Girona(3.),2,2
+2018/2019,2018-09-25,(11.)Espanyol,SD Eibar(8.),1,0
+2018/2019,2018-09-25,(12.)Real Sociedad,Rayo Vallecano(15.),2,2
+2018/2019,2018-09-25,(6.)Atlético Madrid,SD Huesca(18.),3,0
+2018/2019,2018-09-26,(10.)Athletic,Villarreal(14.),0,3
+2018/2019,2018-09-26,(20.)CD Leganés,Barcelona(1.),2,1
+2018/2019,2018-09-26,(16.)Valencia,Celta de Vigo(4.),1,1
+2018/2019,2018-09-26,(9.)Sevilla FC,Real Madrid(2.),3,0
+2018/2019,2018-09-27,(3.)Alavés,Getafe(7.),1,1
+2018/2019,2018-09-27,(19.)Real Valladolid,Levante(17.),2,1
+2018/2019,2018-09-27,(5.)Girona,Real Betis(13.),0,1
+2018/2019,2018-09-28,(17.)Rayo Vallecano,Espanyol(6.),2,2
+2018/2019,2018-09-29,(9.)Real Sociedad,Valencia(16.),0,1
+2018/2019,2018-09-29,(1.)Barcelona,Athletic(13.),1,1
+2018/2019,2018-09-29,(14.)SD Eibar,Sevilla FC(5.),1,3
+2018/2019,2018-09-29,(2.)Real Madrid,Atlético Madrid(3.),0,0
+2018/2019,2018-09-30,(20.)SD Huesca,Girona(10.),1,1
+2018/2019,2018-09-30,(11.)Villarreal,Real Valladolid(15.),0,1
+2018/2019,2018-09-30,(18.)Levante,Alavés(4.),2,1
+2018/2019,2018-09-30,(8.)Real Betis,CD Leganés(19.),1,0
+2018/2019,2018-10-01,(7.)Celta de Vigo,Getafe(12.),1,1
+2018/2019,2018-10-05,(15.)Athletic,Real Sociedad(14.),1,3
+2018/2019,2018-10-06,(11.)Girona,SD Eibar(17.),2,3
+2018/2019,2018-10-06,(10.)Getafe,Levante(16.),0,1
+2018/2019,2018-10-06,(6.)Alavés,Real Madrid(2.),1,0
+2018/2019,2018-10-06,(20.)CD Leganés,Rayo Vallecano(18.),1,0
+2018/2019,2018-10-07,(9.)Real Valladolid,SD Huesca(19.),1,0
+2018/2019,2018-10-07,(4.)Atlético Madrid,Real Betis(5.),1,0
+2018/2019,2018-10-07,(7.)Espanyol,Villarreal(12.),3,1
+2018/2019,2018-10-07,(3.)Sevilla FC,Celta de Vigo(8.),2,1
+2018/2019,2018-10-07,(13.)Valencia,Barcelona(1.),1,1
+2018/2019,2018-10-19,(10.)Celta de Vigo,Alavés(4.),0,1
+2018/2019,2018-10-20,(5.)Real Madrid,Levante(11.),1,2
+2018/2019,2018-10-20,(14.)Valencia,CD Leganés(18.),1,1
+2018/2019,2018-10-20,(16.)Villarreal,Atlético Madrid(3.),1,1
+2018/2019,2018-10-20,(2.)Barcelona,Sevilla FC(1.),4,2
+2018/2019,2018-10-21,(19.)Rayo Vallecano,Getafe(13.),1,2
+2018/2019,2018-10-21,(12.)SD Eibar,Athletic(17.),1,1
+2018/2019,2018-10-21,(20.)SD Huesca,Espanyol(6.),0,2
+2018/2019,2018-10-21,(8.)Real Betis,Real Valladolid(7.),0,1
+2018/2019,2018-10-22,(9.)Real Sociedad,Girona(15.),0,0
+2018/2019,2018-10-26,(6.)Real Valladolid,Espanyol(3.),1,1
+2018/2019,2018-10-27,(13.)Girona,Rayo Vallecano(19.),2,1
+2018/2019,2018-10-27,(17.)Athletic,Valencia(15.),0,0
+2018/2019,2018-10-27,(14.)Celta de Vigo,SD Eibar(12.),4,0
+2018/2019,2018-10-27,(8.)Levante,CD Leganés(18.),2,0
+2018/2019,2018-10-27,(5.)Atlético Madrid,Real Sociedad(9.),2,0
+2018/2019,2018-10-28,(10.)Getafe,Real Betis(11.),2,0
+2018/2019,2018-10-28,(1.)Barcelona,Real Madrid(7.),5,1
+2018/2019,2018-10-28,(2.)Alavés,Villarreal(16.),2,1
+2018/2019,2018-10-28,(4.)Sevilla FC,SD Huesca(20.),2,1
+2018/2019,2018-11-03,(18.)CD Leganés,Atlético Madrid(4.),1,1
+2018/2019,2018-11-03,(9.)Real Madrid,Real Valladolid(6.),2,0
+2018/2019,2018-11-03,(14.)Valencia,Girona(10.),0,1
+2018/2019,2018-11-03,(19.)Rayo Vallecano,Barcelona(1.),2,3
+2018/2019,2018-11-04,(15.)SD Eibar,Alavés(2.),2,1
+2018/2019,2018-11-04,(17.)Villarreal,Levante(7.),1,1
+2018/2019,2018-11-04,(12.)Real Sociedad,Sevilla FC(3.),0,0
+2018/2019,2018-11-04,(20.)SD Huesca,Getafe(8.),1,1
+2018/2019,2018-11-04,(13.)Real Betis,Celta de Vigo(11.),3,3
+2018/2019,2018-11-05,(5.)Espanyol,Athletic(16.),1,0
+2018/2019,2018-11-09,(6.)Levante,Real Sociedad(13.),1,3
+2018/2019,2018-11-10,(8.)Real Valladolid,SD Eibar(12.),0,0
+2018/2019,2018-11-10,(9.)Getafe,Valencia(15.),0,1
+2018/2019,2018-11-10,(4.)Atlético Madrid,Athletic(17.),3,2
+2018/2019,2018-11-10,(10.)Girona,CD Leganés(18.),0,0
+2018/2019,2018-11-11,(5.)Alavés,SD Huesca(20.),2,1
+2018/2019,2018-11-11,(1.)Barcelona,Real Betis(14.),3,4
+2018/2019,2018-11-11,(19.)Rayo Vallecano,Villarreal(16.),2,2
+2018/2019,2018-11-11,(3.)Sevilla FC,Espanyol(2.),2,1
+2018/2019,2018-11-11,(11.)Celta de Vigo,Real Madrid(7.),2,4
+2018/2019,2018-11-23,(18.)CD Leganés,Alavés(4.),1,0
+2018/2019,2018-11-24,(13.)SD Eibar,Real Madrid(6.),3,0
+2018/2019,2018-11-24,(15.)Valencia,Rayo Vallecano(19.),3,0
+2018/2019,2018-11-24,(20.)SD Huesca,Levante(9.),2,2
+2018/2019,2018-11-24,(3.)Atlético Madrid,Barcelona(1.),1,1
+2018/2019,2018-11-25,(17.)Athletic,Getafe(10.),1,1
+2018/2019,2018-11-25,(2.)Sevilla FC,Real Valladolid(7.),1,0
+2018/2019,2018-11-25,(5.)Espanyol,Girona(8.),1,3
+2018/2019,2018-11-25,(16.)Villarreal,Real Betis(12.),2,1
+2018/2019,2018-11-26,(11.)Real Sociedad,Celta de Vigo(14.),2,1
+2018/2019,2018-11-30,(19.)Rayo Vallecano,SD Eibar(10.),1,0
+2018/2019,2018-12-01,(15.)Celta de Vigo,SD Huesca(20.),2,0
+2018/2019,2018-12-01,(13.)Real Valladolid,CD Leganés(17.),2,4
+2018/2019,2018-12-01,(12.)Getafe,Espanyol(5.),3,0
+2018/2019,2018-12-01,(6.)Real Madrid,Valencia(11.),2,0
+2018/2019,2018-12-02,(14.)Real Betis,Real Sociedad(8.),1,0
+2018/2019,2018-12-02,(7.)Girona,Atlético Madrid(3.),1,1
+2018/2019,2018-12-02,(2.)Barcelona,Villarreal(16.),2,0
+2018/2019,2018-12-02,(4.)Alavés,Sevilla FC(1.),1,1
+2018/2019,2018-12-03,(9.)Levante,Athletic(18.),3,0
+2018/2019,2018-12-07,(16.)CD Leganés,Getafe(9.),1,1
+2018/2019,2018-12-08,(3.)Atlético Madrid,Alavés(4.),3,0
+2018/2019,2018-12-08,(14.)Valencia,Sevilla FC(2.),1,1
+2018/2019,2018-12-08,(17.)Villarreal,Celta de Vigo(13.),2,3
+2018/2019,2018-12-08,(7.)Espanyol,Barcelona(1.),0,4
+2018/2019,2018-12-09,(12.)SD Eibar,Levante(8.),4,4
+2018/2019,2018-12-09,(20.)SD Huesca,Real Madrid(5.),0,1
+2018/2019,2018-12-09,(11.)Real Sociedad,Real Valladolid(15.),1,2
+2018/2019,2018-12-09,(10.)Real Betis,Rayo Vallecano(19.),2,0
+2018/2019,2018-12-10,(18.)Athletic,Girona(6.),1,0
+2018/2019,2018-12-14,(11.)Celta de Vigo,CD Leganés(16.),0,0
+2018/2019,2018-12-15,(8.)Getafe,Real Sociedad(14.),1,0
+2018/2019,2018-12-15,(12.)Real Valladolid,Atlético Madrid(3.),2,3
+2018/2019,2018-12-15,(4.)Real Madrid,Rayo Vallecano(19.),1,0
+2018/2019,2018-12-15,(13.)SD Eibar,Valencia(15.),1,1
+2018/2019,2018-12-16,(2.)Sevilla FC,Girona(9.),2,0
+2018/2019,2018-12-16,(10.)Espanyol,Real Betis(7.),1,3
+2018/2019,2018-12-16,(20.)SD Huesca,Villarreal(17.),2,2
+2018/2019,2018-12-16,(6.)Levante,Barcelona(1.),0,5
+2018/2019,2018-12-17,(5.)Alavés,Athletic(18.),0,0
+2018/2019,2018-12-21,(9.)Girona,Getafe(7.),1,1
+2018/2019,2018-12-21,(15.)Real Sociedad,Alavés(6.),0,1
+2018/2019,2018-12-22,(5.)Real Betis,SD Eibar(13.),1,1
+2018/2019,2018-12-22,(3.)Atlético Madrid,Espanyol(11.),1,0
+2018/2019,2018-12-22,(1.)Barcelona,Celta de Vigo(10.),2,0
+2018/2019,2018-12-22,(18.)Athletic,Real Valladolid(12.),1,1
+2018/2019,2018-12-23,(14.)Valencia,SD Huesca(20.),2,1
+2018/2019,2018-12-23,(16.)CD Leganés,Sevilla FC(2.),1,1
+2018/2019,2018-12-23,(19.)Rayo Vallecano,Levante(8.),2,1
+2018/2019,2019-01-03,(17.)Villarreal,Real Madrid(4.),2,2
+2018/2019,2019-01-04,(10.)Levante,Girona(8.),2,2
+2018/2019,2019-01-04,(12.)Espanyol,CD Leganés(16.),1,0
+2018/2019,2019-01-05,(13.)Real Valladolid,Rayo Vallecano(19.),0,1
+2018/2019,2019-01-05,(5.)Alavés,Valencia(9.),2,1
+2018/2019,2019-01-05,(20.)SD Huesca,Real Betis(6.),2,1
+2018/2019,2019-01-06,(14.)SD Eibar,Villarreal(17.),0,0
+2018/2019,2019-01-06,(3.)Sevilla FC,Atlético Madrid(2.),1,1
+2018/2019,2019-01-06,(4.)Real Madrid,Real Sociedad(15.),0,2
+2018/2019,2019-01-06,(7.)Getafe,Barcelona(1.),1,2
+2018/2019,2019-01-07,(11.)Celta de Vigo,Athletic(18.),1,2
+2018/2019,2019-01-11,(19.)Rayo Vallecano,Celta de Vigo(14.),4,2
+2018/2019,2019-01-12,(17.)CD Leganés,SD Huesca(20.),1,0
+2018/2019,2019-01-12,(11.)Valencia,Real Valladolid(15.),1,1
+2018/2019,2019-01-12,(9.)Girona,Alavés(4.),1,1
+2018/2019,2019-01-12,(18.)Villarreal,Getafe(7.),1,2
+2018/2019,2019-01-13,(2.)Atlético Madrid,Levante(10.),1,0
+2018/2019,2019-01-13,(16.)Athletic,Sevilla FC(3.),2,0
+2018/2019,2019-01-13,(1.)Barcelona,SD Eibar(12.),3,0
+2018/2019,2019-01-13,(6.)Real Betis,Real Madrid(5.),1,2
+2018/2019,2019-01-14,(13.)Real Sociedad,Espanyol(8.),3,2
+2018/2019,2019-01-18,(6.)Getafe,Alavés(5.),4,0
+2018/2019,2019-01-19,(4.)Real Madrid,Sevilla FC(3.),2,0
+2018/2019,2019-01-19,(20.)SD Huesca,Atlético Madrid(2.),0,3
+2018/2019,2019-01-19,(17.)Celta de Vigo,Valencia(11.),1,2
+2018/2019,2019-01-20,(7.)Real Betis,Girona(9.),3,2
+2018/2019,2019-01-20,(19.)Villarreal,Athletic(13.),1,1
+2018/2019,2019-01-20,(12.)Levante,Real Valladolid(16.),2,0
+2018/2019,2019-01-20,(18.)Rayo Vallecano,Real Sociedad(8.),2,2
+2018/2019,2019-01-20,(1.)Barcelona,CD Leganés(15.),3,1
+2018/2019,2019-01-21,(14.)SD Eibar,Espanyol(10.),3,0
+2018/2019,2019-01-26,(4.)Sevilla FC,Levante(10.),5,0
+2018/2019,2019-01-26,(2.)Atlético Madrid,Getafe(6.),2,0
+2018/2019,2019-01-26,(15.)CD Leganés,SD Eibar(11.),2,2
+2018/2019,2019-01-26,(8.)Valencia,Villarreal(19.),3,0
+2018/2019,2019-01-27,(16.)Real Valladolid,Celta de Vigo(17.),2,1
+2018/2019,2019-01-27,(12.)Girona,Barcelona(1.),0,2
+2018/2019,2019-01-27,(14.)Athletic,Real Betis(7.),1,0
+2018/2019,2019-01-27,(9.)Real Sociedad,SD Huesca(20.),0,0
+2018/2019,2019-01-27,(13.)Espanyol,Real Madrid(3.),2,4
+2018/2019,2019-01-28,(5.)Alavés,Rayo Vallecano(18.),0,1
+2018/2019,2019-02-01,(20.)SD Huesca,Real Valladolid(13.),4,0
+2018/2019,2019-02-02,(10.)Levante,Getafe(6.),0,0
+2018/2019,2019-02-02,(9.)Real Sociedad,Athletic(12.),2,1
+2018/2019,2019-02-02,(1.)Barcelona,Valencia(7.),2,2
+2018/2019,2019-02-02,(18.)Celta de Vigo,Sevilla FC(4.),1,0
+2018/2019,2019-02-03,(19.)Villarreal,Espanyol(15.),2,2
+2018/2019,2019-02-03,(8.)Real Betis,Atlético Madrid(2.),1,0
+2018/2019,2019-02-03,(11.)SD Eibar,Girona(14.),3,0
+2018/2019,2019-02-03,(3.)Real Madrid,Alavés(5.),3,0
+2018/2019,2019-02-04,(17.)Rayo Vallecano,CD Leganés(16.),1,2
+2018/2019,2019-02-08,(14.)Real Valladolid,Villarreal(19.),0,0
+2018/2019,2019-02-09,(5.)Getafe,Celta de Vigo(17.),3,1
+2018/2019,2019-02-09,(2.)Atlético Madrid,Real Madrid(3.),1,3
+2018/2019,2019-02-09,(15.)Espanyol,Rayo Vallecano(18.),2,1
+2018/2019,2019-02-09,(16.)Girona,SD Huesca(20.),0,2
+2018/2019,2019-02-10,(13.)CD Leganés,Real Betis(7.),3,0
+2018/2019,2019-02-10,(8.)Valencia,Real Sociedad(9.),0,0
+2018/2019,2019-02-10,(4.)Sevilla FC,SD Eibar(10.),2,2
+2018/2019,2019-02-10,(12.)Athletic,Barcelona(1.),0,0
+2018/2019,2019-02-11,(6.)Alavés,Levante(11.),2,0
+2018/2019,2019-02-15,(10.)SD Eibar,Getafe(5.),2,2
+2018/2019,2019-02-16,(17.)Celta de Vigo,Levante(13.),1,4
+2018/2019,2019-02-16,(18.)Rayo Vallecano,Atlético Madrid(3.),0,1
+2018/2019,2019-02-16,(9.)Real Sociedad,CD Leganés(11.),3,0
+2018/2019,2019-02-16,(1.)Barcelona,Real Valladolid(15.),1,0
+2018/2019,2019-02-17,(2.)Real Madrid,Girona(16.),1,2
+2018/2019,2019-02-17,(8.)Valencia,Espanyol(12.),0,0
+2018/2019,2019-02-17,(19.)Villarreal,Sevilla FC(4.),3,0
+2018/2019,2019-02-17,(7.)Real Betis,Alavés(6.),1,1
+2018/2019,2019-02-18,(20.)SD Huesca,Athletic(14.),0,1
+2018/2019,2019-02-22,(13.)Espanyol,SD Huesca(20.),1,1
+2018/2019,2019-02-23,(5.)Getafe,Rayo Vallecano(19.),2,1
+2018/2019,2019-02-23,(4.)Sevilla FC,Barcelona(1.),2,4
+2018/2019,2019-02-23,(6.)Alavés,Celta de Vigo(17.),0,0
+2018/2019,2019-02-23,(12.)Athletic,SD Eibar(10.),1,0
+2018/2019,2019-02-24,(14.)CD Leganés,Valencia(9.),1,1
+2018/2019,2019-02-24,(2.)Atlético Madrid,Villarreal(18.),2,0
+2018/2019,2019-02-24,(16.)Real Valladolid,Real Betis(8.),0,2
+2018/2019,2019-02-24,(11.)Levante,Real Madrid(3.),1,2
+2018/2019,2019-02-25,(15.)Girona,Real Sociedad(7.),0,0
+2018/2019,2019-03-01,(19.)Rayo Vallecano,Girona(15.),0,2
+2018/2019,2019-03-02,(12.)Espanyol,Real Valladolid(16.),3,1
+2018/2019,2019-03-02,(18.)Villarreal,Alavés(6.),1,2
+2018/2019,2019-03-02,(20.)SD Huesca,Sevilla FC(5.),2,1
+2018/2019,2019-03-02,(3.)Real Madrid,Barcelona(1.),0,1
+2018/2019,2019-03-03,(11.)SD Eibar,Celta de Vigo(17.),1,0
+2018/2019,2019-03-03,(7.)Real Betis,Getafe(4.),1,2
+2018/2019,2019-03-03,(8.)Real Sociedad,Atlético Madrid(2.),0,2
+2018/2019,2019-03-03,(9.)Valencia,Athletic(10.),2,0
+2018/2019,2019-03-04,(14.)CD Leganés,Levante(13.),1,0
+2018/2019,2019-03-08,(12.)Athletic,Espanyol(11.),1,1
+2018/2019,2019-03-09,(5.)Alavés,SD Eibar(10.),1,1
+2018/2019,2019-03-09,(2.)Atlético Madrid,CD Leganés(13.),1,0
+2018/2019,2019-03-09,(1.)Barcelona,Rayo Vallecano(19.),3,1
+2018/2019,2019-03-09,(4.)Getafe,SD Huesca(20.),2,1
+2018/2019,2019-03-10,(17.)Celta de Vigo,Real Betis(8.),0,1
+2018/2019,2019-03-10,(14.)Girona,Valencia(7.),2,3
+2018/2019,2019-03-10,(15.)Levante,Villarreal(18.),0,2
+2018/2019,2019-03-10,(6.)Sevilla FC,Real Sociedad(9.),5,2
+2018/2019,2019-03-10,(16.)Real Valladolid,Real Madrid(3.),1,4
+2018/2019,2019-03-15,(10.)Real Sociedad,Levante(15.),1,1
+2018/2019,2019-03-16,(20.)SD Huesca,Alavés(5.),1,3
+2018/2019,2019-03-16,(3.)Real Madrid,Celta de Vigo(18.),2,0
+2018/2019,2019-03-16,(12.)Athletic,Atlético Madrid(2.),2,0
+2018/2019,2019-03-16,(13.)CD Leganés,Girona(14.),0,2
+2018/2019,2019-03-17,(9.)SD Eibar,Real Valladolid(16.),1,2
+2018/2019,2019-03-17,(11.)Espanyol,Sevilla FC(6.),0,1
+2018/2019,2019-03-17,(7.)Valencia,Getafe(4.),0,0
+2018/2019,2019-03-17,(17.)Villarreal,Rayo Vallecano(19.),3,1
+2018/2019,2019-03-17,(8.)Real Betis,Barcelona(1.),1,4
+2018/2019,2019-03-29,(12.)Girona,Athletic(9.),1,2
+2018/2019,2019-03-30,(4.)Getafe,CD Leganés(14.),0,2
+2018/2019,2019-03-30,(1.)Barcelona,Espanyol(13.),2,0
+2018/2019,2019-03-30,(18.)Celta de Vigo,Villarreal(17.),3,2
+2018/2019,2019-03-30,(5.)Alavés,Atlético Madrid(2.),0,4
+2018/2019,2019-03-31,(15.)Levante,SD Eibar(11.),2,2
+2018/2019,2019-03-31,(19.)Rayo Vallecano,Real Betis(8.),1,1
+2018/2019,2019-03-31,(6.)Sevilla FC,Valencia(7.),0,1
+2018/2019,2019-03-31,(16.)Real Valladolid,Real Sociedad(10.),1,1
+2018/2019,2019-03-31,(3.)Real Madrid,SD Huesca(20.),3,2
+2018/2019,2019-04-02,(2.)Atlético Madrid,Girona(13.),2,0
+2018/2019,2019-04-02,(14.)Espanyol,Getafe(4.),1,1
+2018/2019,2019-04-02,(17.)Villarreal,Barcelona(1.),4,4
+2018/2019,2019-04-03,(8.)Athletic,Levante(15.),3,2
+2018/2019,2019-04-03,(11.)SD Eibar,Rayo Vallecano(19.),2,1
+2018/2019,2019-04-03,(20.)SD Huesca,Celta de Vigo(18.),3,3
+2018/2019,2019-04-03,(6.)Valencia,Real Madrid(3.),2,1
+2018/2019,2019-04-04,(7.)Sevilla FC,Alavés(5.),2,0
+2018/2019,2019-04-04,(12.)CD Leganés,Real Valladolid(16.),1,0
+2018/2019,2019-04-04,(10.)Real Sociedad,Real Betis(9.),2,1
+2018/2019,2019-04-06,(14.)Girona,Espanyol(13.),1,2
+2018/2019,2019-04-06,(3.)Real Madrid,SD Eibar(11.),2,1
+2018/2019,2019-04-06,(19.)Rayo Vallecano,Valencia(5.),2,0
+2018/2019,2019-04-06,(1.)Barcelona,Atlético Madrid(2.),2,0
+2018/2019,2019-04-07,(7.)Alavés,CD Leganés(12.),1,1
+2018/2019,2019-04-07,(4.)Getafe,Athletic(8.),1,0
+2018/2019,2019-04-07,(16.)Real Valladolid,Sevilla FC(6.),0,2
+2018/2019,2019-04-07,(18.)Celta de Vigo,Real Sociedad(9.),3,1
+2018/2019,2019-04-07,(15.)Levante,SD Huesca(20.),2,2
+2018/2019,2019-04-07,(10.)Real Betis,Villarreal(17.),2,1
+2018/2019,2019-04-13,(13.)Espanyol,Alavés(7.),2,1
+2018/2019,2019-04-13,(20.)SD Huesca,Barcelona(1.),0,0
+2018/2019,2019-04-13,(2.)Atlético Madrid,Celta de Vigo(16.),2,0
+2018/2019,2019-04-13,(5.)Sevilla FC,Real Betis(9.),3,2
+2018/2019,2019-04-14,(17.)Real Valladolid,Getafe(4.),2,2
+2018/2019,2019-04-14,(8.)Athletic,Rayo Vallecano(19.),3,2
+2018/2019,2019-04-14,(10.)Real Sociedad,SD Eibar(12.),1,1
+2018/2019,2019-04-14,(14.)Girona,Villarreal(18.),0,1
+2018/2019,2019-04-14,(6.)Valencia,Levante(15.),3,1
+2018/2019,2019-04-15,(11.)CD Leganés,Real Madrid(3.),1,1
+2018/2019,2019-04-19,(8.)Alavés,Real Valladolid(18.),2,2
+2018/2019,2019-04-20,(17.)Celta de Vigo,Girona(14.),2,1
+2018/2019,2019-04-20,(13.)SD Eibar,Atlético Madrid(2.),0,1
+2018/2019,2019-04-20,(19.)Rayo Vallecano,SD Huesca(20.),0,0
+2018/2019,2019-04-20,(1.)Barcelona,Real Sociedad(10.),2,1
+2018/2019,2019-04-21,(16.)Levante,Espanyol(11.),2,2
+2018/2019,2019-04-21,(5.)Getafe,Sevilla FC(4.),3,0
+2018/2019,2019-04-21,(3.)Real Madrid,Athletic(7.),3,0
+2018/2019,2019-04-21,(15.)Villarreal,CD Leganés(12.),2,1
+2018/2019,2019-04-21,(9.)Real Betis,Valencia(6.),1,2
+2018/2019,2019-04-23,(20.)SD Huesca,SD Eibar(13.),2,0
+2018/2019,2019-04-23,(18.)Real Valladolid,Girona(16.),1,0
+2018/2019,2019-04-23,(8.)Alavés,Barcelona(1.),0,2
+2018/2019,2019-04-24,(2.)Atlético Madrid,Valencia(5.),3,2
+2018/2019,2019-04-24,(12.)CD Leganés,Athletic(7.),0,1
+2018/2019,2019-04-24,(10.)Espanyol,Celta de Vigo(15.),1,1
+2018/2019,2019-04-24,(17.)Levante,Real Betis(9.),4,0
+2018/2019,2019-04-25,(6.)Sevilla FC,Rayo Vallecano(19.),5,0
+2018/2019,2019-04-25,(11.)Real Sociedad,Villarreal(14.),0,1
+2018/2019,2019-04-25,(4.)Getafe,Real Madrid(3.),0,0
+2018/2019,2019-04-27,(7.)Athletic,Alavés(8.),1,1
+2018/2019,2019-04-27,(2.)Atlético Madrid,Real Valladolid(17.),1,0
+2018/2019,2019-04-27,(12.)CD Leganés,Celta de Vigo(16.),0,0
+2018/2019,2019-04-27,(1.)Barcelona,Levante(15.),1,0
+2018/2019,2019-04-28,(6.)Valencia,SD Eibar(13.),0,1
+2018/2019,2019-04-28,(18.)Girona,Sevilla FC(5.),1,0
+2018/2019,2019-04-28,(11.)Real Sociedad,Getafe(4.),2,1
+2018/2019,2019-04-28,(14.)Villarreal,SD Huesca(19.),1,1
+2018/2019,2019-04-28,(20.)Rayo Vallecano,Real Madrid(3.),1,0
+2018/2019,2019-04-29,(9.)Real Betis,Espanyol(10.),1,1
+2018/2019,2019-05-03,(5.)Sevilla FC,CD Leganés(13.),0,3
+2018/2019,2019-05-04,(16.)Levante,Rayo Vallecano(19.),4,1
+2018/2019,2019-05-04,(11.)Espanyol,Atlético Madrid(2.),3,0
+2018/2019,2019-05-04,(8.)Alavés,Real Sociedad(10.),0,1
+2018/2019,2019-05-04,(15.)Celta de Vigo,Barcelona(1.),2,0
+2018/2019,2019-05-05,(4.)Getafe,Girona(17.),2,0
+2018/2019,2019-05-05,(12.)SD Eibar,Real Betis(9.),1,0
+2018/2019,2019-05-05,(3.)Real Madrid,Villarreal(14.),3,2
+2018/2019,2019-05-05,(18.)Real Valladolid,Athletic(7.),1,0
+2018/2019,2019-05-05,(20.)SD Huesca,Valencia(6.),2,6
+2018/2019,2019-05-12,(7.)Athletic,Celta de Vigo(14.),3,1
+2018/2019,2019-05-12,(2.)Atlético Madrid,Sevilla FC(6.),1,1
+2018/2019,2019-05-12,(1.)Barcelona,Getafe(4.),2,0
+2018/2019,2019-05-12,(13.)Real Betis,SD Huesca(20.),2,1
+2018/2019,2019-05-12,(18.)Girona,Levante(16.),1,2
+2018/2019,2019-05-12,(19.)Rayo Vallecano,Real Valladolid(17.),1,2
+2018/2019,2019-05-12,(5.)Valencia,Alavés(9.),3,1
+2018/2019,2019-05-12,(15.)Villarreal,SD Eibar(11.),1,0
+2018/2019,2019-05-12,(12.)CD Leganés,Espanyol(10.),0,2
+2018/2019,2019-05-12,(8.)Real Sociedad,Real Madrid(3.),3,1
+2018/2019,2019-05-18,(15.)Levante,Atlético Madrid(2.),2,2
+2018/2019,2019-05-18,(9.)Espanyol,Real Sociedad(8.),2,0
+2018/2019,2019-05-18,(5.)Getafe,Villarreal(14.),2,2
+2018/2019,2019-05-18,(6.)Sevilla FC,Athletic(7.),2,0
+2018/2019,2019-05-18,(16.)Real Valladolid,Valencia(4.),0,2
+2018/2019,2019-05-18,(11.)Alavés,Girona(18.),2,1
+2018/2019,2019-05-18,(17.)Celta de Vigo,Rayo Vallecano(19.),2,2
+2018/2019,2019-05-18,(20.)SD Huesca,CD Leganés(13.),2,1
+2018/2019,2019-05-19,(3.)Real Madrid,Real Betis(10.),0,2
+2018/2019,2019-05-19,(12.)SD Eibar,Barcelona(1.),2,2
+2019/2020,2019-08-16,Athletic,Barcelona,1,0
+2019/2020,2019-08-17,Celta de Vigo,Real Madrid,1,3
+2019/2020,2019-08-17,Valencia,Real Sociedad,1,1
+2019/2020,2019-08-17,RCD Mallorca,SD Eibar,2,1
+2019/2020,2019-08-17,CD Leganés,CA Osasuna,0,1
+2019/2020,2019-08-17,Villarreal,Granada CF,4,4
+2019/2020,2019-08-18,Alavés,Levante,1,0
+2019/2020,2019-08-18,Espanyol,Sevilla FC,0,2
+2019/2020,2019-08-18,Real Betis,Real Valladolid,1,2
+2019/2020,2019-08-18,Atlético Madrid,Getafe,1,0
+2019/2020,2019-08-23,(10.)Granada CF,Sevilla FC(2.),0,1
+2019/2020,2019-08-23,(18.)Levante,Villarreal(9.),2,1
+2019/2020,2019-08-24,(8.)CA Osasuna,SD Eibar(13.),0,0
+2019/2020,2019-08-24,(1.)Real Madrid,Real Valladolid(3.),1,1
+2019/2020,2019-08-24,(19.)Celta de Vigo,Valencia(11.),1,0
+2019/2020,2019-08-24,(16.)Getafe,Athletic(6.),1,1
+2019/2020,2019-08-25,(7.)Alavés,Espanyol(20.),0,0
+2019/2020,2019-08-25,(4.)RCD Mallorca,Real Sociedad(12.),0,1
+2019/2020,2019-08-25,(17.)CD Leganés,Atlético Madrid(5.),0,1
+2019/2020,2019-08-25,(15.)Barcelona,Real Betis(14.),5,2
+2019/2020,2019-08-30,(1.)Sevilla FC,Celta de Vigo(12.),1,1
+2019/2020,2019-08-30,(5.)Athletic,Real Sociedad(6.),2,0
+2019/2020,2019-08-31,(8.)CA Osasuna,Barcelona(9.),2,2
+2019/2020,2019-08-31,(15.)Getafe,Alavés(7.),1,1
+2019/2020,2019-08-31,(10.)Levante,Real Valladolid(4.),2,0
+2019/2020,2019-08-31,(20.)Real Betis,CD Leganés(19.),2,1
+2019/2020,2019-09-01,(16.)Valencia,RCD Mallorca(11.),2,0
+2019/2020,2019-09-01,(2.)Atlético Madrid,SD Eibar(17.),3,2
+2019/2020,2019-09-01,(18.)Espanyol,Granada CF(14.),0,3
+2019/2020,2019-09-01,(13.)Villarreal,Real Madrid(3.),2,2
+2019/2020,2019-09-13,(14.)RCD Mallorca,Athletic(3.),0,0
+2019/2020,2019-09-14,(5.)Real Madrid,Levante(4.),3,2
+2019/2020,2019-09-14,(20.)CD Leganés,Villarreal(16.),0,3
+2019/2020,2019-09-14,(10.)Real Sociedad,Atlético Madrid(1.),2,0
+2019/2020,2019-09-14,(11.)Barcelona,Valencia(9.),5,2
+2019/2020,2019-09-15,(18.)SD Eibar,Espanyol(19.),1,2
+2019/2020,2019-09-15,(7.)Alavés,Sevilla FC(2.),0,1
+2019/2020,2019-09-15,(8.)Celta de Vigo,Granada CF(12.),0,2
+2019/2020,2019-09-15,(13.)Real Valladolid,CA Osasuna(6.),1,1
+2019/2020,2019-09-15,(15.)Real Betis,Getafe(17.),1,1
+2019/2020,2019-09-20,(9.)CA Osasuna,Real Betis(16.),0,0
+2019/2020,2019-09-21,(10.)Villarreal,Real Valladolid(12.),2,0
+2019/2020,2019-09-21,(8.)Levante,SD Eibar(19.),0,0
+2019/2020,2019-09-21,(2.)Atlético Madrid,Celta de Vigo(14.),0,0
+2019/2020,2019-09-21,(6.)Granada CF,Barcelona(5.),2,0
+2019/2020,2019-09-22,(18.)Getafe,RCD Mallorca(15.),4,2
+2019/2020,2019-09-22,(17.)Espanyol,Real Sociedad(7.),1,3
+2019/2020,2019-09-22,(13.)Valencia,CD Leganés(20.),1,1
+2019/2020,2019-09-22,(4.)Athletic,Alavés(11.),2,0
+2019/2020,2019-09-22,(1.)Sevilla FC,Real Madrid(3.),0,1
+2019/2020,2019-09-24,(12.)Real Valladolid,Granada CF(5.),1,1
+2019/2020,2019-09-24,(16.)Real Betis,Levante(10.),3,1
+2019/2020,2019-09-24,(8.)Barcelona,Villarreal(7.),2,1
+2019/2020,2019-09-25,(20.)CD Leganés,Athletic(1.),1,1
+2019/2020,2019-09-25,(17.)RCD Mallorca,Atlético Madrid(6.),0,2
+2019/2020,2019-09-25,(14.)Valencia,Getafe(11.),3,3
+2019/2020,2019-09-25,(2.)Real Madrid,CA Osasuna(9.),2,0
+2019/2020,2019-09-26,(19.)SD Eibar,Sevilla FC(4.),3,2
+2019/2020,2019-09-26,(13.)Celta de Vigo,Espanyol(18.),1,1
+2019/2020,2019-09-26,(3.)Real Sociedad,Alavés(15.),3,0
+2019/2020,2019-09-27,(8.)Villarreal,Real Betis(9.),5,1
+2019/2020,2019-09-28,(4.)Athletic,Valencia(14.),0,1
+2019/2020,2019-09-28,(10.)Getafe,Barcelona(6.),0,2
+2019/2020,2019-09-28,(5.)Granada CF,CD Leganés(20.),1,0
+2019/2020,2019-09-28,(3.)Atlético Madrid,Real Madrid(1.),0,0
+2019/2020,2019-09-29,(16.)Espanyol,Real Valladolid(15.),0,2
+2019/2020,2019-09-29,(18.)SD Eibar,Celta de Vigo(13.),2,0
+2019/2020,2019-09-29,(17.)Alavés,RCD Mallorca(19.),2,0
+2019/2020,2019-09-29,(11.)Levante,CA Osasuna(12.),1,1
+2019/2020,2019-09-29,(7.)Sevilla FC,Real Sociedad(2.),3,2
+2019/2020,2019-10-04,(11.)Real Betis,SD Eibar(14.),1,1
+2019/2020,2019-10-05,(20.)CD Leganés,Levante(15.),1,2
+2019/2020,2019-10-05,(1.)Real Madrid,Granada CF(2.),4,2
+2019/2020,2019-10-05,(9.)Valencia,Alavés(13.),2,1
+2019/2020,2019-10-05,(12.)CA Osasuna,Villarreal(8.),2,1
+2019/2020,2019-10-06,(19.)RCD Mallorca,Espanyol(18.),2,0
+2019/2020,2019-10-06,(17.)Celta de Vigo,Athletic(7.),1,0
+2019/2020,2019-10-06,(10.)Real Valladolid,Atlético Madrid(3.),0,0
+2019/2020,2019-10-06,(6.)Real Sociedad,Getafe(16.),1,2
+2019/2020,2019-10-06,(5.)Barcelona,Sevilla FC(4.),4,0
+2019/2020,2019-10-18,(4.)Granada CF,CA Osasuna(10.),1,0
+2019/2020,2019-10-19,(14.)SD Eibar,Barcelona(2.),0,3
+2019/2020,2019-10-19,(3.)Atlético Madrid,Valencia(7.),1,1
+2019/2020,2019-10-19,(12.)Getafe,CD Leganés(20.),2,0
+2019/2020,2019-10-19,(18.)RCD Mallorca,Real Madrid(1.),1,0
+2019/2020,2019-10-20,(17.)Alavés,Celta de Vigo(16.),2,0
+2019/2020,2019-10-20,(6.)Real Sociedad,Real Betis(15.),3,1
+2019/2020,2019-10-20,(19.)Espanyol,Villarreal(11.),0,1
+2019/2020,2019-10-20,(8.)Athletic,Real Valladolid(13.),1,1
+2019/2020,2019-10-20,(5.)Sevilla FC,Levante(9.),1,0
+2019/2020,2019-10-25,(7.)Villarreal,Alavés(12.),4,1
+2019/2020,2019-10-26,(20.)CD Leganés,RCD Mallorca(15.),1,0
+2019/2020,2019-10-26,(14.)Real Valladolid,SD Eibar(16.),2,0
+2019/2020,2019-10-26,(6.)Atlético Madrid,Athletic(10.),2,0
+2019/2020,2019-10-27,(18.)Celta de Vigo,Real Sociedad(4.),0,1
+2019/2020,2019-10-27,(3.)Granada CF,Real Betis(17.),1,0
+2019/2020,2019-10-27,(11.)Levante,Espanyol(19.),0,1
+2019/2020,2019-10-27,(5.)Sevilla FC,Getafe(9.),2,0
+2019/2020,2019-10-27,(13.)CA Osasuna,Valencia(8.),3,1
+2019/2020,2019-12-18,(1.)Barcelona,Real Madrid(2.),0,0
+2019/2020,2019-10-29,(13.)Alavés,Atlético Madrid(6.),1,1
+2019/2020,2019-10-29,(2.)Barcelona,Real Valladolid(8.),5,1
+2019/2020,2019-10-30,(4.)Real Sociedad,Levante(14.),1,2
+2019/2020,2019-10-30,(10.)Valencia,Sevilla FC(5.),1,1
+2019/2020,2019-10-30,(12.)Athletic,Espanyol(19.),3,0
+2019/2020,2019-10-30,(17.)Real Betis,Celta de Vigo(18.),2,1
+2019/2020,2019-10-30,(3.)Real Madrid,CD Leganés(20.),5,0
+2019/2020,2019-10-31,(16.)SD Eibar,Villarreal(7.),2,1
+2019/2020,2019-10-31,(15.)RCD Mallorca,CA Osasuna(9.),2,2
+2019/2020,2019-10-31,(11.)Getafe,Granada CF(1.),3,1
+2019/2020,2019-11-02,(19.)Espanyol,Valencia(12.),1,2
+2019/2020,2019-11-02,(11.)Levante,Barcelona(1.),3,1
+2019/2020,2019-11-02,(3.)Sevilla FC,Atlético Madrid(5.),1,1
+2019/2020,2019-11-02,(2.)Real Madrid,Real Betis(15.),0,0
+2019/2020,2019-11-03,(13.)Real Valladolid,RCD Mallorca(17.),3,0
+2019/2020,2019-11-03,(7.)Villarreal,Athletic(8.),0,0
+2019/2020,2019-11-03,(10.)CA Osasuna,Alavés(16.),4,2
+2019/2020,2019-11-03,(18.)Celta de Vigo,Getafe(9.),0,1
+2019/2020,2019-11-03,(20.)CD Leganés,SD Eibar(14.),1,2
+2019/2020,2019-11-03,(4.)Granada CF,Real Sociedad(6.),1,2
+2019/2020,2019-11-08,(3.)Real Sociedad,CD Leganés(20.),1,1
+2019/2020,2019-11-09,(16.)Alavés,Real Valladolid(13.),3,0
+2019/2020,2019-11-09,(11.)Valencia,Granada CF(6.),2,0
+2019/2020,2019-11-09,(14.)SD Eibar,Real Madrid(2.),0,4
+2019/2020,2019-11-09,(1.)Barcelona,Celta de Vigo(18.),4,1
+2019/2020,2019-11-10,(17.)RCD Mallorca,Villarreal(9.),3,1
+2019/2020,2019-11-10,(12.)Athletic,Levante(10.),2,1
+2019/2020,2019-11-10,(4.)Atlético Madrid,Espanyol(19.),3,1
+2019/2020,2019-11-10,(7.)Getafe,CA Osasuna(8.),0,0
+2019/2020,2019-11-10,(15.)Real Betis,Sevilla FC(5.),1,2
+2019/2020,2019-11-22,(12.)Levante,RCD Mallorca(16.),2,1
+2019/2020,2019-11-23,(20.)CD Leganés,Barcelona(1.),1,2
+2019/2020,2019-11-23,(17.)Real Betis,Valencia(6.),2,1
+2019/2020,2019-11-23,(9.)Granada CF,Atlético Madrid(3.),1,1
+2019/2020,2019-11-23,(2.)Real Madrid,Real Sociedad(5.),3,1
+2019/2020,2019-11-24,(19.)Espanyol,Getafe(7.),1,1
+2019/2020,2019-11-24,(10.)CA Osasuna,Athletic(8.),1,2
+2019/2020,2019-11-24,(15.)SD Eibar,Alavés(14.),0,2
+2019/2020,2019-11-24,(11.)Villarreal,Celta de Vigo(18.),1,3
+2019/2020,2019-11-24,(13.)Real Valladolid,Sevilla FC(4.),0,1
+2019/2020,2019-11-29,(18.)Celta de Vigo,Real Valladolid(14.),0,0
+2019/2020,2019-11-30,(13.)Alavés,Real Madrid(2.),1,2
+2019/2020,2019-11-30,(6.)Real Sociedad,SD Eibar(16.),4,1
+2019/2020,2019-11-30,(17.)RCD Mallorca,Real Betis(15.),1,2
+2019/2020,2019-11-30,(10.)Valencia,Villarreal(12.),2,1
+2019/2020,2019-12-01,(3.)Sevilla FC,CD Leganés(20.),1,0
+2019/2020,2019-12-01,(5.)Athletic,Granada CF(8.),2,0
+2019/2020,2019-12-01,(19.)Espanyol,CA Osasuna(11.),2,4
+2019/2020,2019-12-01,(7.)Getafe,Levante(9.),4,0
+2019/2020,2019-12-01,(4.)Atlético Madrid,Barcelona(1.),0,1
+2019/2020,2019-12-06,(13.)Villarreal,Atlético Madrid(6.),0,0
+2019/2020,2019-12-07,(2.)Real Madrid,Espanyol(19.),2,0
+2019/2020,2019-12-07,(10.)Granada CF,Alavés(14.),3,0
+2019/2020,2019-12-07,(11.)Levante,Valencia(8.),2,4
+2019/2020,2019-12-07,(1.)Barcelona,RCD Mallorca(17.),5,2
+2019/2020,2019-12-08,(16.)SD Eibar,Getafe(7.),0,1
+2019/2020,2019-12-08,(12.)Real Betis,Athletic(4.),3,2
+2019/2020,2019-12-08,(15.)Real Valladolid,Real Sociedad(5.),0,0
+2019/2020,2019-12-08,(20.)CD Leganés,Celta de Vigo(18.),3,2
+2019/2020,2019-12-08,(9.)CA Osasuna,Sevilla FC(3.),1,1
+2019/2020,2019-12-13,(15.)Alavés,CD Leganés(19.),1,1
+2019/2020,2019-12-14,(9.)Granada CF,Levante(12.),1,2
+2019/2020,2019-12-14,(5.)Real Sociedad,Barcelona(1.),2,2
+2019/2020,2019-12-14,(8.)Athletic,SD Eibar(16.),0,0
+2019/2020,2019-12-14,(6.)Atlético Madrid,CA Osasuna(10.),2,0
+2019/2020,2019-12-15,(4.)Getafe,Real Valladolid(14.),2,0
+2019/2020,2019-12-15,(18.)Celta de Vigo,RCD Mallorca(17.),2,2
+2019/2020,2019-12-15,(20.)Espanyol,Real Betis(11.),2,2
+2019/2020,2019-12-15,(3.)Sevilla FC,Villarreal(13.),1,2
+2019/2020,2019-12-15,(7.)Valencia,Real Madrid(2.),1,1
+2019/2020,2019-12-20,(16.)SD Eibar,Granada CF(9.),3,0
+2019/2020,2019-12-21,(17.)RCD Mallorca,Sevilla FC(3.),0,2
+2019/2020,2019-12-21,(1.)Barcelona,Alavés(14.),4,1
+2019/2020,2019-12-21,(13.)Villarreal,Getafe(4.),1,0
+2019/2020,2019-12-21,(15.)Real Valladolid,Valencia(7.),1,1
+2019/2020,2019-12-22,(19.)CD Leganés,Espanyol(20.),2,0
+2019/2020,2019-12-22,(11.)CA Osasuna,Real Sociedad(6.),3,4
+2019/2020,2019-12-22,(10.)Real Betis,Atlético Madrid(5.),1,2
+2019/2020,2019-12-22,(12.)Levante,Celta de Vigo(18.),3,1
+2019/2020,2019-12-22,(2.)Real Madrid,Athletic(8.),0,0
+2019/2020,2020-01-03,(14.)Real Valladolid,CD Leganés(19.),2,2
+2019/2020,2020-01-03,(3.)Sevilla FC,Athletic(8.),1,1
+2019/2020,2020-01-04,(7.)Valencia,SD Eibar(16.),1,0
+2019/2020,2020-01-04,(6.)Getafe,Real Madrid(2.),0,3
+2019/2020,2020-01-04,(4.)Atlético Madrid,Levante(9.),2,1
+2019/2020,2020-01-04,(20.)Espanyol,Barcelona(1.),2,2
+2019/2020,2020-01-05,(11.)Granada CF,RCD Mallorca(17.),1,0
+2019/2020,2020-01-05,(5.)Real Sociedad,Villarreal(10.),1,2
+2019/2020,2020-01-05,(15.)Alavés,Real Betis(13.),1,1
+2019/2020,2020-01-05,(18.)Celta de Vigo,CA Osasuna(12.),1,1
+2019/2020,2020-01-17,(19.)CD Leganés,Getafe(7.),0,3
+2019/2020,2020-01-18,(11.)Levante,Alavés(15.),0,1
+2019/2020,2020-01-18,(2.)Real Madrid,Sevilla FC(4.),2,1
+2019/2020,2020-01-18,(12.)CA Osasuna,Real Valladolid(14.),0,0
+2019/2020,2020-01-18,(16.)SD Eibar,Atlético Madrid(3.),2,0
+2019/2020,2020-01-19,(18.)RCD Mallorca,Valencia(6.),4,1
+2019/2020,2020-01-19,(13.)Real Betis,Real Sociedad(5.),3,0
+2019/2020,2020-01-19,(9.)Villarreal,Espanyol(20.),1,2
+2019/2020,2020-01-19,(8.)Athletic,Celta de Vigo(17.),1,1
+2019/2020,2020-01-19,(1.)Barcelona,Granada CF(10.),1,0
+2019/2020,2020-01-24,(13.)CA Osasuna,Levante(12.),2,0
+2019/2020,2020-01-25,(20.)Espanyol,Athletic(8.),1,1
+2019/2020,2020-01-25,(7.)Valencia,Barcelona(1.),2,0
+2019/2020,2020-01-25,(14.)Alavés,Villarreal(9.),1,2
+2019/2020,2020-01-25,(4.)Sevilla FC,Granada CF(10.),2,0
+2019/2020,2020-01-26,(3.)Atlético Madrid,CD Leganés(19.),0,0
+2019/2020,2020-01-26,(18.)Celta de Vigo,SD Eibar(16.),0,0
+2019/2020,2020-01-26,(5.)Getafe,Real Betis(11.),1,0
+2019/2020,2020-01-26,(6.)Real Sociedad,RCD Mallorca(17.),3,0
+2019/2020,2020-01-26,(15.)Real Valladolid,Real Madrid(2.),0,1
+2019/2020,2020-02-01,(11.)Granada CF,Espanyol(20.),2,1
+2019/2020,2020-02-01,(1.)Real Madrid,Atlético Madrid(4.),1,0
+2019/2020,2020-02-01,(17.)RCD Mallorca,Real Valladolid(16.),0,1
+2019/2020,2020-02-01,(7.)Valencia,Celta de Vigo(18.),1,0
+2019/2020,2020-02-02,(19.)CD Leganés,Real Sociedad(6.),2,1
+2019/2020,2020-02-02,(15.)SD Eibar,Real Betis(12.),1,1
+2019/2020,2020-02-02,(9.)Athletic,Getafe(5.),0,2
+2019/2020,2020-02-02,(3.)Sevilla FC,Alavés(14.),1,1
+2019/2020,2020-02-02,(8.)Villarreal,CA Osasuna(10.),3,1
+2019/2020,2020-02-02,(2.)Barcelona,Levante(13.),2,1
+2019/2020,2020-02-07,(15.)Alavés,SD Eibar(16.),2,1
+2019/2020,2020-02-08,(13.)Levante,CD Leganés(17.),2,0
+2019/2020,2020-02-08,(4.)Getafe,Valencia(5.),3,0
+2019/2020,2020-02-08,(14.)Real Valladolid,Villarreal(7.),1,1
+2019/2020,2020-02-08,(6.)Atlético Madrid,Granada CF(10.),1,0
+2019/2020,2020-02-09,(20.)Espanyol,RCD Mallorca(18.),1,0
+2019/2020,2020-02-09,(8.)Real Sociedad,Athletic(9.),2,1
+2019/2020,2020-02-09,(11.)CA Osasuna,Real Madrid(1.),1,4
+2019/2020,2020-02-09,(19.)Celta de Vigo,Sevilla FC(3.),2,1
+2019/2020,2020-02-09,(12.)Real Betis,Barcelona(2.),2,3
+2019/2020,2020-02-14,(7.)Valencia,Atlético Madrid(4.),2,2
+2019/2020,2020-02-15,(19.)RCD Mallorca,Alavés(14.),1,0
+2019/2020,2020-02-15,(2.)Barcelona,Getafe(3.),2,1
+2019/2020,2020-02-15,(8.)Villarreal,Levante(11.),2,1
+2019/2020,2020-02-15,(10.)Granada CF,Real Valladolid(15.),2,1
+2019/2020,2020-02-16,(5.)Sevilla FC,Espanyol(20.),2,2
+2019/2020,2020-02-16,(18.)CD Leganés,Real Betis(13.),0,0
+2019/2020,2020-02-16,(9.)Athletic,CA Osasuna(12.),0,1
+2019/2020,2020-02-16,(1.)Real Madrid,Celta de Vigo(17.),2,2
+2019/2020,2020-03-10,(16.)SD Eibar,Real Sociedad(6.),1,2
+2019/2020,2020-02-21,(12.)Real Betis,RCD Mallorca(18.),3,3
+2019/2020,2020-02-22,(17.)Celta de Vigo,CD Leganés(19.),1,0
+2019/2020,2020-02-22,(2.)Barcelona,SD Eibar(16.),5,0
+2019/2020,2020-02-22,(5.)Real Sociedad,Valencia(7.),3,0
+2019/2020,2020-02-22,(13.)Levante,Real Madrid(1.),1,0
+2019/2020,2020-02-23,(11.)CA Osasuna,Granada CF(9.),0,3
+2019/2020,2020-02-23,(14.)Alavés,Athletic(10.),2,1
+2019/2020,2020-02-23,(15.)Real Valladolid,Espanyol(20.),2,1
+2019/2020,2020-02-23,(3.)Getafe,Sevilla FC(4.),0,3
+2019/2020,2020-02-23,(6.)Atlético Madrid,Villarreal(8.),3,1
+2019/2020,2020-02-28,(4.)Real Sociedad,Real Valladolid(15.),1,0
+2019/2020,2020-02-29,(16.)SD Eibar,Levante(10.),3,0
+2019/2020,2020-02-29,(7.)Valencia,Real Betis(13.),2,1
+2019/2020,2020-02-29,(19.)CD Leganés,Alavés(14.),1,1
+2019/2020,2020-02-29,(9.)Granada CF,Celta de Vigo(17.),0,0
+2019/2020,2020-03-01,(3.)Sevilla FC,CA Osasuna(12.),3,2
+2019/2020,2020-03-01,(11.)Athletic,Villarreal(8.),1,0
+2019/2020,2020-03-01,(20.)Espanyol,Atlético Madrid(5.),1,1
+2019/2020,2020-03-01,(18.)RCD Mallorca,Getafe(6.),0,1
+2019/2020,2020-03-01,(2.)Real Madrid,Barcelona(1.),2,0
+2019/2020,2020-03-06,(13.)Alavés,Valencia(7.),1,1
+2019/2020,2020-03-07,(16.)SD Eibar,RCD Mallorca(18.),1,2
+2019/2020,2020-03-07,(6.)Atlético Madrid,Sevilla FC(3.),2,2
+2019/2020,2020-03-07,(2.)Barcelona,Real Sociedad(4.),1,0
+2019/2020,2020-03-07,(5.)Getafe,Celta de Vigo(17.),0,0
+2019/2020,2020-03-08,(12.)CA Osasuna,Espanyol(20.),1,0
+2019/2020,2020-03-08,(15.)Real Valladolid,Athletic(10.),1,4
+2019/2020,2020-03-08,(11.)Levante,Granada CF(9.),1,1
+2019/2020,2020-03-08,(8.)Villarreal,CD Leganés(19.),1,2
+2019/2020,2020-03-08,(14.)Real Betis,Real Madrid(1.),2,1
+2019/2020,2020-06-11,(3.)Sevilla FC,Real Betis(12.),2,0
+2019/2020,2020-06-12,(9.)Granada CF,Getafe(4.),2,1
+2019/2020,2020-06-12,(7.)Valencia,Levante(13.),1,1
+2019/2020,2020-06-13,(20.)Espanyol,Alavés(14.),2,0
+2019/2020,2020-06-13,(17.)Celta de Vigo,Villarreal(8.),0,1
+2019/2020,2020-06-13,(19.)CD Leganés,Real Valladolid(15.),1,2
+2019/2020,2020-06-13,(18.)RCD Mallorca,Barcelona(1.),0,4
+2019/2020,2020-06-14,(10.)Athletic,Atlético Madrid(6.),1,1
+2019/2020,2020-06-14,(2.)Real Madrid,SD Eibar(16.),3,1
+2019/2020,2020-06-14,(5.)Real Sociedad,CA Osasuna(11.),1,1
+2019/2020,2020-06-15,(12.)Levante,Sevilla FC(3.),1,1
+2019/2020,2020-06-15,(13.)Real Betis,Granada CF(9.),2,2
+2019/2020,2020-06-16,(6.)Getafe,Espanyol(20.),0,0
+2019/2020,2020-06-16,(8.)Villarreal,RCD Mallorca(18.),1,0
+2019/2020,2020-06-16,(1.)Barcelona,CD Leganés(19.),2,0
+2019/2020,2020-06-17,(16.)SD Eibar,Athletic(10.),2,2
+2019/2020,2020-06-17,(15.)Real Valladolid,Celta de Vigo(17.),0,0
+2019/2020,2020-06-17,(11.)CA Osasuna,Atlético Madrid(5.),0,5
+2019/2020,2020-06-18,(14.)Alavés,Real Sociedad(4.),2,0
+2019/2020,2020-06-18,(2.)Real Madrid,Valencia(7.),3,0
+2019/2020,2020-06-19,(9.)Granada CF,Villarreal(7.),0,1
+2019/2020,2020-06-19,(18.)RCD Mallorca,CD Leganés(20.),1,1
+2019/2020,2020-06-19,(3.)Sevilla FC,Barcelona(1.),0,0
+2019/2020,2020-06-20,(19.)Espanyol,Levante(13.),1,3
+2019/2020,2020-06-20,(10.)Athletic,Real Betis(14.),1,0
+2019/2020,2020-06-20,(5.)Getafe,SD Eibar(16.),1,1
+2019/2020,2020-06-20,(4.)Atlético Madrid,Real Valladolid(15.),1,0
+2019/2020,2020-06-21,(17.)Celta de Vigo,Alavés(12.),6,0
+2019/2020,2020-06-21,(8.)Valencia,CA Osasuna(11.),2,0
+2019/2020,2020-06-21,(6.)Real Sociedad,Real Madrid(2.),1,2
+2019/2020,2020-06-22,(6.)Villarreal,Sevilla FC(4.),2,2
+2019/2020,2020-06-22,(19.)CD Leganés,Granada CF(10.),0,0
+2019/2020,2020-06-23,(11.)Levante,Atlético Madrid(3.),0,1
+2019/2020,2020-06-23,(15.)Real Valladolid,Getafe(5.),1,1
+2019/2020,2020-06-23,(2.)Barcelona,Athletic(9.),1,0
+2019/2020,2020-06-24,(13.)Alavés,CA Osasuna(12.),0,1
+2019/2020,2020-06-24,(7.)Real Sociedad,Celta de Vigo(16.),0,1
+2019/2020,2020-06-24,(1.)Real Madrid,RCD Mallorca(18.),2,0
+2019/2020,2020-06-25,(17.)SD Eibar,Valencia(8.),1,0
+2019/2020,2020-06-25,(14.)Real Betis,Espanyol(20.),1,0
+2019/2020,2020-06-26,(4.)Sevilla FC,Real Valladolid(15.),1,1
+2019/2020,2020-06-27,(10.)Athletic,RCD Mallorca(18.),3,1
+2019/2020,2020-06-27,(16.)Celta de Vigo,Barcelona(2.),2,2
+2019/2020,2020-06-27,(11.)CA Osasuna,CD Leganés(19.),2,1
+2019/2020,2020-06-27,(3.)Atlético Madrid,Alavés(14.),2,1
+2019/2020,2020-06-28,(12.)Levante,Real Betis(13.),4,2
+2019/2020,2020-06-28,(6.)Villarreal,Valencia(8.),2,0
+2019/2020,2020-06-28,(9.)Granada CF,SD Eibar(17.),1,2
+2019/2020,2020-06-28,(20.)Espanyol,Real Madrid(1.),0,1
+2019/2020,2020-06-29,(5.)Getafe,Real Sociedad(7.),2,1
+2019/2020,2020-06-30,(18.)RCD Mallorca,Celta de Vigo(17.),5,1
+2019/2020,2020-06-30,(19.)CD Leganés,Sevilla FC(4.),0,3
+2019/2020,2020-06-30,(2.)Barcelona,Atlético Madrid(3.),2,2
+2019/2020,2020-07-01,(14.)Alavés,Granada CF(10.),0,2
+2019/2020,2020-07-01,(8.)Valencia,Athletic(9.),0,2
+2019/2020,2020-07-01,(13.)Real Betis,Villarreal(6.),0,2
+2019/2020,2020-07-01,(15.)Real Valladolid,Levante(12.),0,0
+2019/2020,2020-07-02,(16.)SD Eibar,CA Osasuna(11.),0,2
+2019/2020,2020-07-02,(7.)Real Sociedad,Espanyol(20.),2,1
+2019/2020,2020-07-02,(1.)Real Madrid,Getafe(5.),1,0
+2019/2020,2020-07-03,(3.)Atlético Madrid,RCD Mallorca(18.),3,0
+2019/2020,2020-07-04,(17.)Celta de Vigo,Real Betis(13.),1,1
+2019/2020,2020-07-04,(14.)Real Valladolid,Alavés(15.),1,0
+2019/2020,2020-07-04,(10.)Granada CF,Valencia(9.),2,2
+2019/2020,2020-07-05,(8.)Athletic,Real Madrid(1.),0,1
+2019/2020,2020-07-05,(20.)Espanyol,CD Leganés(19.),0,1
+2019/2020,2020-07-05,(11.)CA Osasuna,Getafe(6.),0,0
+2019/2020,2020-07-05,(5.)Villarreal,Barcelona(2.),1,4
+2019/2020,2020-07-06,(12.)Levante,Real Sociedad(7.),1,1
+2019/2020,2020-07-06,(4.)Sevilla FC,SD Eibar(16.),1,0
+2019/2020,2020-07-07,(9.)Valencia,Real Valladolid(13.),2,1
+2019/2020,2020-07-07,(16.)Celta de Vigo,Atlético Madrid(3.),1,1
+2019/2020,2020-07-08,(14.)Real Betis,CA Osasuna(11.),3,0
+2019/2020,2020-07-08,(6.)Getafe,Villarreal(5.),1,3
+2019/2020,2020-07-08,(2.)Barcelona,Espanyol(20.),1,0
+2019/2020,2020-07-09,(17.)SD Eibar,CD Leganés(19.),0,0
+2019/2020,2020-07-09,(18.)RCD Mallorca,Levante(12.),2,0
+2019/2020,2020-07-09,(8.)Athletic,Sevilla FC(4.),1,2
+2019/2020,2020-07-10,(7.)Real Sociedad,Granada CF(10.),2,3
+2019/2020,2020-07-10,(1.)Real Madrid,Alavés(15.),2,0
+2019/2020,2020-07-11,(11.)CA Osasuna,Celta de Vigo(16.),2,1
+2019/2020,2020-07-11,(14.)Real Valladolid,Barcelona(2.),0,1
+2019/2020,2020-07-11,(3.)Atlético Madrid,Real Betis(13.),1,0
+2019/2020,2020-07-12,(20.)Espanyol,SD Eibar(15.),0,2
+2019/2020,2020-07-12,(12.)Levante,Athletic(10.),1,2
+2019/2020,2020-07-12,(19.)CD Leganés,Valencia(8.),1,0
+2019/2020,2020-07-12,(4.)Sevilla FC,RCD Mallorca(18.),2,0
+2019/2020,2020-07-13,(17.)Alavés,Getafe(6.),0,0
+2019/2020,2020-07-13,(5.)Villarreal,Real Sociedad(7.),1,2
+2019/2020,2020-07-13,(9.)Granada CF,Real Madrid(1.),1,2
+2019/2020,2020-07-16,(15.)SD Eibar,Real Valladolid(14.),3,1
+2019/2020,2020-07-16,(8.)Athletic,CD Leganés(18.),0,2
+2019/2020,2020-07-16,(2.)Barcelona,CA Osasuna(11.),1,2
+2019/2020,2020-07-16,(13.)Real Betis,Alavés(17.),1,2
+2019/2020,2020-07-16,(16.)Celta de Vigo,Levante(12.),2,3
+2019/2020,2020-07-16,(6.)Getafe,Atlético Madrid(3.),0,2
+2019/2020,2020-07-16,(19.)RCD Mallorca,Granada CF(10.),1,2
+2019/2020,2020-07-16,(1.)Real Madrid,Villarreal(5.),2,1
+2019/2020,2020-07-16,(7.)Real Sociedad,Sevilla FC(4.),0,0
+2019/2020,2020-07-16,(9.)Valencia,Espanyol(20.),1,0
+2019/2020,2020-07-19,(16.)Alavés,Barcelona(2.),0,5
+2019/2020,2020-07-19,(5.)Villarreal,SD Eibar(13.),4,0
+2019/2020,2020-07-19,(15.)Real Valladolid,Real Betis(14.),2,0
+2019/2020,2020-07-19,(18.)CD Leganés,Real Madrid(1.),2,2
+2019/2020,2020-07-19,(4.)Sevilla FC,Valencia(8.),1,0
+2019/2020,2020-07-19,(20.)Espanyol,Celta de Vigo(17.),0,0
+2019/2020,2020-07-19,(12.)Levante,Getafe(7.),1,0
+2019/2020,2020-07-19,(9.)Granada CF,Athletic(10.),4,0
+2019/2020,2020-07-19,(11.)CA Osasuna,RCD Mallorca(19.),2,2
+2019/2020,2020-07-19,(3.)Atlético Madrid,Real Sociedad(6.),1,1
+2020/2021,2020-09-12,SD Eibar,Celta de Vigo,0,0
+2020/2021,2020-09-12,Granada CF,Athletic,2,0
+2020/2021,2020-09-12,Cádiz CF,CA Osasuna,0,2
+2020/2021,2020-09-13,Alavés,Real Betis,0,1
+2020/2021,2020-09-13,Real Valladolid,Real Sociedad,1,1
+2020/2021,2020-09-13,Villarreal,SD Huesca,1,1
+2020/2021,2020-09-13,Valencia,Levante,4,2
+2020/2021,2021-01-12,Atlético Madrid,Sevilla FC,2,0
+2020/2021,2021-02-09,Real Madrid,Getafe,2,0
+2020/2021,2021-02-24,Barcelona,Elche CF,3,0
+2020/2021,2020-09-19,(8.)Villarreal,SD Eibar(12.),2,1
+2020/2021,2020-09-19,(17.)Getafe,CA Osasuna(6.),1,0
+2020/2021,2020-09-19,(13.)Celta de Vigo,Valencia(2.),2,1
+2020/2021,2020-09-20,(11.)SD Huesca,Cádiz CF(19.),0,2
+2020/2021,2020-09-20,(7.)Real Betis,Real Valladolid(10.),2,0
+2020/2021,2020-09-20,(5.)Granada CF,Alavés(14.),2,1
+2020/2021,2020-09-20,(9.)Real Sociedad,Real Madrid(3.),0,0
+2020/2021,2021-01-06,(18.)Athletic,Barcelona(1.),2,3
+2020/2021,2021-02-17,(15.)Levante,Atlético Madrid(4.),1,1
+2020/2021,2021-03-17,(16.)Sevilla FC,Elche CF(20.),2,0
+2020/2021,2020-09-26,(18.)Alavés,Getafe(9.),0,0
+2020/2021,2020-09-26,(10.)Valencia,SD Huesca(17.),1,1
+2020/2021,2020-09-26,(20.)Elche CF,Real Sociedad(13.),0,3
+2020/2021,2020-09-26,(3.)Real Betis,Real Madrid(5.),2,3
+2020/2021,2020-09-27,(8.)CA Osasuna,Levante(15.),1,3
+2020/2021,2020-09-27,(14.)SD Eibar,Athletic(19.),1,2
+2020/2021,2020-09-27,(4.)Atlético Madrid,Granada CF(2.),6,1
+2020/2021,2020-09-27,(12.)Cádiz CF,Sevilla FC(11.),1,3
+2020/2021,2020-09-27,(16.)Real Valladolid,Celta de Vigo(7.),1,1
+2020/2021,2020-09-27,(1.)Barcelona,Villarreal(6.),4,0
+2020/2021,2020-09-29,(7.)Real Sociedad,Valencia(9.),0,1
+2020/2021,2020-09-29,(11.)Getafe,Real Betis(5.),3,0
+2020/2021,2020-09-30,(17.)SD Huesca,Atlético Madrid(2.),0,0
+2020/2021,2020-09-30,(12.)Villarreal,Alavés(19.),3,1
+2020/2021,2020-09-30,(18.)SD Eibar,Elche CF(20.),0,1
+2020/2021,2020-09-30,(3.)Real Madrid,Real Valladolid(16.),1,0
+2020/2021,2020-10-01,(14.)Athletic,Cádiz CF(15.),0,1
+2020/2021,2020-10-01,(4.)Sevilla FC,Levante(10.),1,0
+2020/2021,2020-10-01,(8.)Celta de Vigo,Barcelona(1.),0,3
+2020/2021,2021-01-12,(6.)Granada CF,CA Osasuna(13.),2,0
+2020/2021,2020-10-03,(18.)Real Valladolid,SD Eibar(19.),1,2
+2020/2021,2020-10-03,(5.)Atlético Madrid,Villarreal(8.),0,0
+2020/2021,2020-10-03,(11.)Real Sociedad,Getafe(7.),3,0
+2020/2021,2020-10-03,(17.)Elche CF,SD Huesca(14.),0,0
+2020/2021,2020-10-03,(6.)Valencia,Real Betis(9.),0,2
+2020/2021,2020-10-04,(16.)CA Osasuna,Celta de Vigo(12.),2,0
+2020/2021,2020-10-04,(20.)Alavés,Athletic(15.),1,0
+2020/2021,2020-10-04,(13.)Levante,Real Madrid(2.),0,2
+2020/2021,2020-10-04,(10.)Cádiz CF,Granada CF(4.),1,1
+2020/2021,2020-10-04,(1.)Barcelona,Sevilla FC(3.),1,1
+2020/2021,2020-10-17,(4.)Granada CF,Sevilla FC(3.),1,0
+2020/2021,2020-10-17,(13.)Celta de Vigo,Atlético Madrid(5.),0,2
+2020/2021,2020-10-17,(2.)Real Madrid,Cádiz CF(10.),0,1
+2020/2021,2020-10-17,(11.)Getafe,Barcelona(1.),1,0
+2020/2021,2020-10-18,(16.)SD Eibar,CA Osasuna(12.),0,0
+2020/2021,2020-10-18,(19.)Athletic,Levante(17.),2,0
+2020/2021,2020-10-18,(8.)Villarreal,Valencia(9.),2,1
+2020/2021,2020-10-18,(18.)Alavés,Elche CF(14.),0,2
+2020/2021,2020-10-18,(15.)SD Huesca,Real Valladolid(20.),2,2
+2020/2021,2020-10-18,(6.)Real Betis,Real Sociedad(7.),0,3
+2020/2021,2020-10-23,(13.)Elche CF,Valencia(11.),2,1
+2020/2021,2020-10-24,(1.)Barcelona,Real Madrid(2.),1,3
+2020/2021,2020-10-24,(12.)CA Osasuna,Athletic(14.),1,0
+2020/2021,2020-10-24,(7.)Sevilla FC,SD Eibar(15.),0,1
+2020/2021,2020-10-24,(4.)Atlético Madrid,Real Betis(10.),2,0
+2020/2021,2020-10-25,(20.)Real Valladolid,Alavés(19.),0,2
+2020/2021,2020-10-25,(8.)Cádiz CF,Villarreal(6.),0,0
+2020/2021,2020-10-25,(9.)Getafe,Granada CF(3.),0,1
+2020/2021,2020-10-25,(5.)Real Sociedad,SD Huesca(17.),4,1
+2020/2021,2020-10-26,(18.)Levante,Celta de Vigo(16.),1,1
+2020/2021,2020-10-30,(13.)SD Eibar,Cádiz CF(7.),0,2
+2020/2021,2020-10-31,(1.)Real Madrid,SD Huesca(19.),4,1
+2020/2021,2020-10-31,(16.)Athletic,Sevilla FC(8.),2,1
+2020/2021,2020-10-31,(10.)CA Osasuna,Atlético Madrid(3.),1,3
+2020/2021,2020-10-31,(15.)Alavés,Barcelona(5.),1,1
+2020/2021,2020-11-01,(12.)Real Betis,Elche CF(11.),3,1
+2020/2021,2020-11-01,(17.)Celta de Vigo,Real Sociedad(4.),1,4
+2020/2021,2020-11-01,(2.)Granada CF,Levante(18.),1,1
+2020/2021,2020-11-01,(14.)Valencia,Getafe(9.),2,2
+2020/2021,2020-11-02,(6.)Villarreal,Real Valladolid(20.),2,0
+2020/2021,2020-11-06,(12.)Elche CF,Celta de Vigo(18.),1,1
+2020/2021,2020-11-07,(19.)SD Huesca,SD Eibar(16.),1,1
+2020/2021,2020-11-07,(6.)Barcelona,Real Betis(8.),5,2
+2020/2021,2020-11-07,(10.)Sevilla FC,CA Osasuna(11.),1,0
+2020/2021,2020-11-07,(2.)Atlético Madrid,Cádiz CF(7.),4,0
+2020/2021,2020-11-08,(9.)Getafe,Villarreal(5.),1,3
+2020/2021,2020-11-08,(3.)Real Sociedad,Granada CF(4.),2,0
+2020/2021,2020-11-08,(17.)Levante,Alavés(15.),1,1
+2020/2021,2020-11-08,(20.)Real Valladolid,Athletic(13.),2,1
+2020/2021,2020-11-08,(14.)Valencia,Real Madrid(1.),4,1
+2020/2021,2020-11-20,(13.)CA Osasuna,SD Huesca(20.),1,1
+2020/2021,2020-11-21,(17.)Levante,Elche CF(10.),1,1
+2020/2021,2020-11-21,(4.)Villarreal,Real Madrid(3.),1,1
+2020/2021,2020-11-21,(8.)Sevilla FC,Celta de Vigo(18.),4,2
+2020/2021,2020-11-21,(1.)Atlético Madrid,Barcelona(5.),1,0
+2020/2021,2020-11-22,(16.)SD Eibar,Getafe(12.),0,0
+2020/2021,2020-11-22,(7.)Cádiz CF,Real Sociedad(2.),0,1
+2020/2021,2020-11-22,(6.)Granada CF,Real Valladolid(19.),1,3
+2020/2021,2020-11-22,(15.)Alavés,Valencia(11.),2,2
+2020/2021,2020-11-23,(14.)Athletic,Real Betis(9.),4,0
+2020/2021,2020-11-27,(17.)Real Valladolid,Levante(18.),1,1
+2020/2021,2020-11-28,(12.)Elche CF,Cádiz CF(8.),1,1
+2020/2021,2020-11-28,(13.)Valencia,Atlético Madrid(1.),0,1
+2020/2021,2020-11-28,(19.)SD Huesca,Sevilla FC(7.),0,1
+2020/2021,2020-11-28,(3.)Real Madrid,Alavés(15.),1,2
+2020/2021,2020-11-29,(5.)Barcelona,CA Osasuna(14.),4,0
+2020/2021,2020-11-29,(10.)Getafe,Athletic(11.),1,1
+2020/2021,2020-11-29,(20.)Celta de Vigo,Granada CF(6.),3,1
+2020/2021,2020-11-29,(2.)Real Sociedad,Villarreal(4.),1,1
+2020/2021,2020-11-30,(9.)Real Betis,SD Eibar(16.),0,2
+2020/2021,2020-12-04,(10.)Athletic,Celta de Vigo(18.),0,2
+2020/2021,2020-12-05,(19.)Levante,Getafe(12.),3,0
+2020/2021,2020-12-05,(6.)Sevilla FC,Real Madrid(3.),0,1
+2020/2021,2020-12-05,(1.)Atlético Madrid,Real Valladolid(17.),2,0
+2020/2021,2020-12-05,(8.)Cádiz CF,Barcelona(4.),2,1
+2020/2021,2020-12-06,(7.)Granada CF,SD Huesca(20.),3,3
+2020/2021,2020-12-06,(16.)CA Osasuna,Real Betis(14.),0,2
+2020/2021,2020-12-06,(5.)Villarreal,Elche CF(9.),0,0
+2020/2021,2020-12-06,(11.)Alavés,Real Sociedad(2.),0,0
+2020/2021,2020-12-07,(13.)SD Eibar,Valencia(15.),0,0
+2020/2021,2020-12-11,(19.)Real Valladolid,CA Osasuna(18.),3,2
+2020/2021,2020-12-12,(15.)Valencia,Athletic(16.),2,2
+2020/2021,2020-12-12,(14.)Getafe,Sevilla FC(6.),0,1
+2020/2021,2020-12-12,(20.)SD Huesca,Alavés(12.),1,0
+2020/2021,2020-12-12,(3.)Real Madrid,Atlético Madrid(1.),2,0
+2020/2021,2020-12-13,(2.)Real Sociedad,SD Eibar(11.),1,1
+2020/2021,2020-12-13,(9.)Real Betis,Villarreal(4.),1,1
+2020/2021,2020-12-13,(10.)Elche CF,Granada CF(8.),0,1
+2020/2021,2020-12-13,(5.)Barcelona,Levante(17.),1,0
+2020/2021,2020-12-14,(13.)Celta de Vigo,Cádiz CF(7.),4,0
+2020/2021,2020-12-18,(15.)Athletic,SD Huesca(19.),2,0
+2020/2021,2020-12-19,(1.)Atlético Madrid,Elche CF(12.),3,1
+2020/2021,2020-12-19,(4.)Barcelona,Valencia(14.),2,2
+2020/2021,2020-12-19,(18.)Levante,Real Sociedad(2.),2,1
+2020/2021,2020-12-19,(20.)CA Osasuna,Villarreal(5.),1,3
+2020/2021,2020-12-19,(6.)Sevilla FC,Real Valladolid(16.),1,1
+2020/2021,2020-12-20,(9.)Celta de Vigo,Alavés(13.),2,0
+2020/2021,2020-12-20,(7.)Granada CF,Real Betis(10.),2,0
+2020/2021,2020-12-20,(8.)Cádiz CF,Getafe(17.),0,2
+2020/2021,2020-12-20,(11.)SD Eibar,Real Madrid(3.),1,3
+2020/2021,2020-12-22,(17.)Elche CF,CA Osasuna(20.),2,2
+2020/2021,2020-12-22,(13.)Valencia,Sevilla FC(7.),0,1
+2020/2021,2020-12-22,(19.)SD Huesca,Levante(15.),1,1
+2020/2021,2020-12-22,(3.)Real Sociedad,Atlético Madrid(1.),0,2
+2020/2021,2020-12-22,(18.)Real Valladolid,Barcelona(5.),0,3
+2020/2021,2020-12-22,(4.)Villarreal,Athletic(10.),1,1
+2020/2021,2020-12-23,(11.)Getafe,Celta de Vigo(8.),1,1
+2020/2021,2020-12-23,(2.)Real Madrid,Granada CF(6.),2,0
+2020/2021,2020-12-23,(16.)Alavés,SD Eibar(14.),2,1
+2020/2021,2020-12-23,(12.)Real Betis,Cádiz CF(9.),1,0
+2020/2021,2020-12-29,(6.)Sevilla FC,Villarreal(5.),2,0
+2020/2021,2020-12-29,(3.)Barcelona,SD Eibar(17.),1,1
+2020/2021,2020-12-29,(10.)Cádiz CF,Real Valladolid(18.),0,0
+2020/2021,2020-12-29,(14.)Levante,Real Betis(9.),4,3
+2020/2021,2020-12-30,(7.)Granada CF,Valencia(16.),2,1
+2020/2021,2020-12-30,(1.)Atlético Madrid,Getafe(13.),1,0
+2020/2021,2020-12-30,(8.)Celta de Vigo,SD Huesca(19.),2,1
+2020/2021,2020-12-30,(15.)Elche CF,Real Madrid(2.),1,1
+2020/2021,2020-12-31,(11.)Athletic,Real Sociedad(4.),0,1
+2020/2021,2020-12-31,(20.)CA Osasuna,Alavés(12.),1,1
+2020/2021,2021-01-02,(7.)Villarreal,Levante(9.),2,1
+2020/2021,2021-01-02,(10.)Real Betis,Sevilla FC(4.),1,1
+2020/2021,2021-01-02,(14.)Getafe,Real Valladolid(18.),0,1
+2020/2021,2021-01-02,(2.)Real Madrid,Celta de Vigo(8.),2,0
+2020/2021,2021-01-03,(13.)Athletic,Elche CF(15.),1,0
+2020/2021,2021-01-03,(12.)Alavés,Atlético Madrid(1.),1,2
+2020/2021,2021-01-03,(16.)SD Eibar,Granada CF(6.),2,0
+2020/2021,2021-01-03,(3.)Real Sociedad,CA Osasuna(19.),1,1
+2020/2021,2021-01-03,(20.)SD Huesca,Barcelona(5.),0,1
+2020/2021,2021-01-04,(17.)Valencia,Cádiz CF(11.),1,1
+2020/2021,2021-01-08,(8.)Celta de Vigo,Villarreal(6.),0,4
+2020/2021,2021-01-09,(5.)Sevilla FC,Real Sociedad(4.),3,2
+2020/2021,2021-01-09,(7.)Granada CF,Barcelona(3.),0,4
+2020/2021,2021-01-09,(19.)CA Osasuna,Real Madrid(2.),0,0
+2020/2021,2021-01-10,(12.)Levante,SD Eibar(13.),2,1
+2020/2021,2021-01-10,(11.)Cádiz CF,Alavés(14.),3,1
+2020/2021,2021-01-10,(15.)Real Valladolid,Valencia(18.),0,1
+2020/2021,2021-01-11,(17.)Elche CF,Getafe(16.),1,3
+2020/2021,2021-01-11,(20.)SD Huesca,Real Betis(10.),0,2
+2020/2021,2021-03-10,(1.)Atlético Madrid,Athletic(9.),2,1
+2020/2021,2020-12-15,(2.)Real Madrid,Athletic(12.),3,1
+2020/2021,2020-12-16,(3.)Barcelona,Real Sociedad(6.),2,1
+2020/2021,2021-01-19,(10.)Cádiz CF,Levante(11.),2,2
+2020/2021,2021-01-19,(17.)Real Valladolid,Elche CF(18.),2,2
+2020/2021,2021-01-19,(16.)Alavés,Sevilla FC(4.),1,2
+2020/2021,2021-01-20,(13.)Getafe,SD Huesca(20.),1,0
+2020/2021,2021-01-20,(9.)Real Betis,Celta de Vigo(8.),2,1
+2020/2021,2021-01-20,(5.)Villarreal,Granada CF(7.),2,2
+2020/2021,2021-01-21,(14.)Valencia,CA Osasuna(19.),1,1
+2020/2021,2021-01-21,(15.)SD Eibar,Atlético Madrid(1.),1,2
+2020/2021,2021-01-22,(10.)Levante,Real Valladolid(16.),2,2
+2020/2021,2021-01-23,(20.)SD Huesca,Villarreal(5.),0,0
+2020/2021,2021-01-23,(4.)Sevilla FC,Cádiz CF(9.),3,0
+2020/2021,2021-01-23,(6.)Real Sociedad,Real Betis(8.),2,2
+2020/2021,2021-01-23,(17.)Alavés,Real Madrid(2.),1,4
+2020/2021,2021-01-24,(19.)CA Osasuna,Granada CF(7.),3,1
+2020/2021,2021-01-24,(18.)Elche CF,Barcelona(3.),0,2
+2020/2021,2021-01-24,(11.)Celta de Vigo,SD Eibar(15.),1,1
+2020/2021,2021-01-24,(1.)Atlético Madrid,Valencia(14.),3,1
+2020/2021,2021-01-25,(13.)Athletic,Getafe(12.),5,1
+2020/2021,2021-01-29,(16.)Real Valladolid,SD Huesca(20.),1,3
+2020/2021,2021-01-30,(15.)SD Eibar,Sevilla FC(4.),0,2
+2020/2021,2021-01-30,(2.)Real Madrid,Levante(12.),1,2
+2020/2021,2021-01-30,(14.)Valencia,Elche CF(19.),1,0
+2020/2021,2021-01-30,(5.)Villarreal,Real Sociedad(6.),1,1
+2020/2021,2021-01-31,(13.)Getafe,Alavés(18.),0,0
+2020/2021,2021-01-31,(10.)Cádiz CF,Atlético Madrid(1.),2,4
+2020/2021,2021-01-31,(7.)Granada CF,Celta de Vigo(9.),0,0
+2020/2021,2021-01-31,(3.)Barcelona,Athletic(11.),2,1
+2020/2021,2021-02-01,(8.)Real Betis,CA Osasuna(17.),1,0
+2020/2021,2021-02-05,(18.)Alavés,Real Valladolid(16.),1,0
+2020/2021,2021-02-06,(9.)Levante,Granada CF(8.),2,2
+2020/2021,2021-02-06,(20.)SD Huesca,Real Madrid(2.),1,2
+2020/2021,2021-02-06,(19.)Elche CF,Villarreal(5.),2,2
+2020/2021,2021-02-06,(4.)Sevilla FC,Getafe(12.),3,0
+2020/2021,2021-02-07,(6.)Real Sociedad,Cádiz CF(13.),4,1
+2020/2021,2021-02-07,(11.)Athletic,Valencia(14.),1,1
+2020/2021,2021-02-07,(17.)CA Osasuna,SD Eibar(15.),2,1
+2020/2021,2021-02-07,(7.)Real Betis,Barcelona(3.),2,3
+2020/2021,2021-02-08,(1.)Atlético Madrid,Celta de Vigo(10.),2,2
+2020/2021,2021-02-12,(10.)Celta de Vigo,Elche CF(19.),3,1
+2020/2021,2021-02-13,(7.)Granada CF,Atlético Madrid(1.),1,2
+2020/2021,2021-02-13,(4.)Sevilla FC,SD Huesca(20.),1,0
+2020/2021,2021-02-13,(17.)SD Eibar,Real Valladolid(18.),1,1
+2020/2021,2021-02-13,(3.)Barcelona,Alavés(16.),5,1
+2020/2021,2021-02-14,(12.)Getafe,Real Sociedad(6.),0,1
+2020/2021,2021-02-14,(2.)Real Madrid,Valencia(13.),2,0
+2020/2021,2021-02-14,(9.)Levante,CA Osasuna(15.),0,1
+2020/2021,2021-02-14,(5.)Villarreal,Real Betis(8.),1,2
+2020/2021,2021-02-15,(14.)Cádiz CF,Athletic(11.),0,4
+2020/2021,2021-02-19,(7.)Real Betis,Getafe(13.),1,0
+2020/2021,2021-02-20,(19.)Elche CF,SD Eibar(17.),1,0
+2020/2021,2021-02-20,(1.)Atlético Madrid,Levante(11.),0,2
+2020/2021,2021-02-20,(14.)Valencia,Celta de Vigo(9.),2,0
+2020/2021,2021-02-20,(18.)Real Valladolid,Real Madrid(2.),0,1
+2020/2021,2021-02-21,(3.)Barcelona,Cádiz CF(15.),1,1
+2020/2021,2021-02-21,(5.)Real Sociedad,Alavés(16.),4,0
+2020/2021,2021-02-21,(20.)SD Huesca,Granada CF(8.),3,2
+2020/2021,2021-02-21,(10.)Athletic,Villarreal(6.),1,1
+2020/2021,2021-02-22,(12.)CA Osasuna,Sevilla FC(4.),0,2
+2020/2021,2021-02-26,(8.)Levante,Athletic(11.),1,1
+2020/2021,2021-02-27,(18.)SD Eibar,SD Huesca(20.),1,1
+2020/2021,2021-02-27,(3.)Sevilla FC,Barcelona(4.),0,2
+2020/2021,2021-02-27,(16.)Alavés,CA Osasuna(13.),0,1
+2020/2021,2021-02-27,(15.)Getafe,Valencia(12.),3,0
+2020/2021,2021-02-28,(10.)Celta de Vigo,Real Valladolid(19.),1,1
+2020/2021,2021-02-28,(14.)Cádiz CF,Real Betis(7.),0,1
+2020/2021,2021-02-28,(9.)Granada CF,Elche CF(17.),2,1
+2020/2021,2021-02-28,(6.)Villarreal,Atlético Madrid(1.),0,2
+2020/2021,2021-03-01,(2.)Real Madrid,Real Sociedad(5.),1,1
+2020/2021,2021-03-05,(14.)Valencia,Villarreal(7.),2,1
+2020/2021,2021-03-06,(18.)Real Valladolid,Getafe(13.),2,1
+2020/2021,2021-03-06,(19.)Elche CF,Sevilla FC(4.),2,1
+2020/2021,2021-03-06,(15.)Cádiz CF,SD Eibar(17.),1,0
+2020/2021,2021-03-06,(12.)CA Osasuna,Barcelona(3.),0,2
+2020/2021,2021-03-07,(20.)SD Huesca,Celta de Vigo(10.),3,4
+2020/2021,2021-03-07,(1.)Atlético Madrid,Real Madrid(2.),1,1
+2020/2021,2021-03-07,(5.)Real Sociedad,Levante(9.),1,0
+2020/2021,2021-03-07,(11.)Athletic,Granada CF(8.),2,1
+2020/2021,2021-03-08,(6.)Real Betis,Alavés(16.),3,2
+2020/2021,2021-03-12,(11.)Levante,Valencia(12.),1,0
+2020/2021,2021-03-13,(18.)Alavés,Cádiz CF(14.),1,1
+2020/2021,2021-03-13,(3.)Real Madrid,Elche CF(17.),2,1
+2020/2021,2021-03-13,(13.)CA Osasuna,Real Valladolid(16.),0,0
+2020/2021,2021-03-13,(15.)Getafe,Atlético Madrid(1.),0,0
+2020/2021,2021-03-14,(8.)Celta de Vigo,Athletic(10.),0,0
+2020/2021,2021-03-14,(9.)Granada CF,Real Sociedad(5.),1,0
+2020/2021,2021-03-14,(19.)SD Eibar,Villarreal(7.),1,3
+2020/2021,2021-03-14,(4.)Sevilla FC,Real Betis(6.),1,0
+2020/2021,2021-03-15,(2.)Barcelona,SD Huesca(20.),4,1
+2020/2021,2021-03-19,(6.)Real Betis,Levante(9.),2,0
+2020/2021,2021-03-20,(11.)Athletic,SD Eibar(19.),1,1
+2020/2021,2021-03-20,(10.)Celta de Vigo,Real Madrid(3.),1,3
+2020/2021,2021-03-20,(20.)SD Huesca,CA Osasuna(13.),0,0
+2020/2021,2021-03-20,(16.)Real Valladolid,Sevilla FC(4.),1,1
+2020/2021,2021-03-21,(15.)Getafe,Elche CF(17.),1,1
+2020/2021,2021-03-21,(12.)Valencia,Granada CF(8.),2,1
+2020/2021,2021-03-21,(7.)Villarreal,Cádiz CF(14.),2,1
+2020/2021,2021-03-21,(1.)Atlético Madrid,Alavés(18.),1,0
+2020/2021,2021-03-21,(5.)Real Sociedad,Barcelona(2.),1,6
+2020/2021,2021-04-02,(10.)Levante,SD Huesca(20.),0,2
+2020/2021,2021-04-03,(8.)Granada CF,Villarreal(7.),0,3
+2020/2021,2021-04-03,(3.)Real Madrid,SD Eibar(19.),2,0
+2020/2021,2021-04-03,(13.)CA Osasuna,Getafe(14.),0,0
+2020/2021,2021-04-04,(18.)Alavés,Celta de Vigo(11.),1,3
+2020/2021,2021-04-04,(17.)Elche CF,Real Betis(6.),1,1
+2020/2021,2021-04-04,(15.)Cádiz CF,Valencia(12.),2,1
+2020/2021,2021-04-04,(4.)Sevilla FC,Atlético Madrid(1.),1,0
+2020/2021,2021-04-05,(2.)Barcelona,Real Valladolid(16.),1,0
+2020/2021,2021-04-07,(5.)Real Sociedad,Athletic(9.),1,1
+2020/2021,2021-04-09,(18.)SD Huesca,Elche CF(17.),3,1
+2020/2021,2021-04-10,(15.)Getafe,Cádiz CF(13.),0,1
+2020/2021,2021-04-10,(9.)Athletic,Alavés(19.),0,0
+2020/2021,2021-04-10,(20.)SD Eibar,Levante(11.),0,1
+2020/2021,2021-04-10,(3.)Real Madrid,Barcelona(2.),2,1
+2020/2021,2021-04-11,(7.)Villarreal,CA Osasuna(14.),1,2
+2020/2021,2021-04-11,(12.)Valencia,Real Sociedad(5.),2,2
+2020/2021,2021-04-11,(16.)Real Valladolid,Granada CF(10.),1,2
+2020/2021,2021-04-11,(6.)Real Betis,Atlético Madrid(1.),1,1
+2020/2021,2021-04-12,(8.)Celta de Vigo,Sevilla FC(4.),3,4
+2020/2021,2021-04-21,(9.)Levante,Sevilla FC(4.),0,1
+2020/2021,2021-04-21,(14.)CA Osasuna,Valencia(13.),3,1
+2020/2021,2021-04-21,(6.)Real Betis,Athletic(11.),0,0
+2020/2021,2021-04-21,(19.)Alavés,Villarreal(7.),2,1
+2020/2021,2021-04-21,(18.)Elche CF,Real Valladolid(17.),1,1
+2020/2021,2021-04-21,(12.)Cádiz CF,Real Madrid(2.),0,3
+2020/2021,2021-04-22,(1.)Atlético Madrid,SD Huesca(16.),2,0
+2020/2021,2021-04-22,(8.)Granada CF,SD Eibar(20.),4,1
+2020/2021,2021-04-22,(5.)Real Sociedad,Celta de Vigo(10.),2,1
+2020/2021,2021-04-22,(3.)Barcelona,Getafe(15.),5,2
+2020/2021,2021-04-24,(18.)Elche CF,Levante(10.),1,0
+2020/2021,2021-04-24,(16.)Real Valladolid,Cádiz CF(13.),1,1
+2020/2021,2021-04-24,(14.)Valencia,Alavés(19.),1,1
+2020/2021,2021-04-24,(2.)Real Madrid,Real Betis(6.),0,0
+2020/2021,2021-04-25,(17.)SD Huesca,Getafe(15.),0,2
+2020/2021,2021-04-25,(7.)Villarreal,Barcelona(3.),1,2
+2020/2021,2021-04-25,(12.)Celta de Vigo,CA Osasuna(11.),2,1
+2020/2021,2021-04-25,(4.)Sevilla FC,Granada CF(8.),2,1
+2020/2021,2021-04-25,(9.)Athletic,Atlético Madrid(1.),2,1
+2020/2021,2021-04-26,(20.)SD Eibar,Real Sociedad(5.),0,1
+2020/2021,2021-04-18,(12.)CA Osasuna,Elche CF(16.),2,0
+2020/2021,2021-04-18,(5.)Real Sociedad,Sevilla FC(4.),1,2
+2020/2021,2021-04-18,(18.)Alavés,SD Huesca(19.),1,0
+2020/2021,2021-04-18,(3.)Atlético Madrid,SD Eibar(20.),5,0
+2020/2021,2021-04-18,(13.)Cádiz CF,Celta de Vigo(10.),0,0
+2020/2021,2021-04-18,(6.)Real Betis,Valencia(14.),2,2
+2020/2021,2021-04-18,(15.)Getafe,Real Madrid(2.),0,0
+2020/2021,2021-04-18,(11.)Levante,Villarreal(7.),1,5
+2020/2021,2021-04-28,(9.)Athletic,Real Valladolid(17.),2,2
+2020/2021,2021-04-29,(1.)Barcelona,Granada CF(8.),1,2
+2020/2021,2021-04-30,(10.)Celta de Vigo,Levante(12.),2,0
+2020/2021,2021-05-01,(20.)SD Eibar,Alavés(16.),3,0
+2020/2021,2021-05-01,(18.)Elche CF,Atlético Madrid(1.),0,1
+2020/2021,2021-05-01,(19.)SD Huesca,Real Sociedad(5.),1,0
+2020/2021,2021-05-01,(2.)Real Madrid,CA Osasuna(11.),2,0
+2020/2021,2021-05-02,(17.)Real Valladolid,Real Betis(6.),1,1
+2020/2021,2021-05-02,(7.)Villarreal,Getafe(15.),1,0
+2020/2021,2021-05-02,(8.)Granada CF,Cádiz CF(13.),0,1
+2020/2021,2021-05-02,(14.)Valencia,Barcelona(3.),2,3
+2020/2021,2021-05-03,(4.)Sevilla FC,Athletic(9.),0,1
+2020/2021,2021-05-07,(5.)Real Sociedad,Elche CF(19.),2,0
+2020/2021,2021-05-08,(16.)Alavés,Levante(13.),2,2
+2020/2021,2021-05-08,(3.)Barcelona,Atlético Madrid(1.),0,0
+2020/2021,2021-05-08,(12.)Cádiz CF,SD Huesca(18.),2,1
+2020/2021,2021-05-08,(8.)Athletic,CA Osasuna(11.),2,2
+2020/2021,2021-05-09,(15.)Getafe,SD Eibar(20.),0,1
+2020/2021,2021-05-09,(14.)Valencia,Real Valladolid(17.),3,0
+2020/2021,2021-05-09,(6.)Villarreal,Celta de Vigo(10.),2,4
+2020/2021,2021-05-09,(2.)Real Madrid,Sevilla FC(4.),2,2
+2020/2021,2021-05-10,(7.)Real Betis,Granada CF(9.),2,1
+2020/2021,2021-05-11,(12.)CA Osasuna,Cádiz CF(11.),3,2
+2020/2021,2021-05-11,(19.)Elche CF,Alavés(16.),0,2
+2020/2021,2021-05-11,(14.)Levante,Barcelona(3.),3,3
+2020/2021,2021-05-12,(4.)Sevilla FC,Valencia(13.),1,0
+2020/2021,2021-05-12,(8.)Celta de Vigo,Getafe(15.),1,0
+2020/2021,2021-05-12,(18.)SD Huesca,Athletic(9.),1,0
+2020/2021,2021-05-12,(1.)Atlético Madrid,Real Sociedad(5.),2,1
+2020/2021,2021-05-13,(17.)Real Valladolid,Villarreal(7.),0,2
+2020/2021,2021-05-13,(20.)SD Eibar,Real Betis(6.),1,1
+2020/2021,2021-05-13,(10.)Granada CF,Real Madrid(2.),1,4
+2020/2021,2021-05-16,(15.)Alavés,Granada CF(10.),4,2
+2020/2021,2021-05-16,(9.)Athletic,Real Madrid(2.),0,1
+2020/2021,2021-05-16,(1.)Atlético Madrid,CA Osasuna(11.),2,1
+2020/2021,2021-05-16,(3.)Barcelona,Celta de Vigo(8.),1,2
+2020/2021,2021-05-16,(12.)Cádiz CF,Elche CF(19.),1,3
+2020/2021,2021-05-16,(16.)Getafe,Levante(13.),2,1
+2020/2021,2021-05-16,(6.)Real Betis,SD Huesca(17.),1,0
+2020/2021,2021-05-16,(5.)Real Sociedad,Real Valladolid(18.),4,1
+2020/2021,2021-05-16,(14.)Valencia,SD Eibar(20.),4,1
+2020/2021,2021-05-16,(7.)Villarreal,Sevilla FC(4.),4,0
+2020/2021,2021-05-21,(14.)Levante,Cádiz CF(12.),2,2
+2020/2021,2021-05-22,(8.)Celta de Vigo,Real Betis(6.),2,3
+2020/2021,2021-05-22,(20.)SD Eibar,Barcelona(3.),0,1
+2020/2021,2021-05-22,(18.)Elche CF,Athletic(9.),2,0
+2020/2021,2021-05-22,(17.)SD Huesca,Valencia(13.),0,0
+2020/2021,2021-05-22,(11.)CA Osasuna,Real Sociedad(5.),0,1
+2020/2021,2021-05-22,(2.)Real Madrid,Villarreal(7.),2,1
+2020/2021,2021-05-22,(19.)Real Valladolid,Atlético Madrid(1.),1,2
+2020/2021,2021-05-23,(10.)Granada CF,Getafe(16.),0,0
+2020/2021,2021-05-23,(4.)Sevilla FC,Alavés(15.),1,0
+2021/2022,2021-08-13,Valencia,Getafe,1,0
+2021/2022,2021-08-14,RCD Mallorca,Real Betis,1,1
+2021/2022,2021-08-14,Cádiz CF,Levante,1,1
+2021/2022,2021-08-14,Alavés,Real Madrid,1,4
+2021/2022,2021-08-14,CA Osasuna,Espanyol,0,0
+2021/2022,2021-08-15,Celta de Vigo,Atlético Madrid,1,2
+2021/2022,2021-08-15,Barcelona,Real Sociedad,4,2
+2021/2022,2021-08-15,Sevilla FC,Rayo Vallecano,3,0
+2021/2022,2021-08-16,Villarreal,Granada CF,0,0
+2021/2022,2021-08-16,Elche CF,Athletic,0,0
+2021/2022,2021-08-20,(6.)Real Betis,Cádiz CF(7.),1,1
+2021/2022,2021-08-21,(19.)Alavés,RCD Mallorca(9.),0,1
+2021/2022,2021-08-21,(12.)Granada CF,Valencia(5.),1,1
+2021/2022,2021-08-21,(13.)Espanyol,Villarreal(10.),0,0
+2021/2022,2021-08-21,(11.)Athletic,Barcelona(3.),1,1
+2021/2022,2021-08-22,(18.)Real Sociedad,Rayo Vallecano(20.),1,0
+2021/2022,2021-08-22,(4.)Atlético Madrid,Elche CF(15.),1,0
+2021/2022,2021-08-22,(8.)Levante,Real Madrid(1.),3,3
+2021/2022,2021-08-23,(17.)Getafe,Sevilla FC(2.),0,1
+2021/2022,2021-08-23,(14.)CA Osasuna,Celta de Vigo(16.),0,0
+2021/2022,2021-08-27,(6.)RCD Mallorca,Espanyol(10.),1,0
+2021/2022,2021-08-27,(5.)Valencia,Alavés(19.),3,0
+2021/2022,2021-08-28,(16.)Celta de Vigo,Athletic(15.),0,1
+2021/2022,2021-08-28,(7.)Real Sociedad,Levante(11.),1,0
+2021/2022,2021-08-28,(17.)Elche CF,Sevilla FC(1.),1,1
+2021/2022,2021-08-28,(12.)Real Betis,Real Madrid(3.),0,1
+2021/2022,2021-08-29,(4.)Barcelona,Getafe(18.),2,1
+2021/2022,2021-08-29,(8.)Cádiz CF,CA Osasuna(14.),2,3
+2021/2022,2021-08-29,(20.)Rayo Vallecano,Granada CF(13.),4,0
+2021/2022,2021-08-29,(2.)Atlético Madrid,Villarreal(9.),2,2
+2021/2022,2021-09-11,(13.)Levante,Rayo Vallecano(10.),1,1
+2021/2022,2021-09-11,(9.)Athletic,RCD Mallorca(6.),2,0
+2021/2022,2021-09-12,(16.)Espanyol,Atlético Madrid(5.),1,2
+2021/2022,2021-09-12,(8.)CA Osasuna,Valencia(3.),1,4
+2021/2022,2021-09-12,(12.)Cádiz CF,Real Sociedad(7.),0,2
+2021/2022,2021-09-12,(1.)Real Madrid,Celta de Vigo(18.),5,2
+2021/2022,2021-09-13,(19.)Getafe,Elche CF(15.),0,1
+2021/2022,2021-09-13,(17.)Granada CF,Real Betis(14.),1,2
+2021/2022,2021-12-21,(11.)Villarreal,Alavés(20.),5,2
+2021/2022,2021-12-21,(2.)Sevilla FC,Barcelona(4.),1,1
+2021/2022,2021-09-17,(18.)Celta de Vigo,Cádiz CF(16.),1,2
+2021/2022,2021-09-18,(13.)Rayo Vallecano,Getafe(19.),3,0
+2021/2022,2021-09-18,(3.)Atlético Madrid,Athletic(7.),0,0
+2021/2022,2021-09-18,(11.)Elche CF,Levante(14.),1,1
+2021/2022,2021-09-18,(20.)Alavés,CA Osasuna(12.),0,2
+2021/2022,2021-09-19,(8.)RCD Mallorca,Villarreal(9.),0,0
+2021/2022,2021-09-19,(4.)Real Sociedad,Sevilla FC(6.),0,0
+2021/2022,2021-09-19,(10.)Real Betis,Espanyol(15.),2,2
+2021/2022,2021-09-19,(2.)Valencia,Real Madrid(1.),1,2
+2021/2022,2021-09-20,(5.)Barcelona,Granada CF(17.),1,1
+2021/2022,2021-09-21,(19.)Getafe,Atlético Madrid(2.),1,2
+2021/2022,2021-09-21,(7.)Athletic,Rayo Vallecano(10.),1,2
+2021/2022,2021-09-21,(15.)Levante,Celta de Vigo(18.),0,2
+2021/2022,2021-09-22,(16.)Espanyol,Alavés(20.),1,0
+2021/2022,2021-09-22,(6.)Sevilla FC,Valencia(3.),3,1
+2021/2022,2021-09-22,(1.)Real Madrid,RCD Mallorca(9.),6,1
+2021/2022,2021-09-22,(11.)Villarreal,Elche CF(13.),4,1
+2021/2022,2021-09-23,(17.)Granada CF,Real Sociedad(4.),2,3
+2021/2022,2021-09-23,(8.)CA Osasuna,Real Betis(12.),1,3
+2021/2022,2021-09-23,(14.)Cádiz CF,Barcelona(5.),0,0
+2021/2022,2021-09-25,(20.)Alavés,Atlético Madrid(2.),1,0
+2021/2022,2021-09-25,(6.)Valencia,Athletic(10.),1,1
+2021/2022,2021-09-25,(4.)Sevilla FC,Espanyol(13.),2,0
+2021/2022,2021-09-25,(1.)Real Madrid,Villarreal(5.),0,0
+2021/2022,2021-09-26,(12.)RCD Mallorca,CA Osasuna(11.),2,3
+2021/2022,2021-09-26,(8.)Barcelona,Levante(17.),3,0
+2021/2022,2021-09-26,(3.)Real Sociedad,Elche CF(15.),1,0
+2021/2022,2021-09-26,(7.)Rayo Vallecano,Cádiz CF(14.),3,1
+2021/2022,2021-09-26,(9.)Real Betis,Getafe(19.),2,0
+2021/2022,2021-09-27,(16.)Celta de Vigo,Granada CF(18.),1,0
+2021/2022,2021-10-01,(11.)Athletic,Alavés(19.),1,0
+2021/2022,2021-10-02,(10.)CA Osasuna,Rayo Vallecano(5.),1,0
+2021/2022,2021-10-02,(12.)RCD Mallorca,Levante(17.),1,0
+2021/2022,2021-10-02,(15.)Cádiz CF,Valencia(8.),0,0
+2021/2022,2021-10-02,(4.)Atlético Madrid,Barcelona(6.),2,0
+2021/2022,2021-10-03,(16.)Elche CF,Celta de Vigo(13.),1,0
+2021/2022,2021-10-03,(14.)Espanyol,Real Madrid(1.),2,1
+2021/2022,2021-10-03,(20.)Getafe,Real Sociedad(2.),1,1
+2021/2022,2021-10-03,(9.)Villarreal,Real Betis(7.),2,0
+2021/2022,2021-10-03,(18.)Granada CF,Sevilla FC(3.),1,0
+2021/2022,2021-10-16,(18.)Levante,Getafe(20.),0,0
+2021/2022,2021-10-16,(3.)Real Sociedad,RCD Mallorca(12.),1,0
+2021/2022,2021-10-17,(7.)Rayo Vallecano,Elche CF(14.),2,1
+2021/2022,2021-10-17,(16.)Celta de Vigo,Sevilla FC(4.),0,1
+2021/2022,2021-10-17,(5.)Villarreal,CA Osasuna(6.),1,2
+2021/2022,2021-10-17,(8.)Barcelona,Valencia(10.),3,1
+2021/2022,2021-10-18,(19.)Alavés,Real Betis(11.),0,1
+2021/2022,2021-10-18,(13.)Espanyol,Cádiz CF(15.),2,0
+2021/2022,2021-12-01,(1.)Real Madrid,Athletic(9.),1,0
+2021/2022,2021-12-22,(17.)Granada CF,Atlético Madrid(2.),2,1
+2021/2022,2021-10-22,(5.)CA Osasuna,Granada CF(15.),1,1
+2021/2022,2021-10-23,(11.)Valencia,RCD Mallorca(13.),2,2
+2021/2022,2021-10-23,(16.)Cádiz CF,Alavés(19.),0,2
+2021/2022,2021-10-23,(14.)Elche CF,Espanyol(12.),2,2
+2021/2022,2021-10-23,(10.)Athletic,Villarreal(9.),2,1
+2021/2022,2021-10-24,(3.)Sevilla FC,Levante(18.),5,3
+2021/2022,2021-10-24,(6.)Barcelona,Real Madrid(1.),1,2
+2021/2022,2021-10-24,(8.)Real Betis,Rayo Vallecano(7.),3,2
+2021/2022,2021-10-24,(4.)Atlético Madrid,Real Sociedad(2.),2,2
+2021/2022,2021-10-25,(20.)Getafe,Celta de Vigo(17.),0,3
+2021/2022,2021-10-26,(18.)Alavés,Elche CF(15.),1,0
+2021/2022,2021-10-26,(12.)Espanyol,Athletic(9.),1,1
+2021/2022,2021-10-26,(10.)Villarreal,Cádiz CF(17.),3,3
+2021/2022,2021-10-27,(13.)RCD Mallorca,Sevilla FC(2.),1,1
+2021/2022,2021-10-27,(7.)Rayo Vallecano,Barcelona(8.),1,0
+2021/2022,2021-10-27,(4.)Real Betis,Valencia(11.),4,1
+2021/2022,2021-10-27,(1.)Real Madrid,CA Osasuna(6.),0,0
+2021/2022,2021-10-28,(14.)Celta de Vigo,Real Sociedad(3.),0,2
+2021/2022,2021-10-28,(16.)Granada CF,Getafe(20.),1,1
+2021/2022,2021-10-28,(19.)Levante,Atlético Madrid(5.),2,2
+2021/2022,2021-10-30,(15.)Elche CF,Real Madrid(1.),1,2
+2021/2022,2021-10-30,(3.)Sevilla FC,CA Osasuna(5.),2,0
+2021/2022,2021-10-30,(12.)Valencia,Villarreal(10.),2,0
+2021/2022,2021-10-30,(9.)Barcelona,Alavés(17.),1,1
+2021/2022,2021-10-31,(18.)Cádiz CF,RCD Mallorca(13.),1,1
+2021/2022,2021-10-31,(7.)Atlético Madrid,Real Betis(4.),3,0
+2021/2022,2021-10-31,(20.)Getafe,Espanyol(11.),2,1
+2021/2022,2021-10-31,(2.)Real Sociedad,Athletic(8.),1,1
+2021/2022,2021-11-01,(6.)Rayo Vallecano,Celta de Vigo(16.),0,0
+2021/2022,2021-11-01,(19.)Levante,Granada CF(14.),0,3
+2021/2022,2021-11-05,(8.)Athletic,Cádiz CF(18.),0,1
+2021/2022,2021-11-06,(13.)Espanyol,Granada CF(14.),2,0
+2021/2022,2021-11-06,(15.)Celta de Vigo,Barcelona(9.),3,3
+2021/2022,2021-11-06,(16.)Alavés,Levante(19.),2,1
+2021/2022,2021-11-06,(1.)Real Madrid,Rayo Vallecano(6.),2,1
+2021/2022,2021-11-07,(11.)Villarreal,Getafe(20.),1,0
+2021/2022,2021-11-07,(10.)Valencia,Atlético Madrid(4.),3,3
+2021/2022,2021-11-07,(12.)RCD Mallorca,Elche CF(17.),2,2
+2021/2022,2021-11-07,(7.)CA Osasuna,Real Sociedad(3.),0,2
+2021/2022,2021-11-07,(5.)Real Betis,Sevilla FC(2.),0,2
+2021/2022,2021-11-19,(19.)Levante,Athletic(8.),0,0
+2021/2022,2021-11-20,(17.)Celta de Vigo,Villarreal(10.),1,1
+2021/2022,2021-11-20,(2.)Sevilla FC,Alavés(15.),2,2
+2021/2022,2021-11-20,(4.)Atlético Madrid,CA Osasuna(7.),1,0
+2021/2022,2021-11-20,(9.)Barcelona,Espanyol(12.),1,0
+2021/2022,2021-11-21,(20.)Getafe,Cádiz CF(16.),4,0
+2021/2022,2021-11-21,(14.)Granada CF,Real Madrid(1.),1,4
+2021/2022,2021-11-21,(18.)Elche CF,Real Betis(5.),0,3
+2021/2022,2021-11-21,(3.)Real Sociedad,Valencia(11.),0,0
+2021/2022,2021-11-22,(6.)Rayo Vallecano,RCD Mallorca(13.),3,1
+2021/2022,2021-11-26,(8.)Athletic,Granada CF(14.),2,2
+2021/2022,2021-11-27,(15.)Alavés,Celta de Vigo(16.),1,2
+2021/2022,2021-11-27,(11.)Valencia,Rayo Vallecano(6.),1,1
+2021/2022,2021-11-27,(13.)RCD Mallorca,Getafe(19.),0,0
+2021/2022,2021-11-27,(10.)Villarreal,Barcelona(7.),1,3
+2021/2022,2021-11-28,(5.)Real Betis,Levante(20.),3,1
+2021/2022,2021-11-28,(12.)Espanyol,Real Sociedad(3.),1,0
+2021/2022,2021-11-28,(17.)Cádiz CF,Atlético Madrid(4.),1,4
+2021/2022,2021-11-28,(1.)Real Madrid,Sevilla FC(2.),2,1
+2021/2022,2021-11-29,(9.)CA Osasuna,Elche CF(18.),1,1
+2021/2022,2021-12-03,(15.)Granada CF,Alavés(16.),2,1
+2021/2022,2021-12-04,(3.)Sevilla FC,Villarreal(12.),1,0
+2021/2022,2021-12-04,(7.)Barcelona,Real Betis(5.),0,1
+2021/2022,2021-12-04,(4.)Atlético Madrid,RCD Mallorca(14.),1,2
+2021/2022,2021-12-04,(2.)Real Sociedad,Real Madrid(1.),0,2
+2021/2022,2021-12-05,(6.)Rayo Vallecano,Espanyol(8.),1,0
+2021/2022,2021-12-05,(17.)Elche CF,Cádiz CF(18.),3,1
+2021/2022,2021-12-05,(20.)Levante,CA Osasuna(10.),0,0
+2021/2022,2021-12-05,(13.)Celta de Vigo,Valencia(11.),1,2
+2021/2022,2021-12-06,(19.)Getafe,Athletic(9.),0,0
+2021/2022,2021-12-10,(13.)RCD Mallorca,Celta de Vigo(15.),0,0
+2021/2022,2021-12-11,(11.)Espanyol,Levante(20.),4,3
+2021/2022,2021-12-11,(17.)Alavés,Getafe(19.),1,1
+2021/2022,2021-12-11,(8.)Valencia,Elche CF(16.),2,1
+2021/2022,2021-12-11,(9.)Athletic,Sevilla FC(2.),0,1
+2021/2022,2021-12-12,(12.)Villarreal,Rayo Vallecano(6.),2,0
+2021/2022,2021-12-12,(10.)CA Osasuna,Barcelona(7.),2,2
+2021/2022,2021-12-12,(3.)Real Betis,Real Sociedad(5.),4,0
+2021/2022,2021-12-12,(1.)Real Madrid,Atlético Madrid(4.),2,0
+2021/2022,2021-12-13,(18.)Cádiz CF,Granada CF(14.),1,1
+2021/2022,2021-12-17,(15.)Celta de Vigo,Espanyol(9.),3,1
+2021/2022,2021-12-18,(6.)Rayo Vallecano,Alavés(16.),2,0
+2021/2022,2021-12-18,(5.)Real Sociedad,Villarreal(11.),1,3
+2021/2022,2021-12-18,(7.)Barcelona,Elche CF(17.),3,2
+2021/2022,2021-12-18,(2.)Sevilla FC,Atlético Madrid(4.),2,1
+2021/2022,2021-12-19,(14.)Granada CF,RCD Mallorca(13.),4,1
+2021/2022,2021-12-19,(12.)Athletic,Real Betis(3.),3,2
+2021/2022,2021-12-19,(19.)Getafe,CA Osasuna(10.),1,0
+2021/2022,2021-12-19,(1.)Real Madrid,Cádiz CF(18.),0,0
+2021/2022,2021-12-20,(20.)Levante,Valencia(8.),3,4
+2021/2022,2021-12-31,(8.)Valencia,Espanyol(11.),1,2
+2021/2022,2022-01-02,(18.)Getafe,Real Madrid(1.),1,0
+2021/2022,2022-01-02,(5.)Atlético Madrid,Rayo Vallecano(4.),2,0
+2021/2022,2022-01-02,(17.)Elche CF,Granada CF(12.),0,0
+2021/2022,2022-01-02,(16.)Alavés,Real Sociedad(6.),1,1
+2021/2022,2022-01-02,(3.)Real Betis,Celta de Vigo(14.),0,2
+2021/2022,2022-01-02,(15.)RCD Mallorca,Barcelona(7.),0,1
+2021/2022,2022-01-03,(9.)Villarreal,Levante(20.),5,0
+2021/2022,2022-01-03,(13.)CA Osasuna,Athletic(10.),1,3
+2021/2022,2022-01-03,(19.)Cádiz CF,Sevilla FC(2.),0,1
+2021/2022,2022-01-08,(20.)Levante,RCD Mallorca(15.),2,0
+2021/2022,2022-01-08,(6.)Real Sociedad,Celta de Vigo(12.),1,0
+2021/2022,2022-01-08,(13.)Granada CF,Barcelona(5.),1,1
+2021/2022,2022-01-08,(1.)Real Madrid,Valencia(8.),4,1
+2021/2022,2022-01-09,(7.)Rayo Vallecano,Real Betis(3.),1,1
+2021/2022,2022-01-09,(2.)Sevilla FC,Getafe(16.),1,0
+2021/2022,2022-01-09,(17.)Alavés,Athletic(10.),0,0
+2021/2022,2022-01-09,(14.)CA Osasuna,Cádiz CF(19.),2,0
+2021/2022,2022-01-09,(9.)Villarreal,Atlético Madrid(4.),2,2
+2021/2022,2022-01-10,(11.)Espanyol,Elche CF(18.),1,2
+2021/2022,2021-12-22,(9.)Athletic,Real Madrid(1.),1,2
+2021/2022,2022-01-16,(16.)Elche CF,Villarreal(8.),1,0
+2021/2022,2022-01-18,(3.)Real Betis,Alavés(18.),4,0
+2021/2022,2022-01-18,(19.)Cádiz CF,Espanyol(11.),2,2
+2021/2022,2022-01-19,(14.)Celta de Vigo,CA Osasuna(12.),2,0
+2021/2022,2022-01-19,(10.)Valencia,Sevilla FC(2.),1,1
+2021/2022,2022-01-20,(17.)Getafe,Granada CF(13.),4,2
+2021/2022,2022-02-16,(4.)Atlético Madrid,Levante(20.),0,1
+2021/2022,2022-03-02,(15.)RCD Mallorca,Real Sociedad(5.),0,2
+2021/2022,2022-04-24,(6.)Barcelona,Rayo Vallecano(7.),0,1
+2021/2022,2022-01-21,(11.)Espanyol,Real Betis(3.),1,4
+2021/2022,2022-01-22,(20.)Levante,Cádiz CF(19.),0,2
+2021/2022,2022-01-22,(9.)Villarreal,RCD Mallorca(17.),3,0
+2021/2022,2022-01-22,(2.)Sevilla FC,Celta de Vigo(12.),2,2
+2021/2022,2022-01-22,(6.)Atlético Madrid,Valencia(8.),3,2
+2021/2022,2022-01-23,(14.)Granada CF,CA Osasuna(13.),0,2
+2021/2022,2022-01-23,(1.)Real Madrid,Elche CF(15.),2,2
+2021/2022,2022-01-23,(4.)Real Sociedad,Getafe(16.),0,0
+2021/2022,2022-01-23,(5.)Rayo Vallecano,Athletic(10.),0,1
+2021/2022,2022-01-23,(18.)Alavés,Barcelona(7.),0,1
+2021/2022,2022-02-04,(16.)Getafe,Levante(20.),3,0
+2021/2022,2022-02-05,(15.)Elche CF,Alavés(19.),3,1
+2021/2022,2022-02-05,(17.)RCD Mallorca,Cádiz CF(18.),2,1
+2021/2022,2022-02-05,(12.)Celta de Vigo,Rayo Vallecano(7.),2,0
+2021/2022,2022-02-05,(11.)CA Osasuna,Sevilla FC(2.),0,0
+2021/2022,2022-02-06,(10.)Valencia,Real Sociedad(4.),0,0
+2021/2022,2022-02-06,(6.)Barcelona,Atlético Madrid(5.),4,2
+2021/2022,2022-02-06,(3.)Real Betis,Villarreal(8.),0,2
+2021/2022,2022-02-06,(1.)Real Madrid,Granada CF(14.),1,0
+2021/2022,2022-02-07,(9.)Athletic,Espanyol(13.),2,1
+2021/2022,2022-02-11,(2.)Sevilla FC,Elche CF(14.),2,0
+2021/2022,2022-02-12,(18.)Cádiz CF,Celta de Vigo(11.),0,0
+2021/2022,2022-02-12,(7.)Villarreal,Real Madrid(1.),0,0
+2021/2022,2022-02-12,(9.)Rayo Vallecano,CA Osasuna(12.),0,3
+2021/2022,2022-02-12,(6.)Atlético Madrid,Getafe(15.),4,3
+2021/2022,2022-02-13,(19.)Alavés,Valencia(10.),2,1
+2021/2022,2022-02-13,(20.)Levante,Real Betis(3.),2,4
+2021/2022,2022-02-13,(5.)Real Sociedad,Granada CF(16.),2,0
+2021/2022,2022-02-13,(13.)Espanyol,Barcelona(4.),2,2
+2021/2022,2022-02-14,(17.)RCD Mallorca,Athletic(8.),3,2
+2021/2022,2022-02-18,(14.)Elche CF,Rayo Vallecano(9.),2,1
+2021/2022,2022-02-19,(17.)Granada CF,Villarreal(7.),1,4
+2021/2022,2022-02-19,(10.)CA Osasuna,Atlético Madrid(6.),0,3
+2021/2022,2022-02-19,(19.)Cádiz CF,Getafe(16.),1,1
+2021/2022,2022-02-19,(1.)Real Madrid,Alavés(18.),3,0
+2021/2022,2022-02-20,(13.)Espanyol,Sevilla FC(2.),1,1
+2021/2022,2022-02-20,(12.)Valencia,Barcelona(5.),1,4
+2021/2022,2022-02-20,(3.)Real Betis,RCD Mallorca(15.),2,1
+2021/2022,2022-02-20,(8.)Athletic,Real Sociedad(4.),4,0
+2021/2022,2022-02-21,(11.)Celta de Vigo,Levante(20.),1,1
+2021/2022,2022-02-25,(20.)Levante,Elche CF(13.),3,0
+2021/2022,2022-02-26,(16.)RCD Mallorca,Valencia(12.),0,1
+2021/2022,2022-02-26,(15.)Getafe,Alavés(18.),2,2
+2021/2022,2022-02-26,(9.)Rayo Vallecano,Real Madrid(1.),0,1
+2021/2022,2022-02-26,(5.)Atlético Madrid,Celta de Vigo(10.),2,0
+2021/2022,2022-02-27,(7.)Villarreal,Espanyol(14.),5,1
+2021/2022,2022-02-27,(2.)Sevilla FC,Real Betis(3.),2,1
+2021/2022,2022-02-27,(6.)Real Sociedad,CA Osasuna(11.),1,0
+2021/2022,2022-02-27,(4.)Barcelona,Athletic(8.),4,0
+2021/2022,2022-02-28,(17.)Granada CF,Cádiz CF(19.),0,0
+2021/2022,2022-03-04,(18.)Alavés,Sevilla FC(2.),0,0
+2021/2022,2022-03-05,(12.)CA Osasuna,Villarreal(7.),1,0
+2021/2022,2022-03-05,(14.)Espanyol,Getafe(15.),2,0
+2021/2022,2022-03-05,(10.)Valencia,Granada CF(17.),3,1
+2021/2022,2022-03-05,(1.)Real Madrid,Real Sociedad(6.),4,1
+2021/2022,2022-03-06,(19.)Cádiz CF,Rayo Vallecano(9.),2,0
+2021/2022,2022-03-06,(13.)Elche CF,Barcelona(4.),1,2
+2021/2022,2022-03-06,(11.)Celta de Vigo,RCD Mallorca(16.),4,3
+2021/2022,2022-03-06,(3.)Real Betis,Atlético Madrid(5.),1,3
+2021/2022,2022-03-07,(8.)Athletic,Levante(20.),3,1
+2021/2022,2022-03-11,(4.)Atlético Madrid,Cádiz CF(18.),2,1
+2021/2022,2022-03-12,(20.)Levante,Espanyol(13.),1,1
+2021/2022,2022-03-12,(17.)Granada CF,Elche CF(14.),0,1
+2021/2022,2022-03-12,(7.)Villarreal,Celta de Vigo(10.),1,0
+2021/2022,2022-03-12,(15.)Getafe,Valencia(9.),0,0
+2021/2022,2022-03-13,(12.)Rayo Vallecano,Sevilla FC(2.),1,1
+2021/2022,2022-03-13,(5.)Real Betis,Athletic(8.),1,0
+2021/2022,2022-03-13,(6.)Real Sociedad,Alavés(19.),1,0
+2021/2022,2022-03-13,(3.)Barcelona,CA Osasuna(11.),4,0
+2021/2022,2022-03-14,(16.)RCD Mallorca,Real Madrid(1.),0,3
+2021/2022,2022-03-18,(8.)Athletic,Getafe(15.),1,1
+2021/2022,2022-03-19,(19.)Alavés,Granada CF(17.),2,3
+2021/2022,2022-03-19,(14.)Elche CF,Valencia(9.),0,1
+2021/2022,2022-03-19,(11.)CA Osasuna,Levante(20.),3,1
+2021/2022,2022-03-19,(12.)Rayo Vallecano,Atlético Madrid(4.),0,1
+2021/2022,2022-03-20,(13.)Espanyol,RCD Mallorca(16.),1,0
+2021/2022,2022-03-20,(10.)Celta de Vigo,Real Betis(5.),0,0
+2021/2022,2022-03-20,(18.)Cádiz CF,Villarreal(7.),1,0
+2021/2022,2022-03-20,(2.)Sevilla FC,Real Sociedad(6.),0,0
+2021/2022,2022-03-20,(1.)Real Madrid,Barcelona(3.),0,4
+2021/2022,2022-04-02,(15.)Getafe,RCD Mallorca(18.),1,0
+2021/2022,2022-04-02,(20.)Levante,Villarreal(7.),2,0
+2021/2022,2022-04-02,(11.)Celta de Vigo,Real Madrid(1.),1,2
+2021/2022,2022-04-02,(4.)Atlético Madrid,Alavés(19.),4,1
+2021/2022,2022-04-03,(8.)Athletic,Elche CF(14.),2,1
+2021/2022,2022-04-03,(5.)Real Betis,CA Osasuna(10.),4,1
+2021/2022,2022-04-03,(16.)Granada CF,Rayo Vallecano(13.),2,2
+2021/2022,2022-04-03,(9.)Valencia,Cádiz CF(17.),0,0
+2021/2022,2022-04-03,(3.)Barcelona,Sevilla FC(2.),1,0
+2021/2022,2022-04-04,(6.)Real Sociedad,Espanyol(12.),1,0
+2021/2022,2022-04-08,(3.)Sevilla FC,Granada CF(16.),4,2
+2021/2022,2022-04-09,(17.)Cádiz CF,Real Betis(5.),1,2
+2021/2022,2022-04-09,(18.)RCD Mallorca,Atlético Madrid(4.),1,0
+2021/2022,2022-04-09,(7.)Villarreal,Athletic(8.),1,1
+2021/2022,2022-04-09,(1.)Real Madrid,Getafe(15.),2,0
+2021/2022,2022-04-10,(10.)CA Osasuna,Alavés(19.),1,0
+2021/2022,2022-04-10,(13.)Espanyol,Celta de Vigo(11.),1,0
+2021/2022,2022-04-10,(14.)Elche CF,Real Sociedad(6.),1,2
+2021/2022,2022-04-10,(20.)Levante,Barcelona(2.),2,3
+2021/2022,2022-04-11,(12.)Rayo Vallecano,Valencia(9.),1,1
+2021/2022,2022-04-15,(6.)Real Sociedad,Real Betis(5.),0,0
+2021/2022,2022-04-16,(14.)Elche CF,RCD Mallorca(17.),3,0
+2021/2022,2022-04-16,(19.)Alavés,Rayo Vallecano(12.),1,0
+2021/2022,2022-04-16,(9.)Valencia,CA Osasuna(10.),1,2
+2021/2022,2022-04-16,(15.)Getafe,Villarreal(7.),1,2
+2021/2022,2022-04-17,(16.)Granada CF,Levante(20.),1,4
+2021/2022,2022-04-17,(4.)Atlético Madrid,Espanyol(11.),2,1
+2021/2022,2022-04-17,(8.)Athletic,Celta de Vigo(13.),0,2
+2021/2022,2022-04-17,(3.)Sevilla FC,Real Madrid(1.),2,3
+2021/2022,2022-04-18,(2.)Barcelona,Cádiz CF(18.),0,1
+2021/2022,2022-04-19,(18.)RCD Mallorca,Alavés(19.),2,1
+2021/2022,2022-04-19,(5.)Real Betis,Elche CF(14.),0,1
+2021/2022,2022-04-19,(7.)Villarreal,Valencia(10.),2,0
+2021/2022,2022-04-20,(4.)Atlético Madrid,Granada CF(17.),0,0
+2021/2022,2022-04-20,(11.)Celta de Vigo,Getafe(15.),0,2
+2021/2022,2022-04-20,(9.)CA Osasuna,Real Madrid(1.),1,3
+2021/2022,2022-04-21,(12.)Espanyol,Rayo Vallecano(13.),0,1
+2021/2022,2022-04-21,(20.)Levante,Sevilla FC(3.),2,3
+2021/2022,2022-04-21,(16.)Cádiz CF,Athletic(8.),2,3
+2021/2022,2022-04-21,(6.)Real Sociedad,Barcelona(2.),0,1
+2021/2022,2022-04-29,(3.)Sevilla FC,Cádiz CF(17.),1,1
+2021/2022,2022-04-30,(19.)Alavés,Villarreal(7.),2,1
+2021/2022,2022-04-30,(1.)Real Madrid,Espanyol(13.),4,0
+2021/2022,2022-04-30,(10.)Valencia,Levante(20.),1,1
+2021/2022,2022-04-30,(8.)Athletic,Atlético Madrid(4.),2,0
+2021/2022,2022-05-01,(14.)Elche CF,CA Osasuna(9.),1,1
+2021/2022,2022-05-01,(18.)Granada CF,Celta de Vigo(12.),1,1
+2021/2022,2022-05-01,(11.)Rayo Vallecano,Real Sociedad(6.),1,1
+2021/2022,2022-05-01,(2.)Barcelona,RCD Mallorca(16.),2,1
+2021/2022,2022-05-02,(15.)Getafe,Real Betis(5.),0,0
+2021/2022,2022-05-06,(20.)Levante,Real Sociedad(6.),2,1
+2021/2022,2022-05-07,(16.)RCD Mallorca,Granada CF(18.),2,6
+2021/2022,2022-05-07,(8.)Athletic,Valencia(10.),0,0
+2021/2022,2022-05-07,(12.)Celta de Vigo,Alavés(19.),4,0
+2021/2022,2022-05-07,(17.)Cádiz CF,Elche CF(13.),3,0
+2021/2022,2022-05-07,(5.)Real Betis,Barcelona(2.),1,2
+2021/2022,2022-05-08,(15.)Getafe,Rayo Vallecano(11.),0,0
+2021/2022,2022-05-08,(7.)Villarreal,Sevilla FC(3.),1,1
+2021/2022,2022-05-08,(14.)Espanyol,CA Osasuna(9.),1,1
+2021/2022,2022-05-08,(4.)Atlético Madrid,Real Madrid(1.),1,0
+2021/2022,2022-05-10,(10.)Valencia,Real Betis(5.),0,3
+2021/2022,2022-05-10,(17.)Granada CF,Athletic(8.),1,0
+2021/2022,2022-05-10,(2.)Barcelona,Celta de Vigo(11.),3,1
+2021/2022,2022-05-11,(20.)Alavés,Espanyol(13.),2,1
+2021/2022,2022-05-11,(9.)CA Osasuna,Getafe(15.),1,1
+2021/2022,2022-05-11,(3.)Sevilla FC,RCD Mallorca(18.),0,0
+2021/2022,2022-05-11,(14.)Elche CF,Atlético Madrid(4.),0,2
+2021/2022,2022-05-12,(6.)Real Sociedad,Cádiz CF(16.),3,0
+2021/2022,2022-05-12,(12.)Rayo Vallecano,Villarreal(7.),1,5
+2021/2022,2022-05-12,(1.)Real Madrid,Levante(19.),6,0
+2021/2022,2022-05-14,(13.)Espanyol,Valencia(10.),1,1
+2021/2022,2022-05-15,(8.)Athletic,CA Osasuna(9.),2,0
+2021/2022,2022-05-15,(3.)Atlético Madrid,Sevilla FC(4.),1,1
+2021/2022,2022-05-15,(5.)Real Betis,Granada CF(16.),2,0
+2021/2022,2022-05-15,(11.)Celta de Vigo,Elche CF(14.),1,0
+2021/2022,2022-05-15,(18.)RCD Mallorca,Rayo Vallecano(12.),2,1
+2021/2022,2022-05-15,(15.)Getafe,Barcelona(2.),0,0
+2021/2022,2022-05-15,(17.)Cádiz CF,Real Madrid(1.),1,1
+2021/2022,2022-05-15,(20.)Levante,Alavés(19.),3,1
+2021/2022,2022-05-15,(7.)Villarreal,Real Sociedad(6.),1,2
+2021/2022,2022-05-20,(1.)Real Madrid,Real Betis(5.),0,0
+2021/2022,2022-05-20,(12.)Rayo Vallecano,Levante(19.),2,4
+2021/2022,2022-05-21,(11.)Valencia,Celta de Vigo(10.),2,0
+2021/2022,2022-05-22,(14.)Elche CF,Getafe(15.),3,1
+2021/2022,2022-05-22,(20.)Alavés,Cádiz CF(18.),0,1
+2021/2022,2022-05-22,(16.)Granada CF,Espanyol(13.),0,0
+2021/2022,2022-05-22,(9.)CA Osasuna,RCD Mallorca(17.),0,2
+2021/2022,2022-05-22,(2.)Barcelona,Villarreal(7.),0,2
+2021/2022,2022-05-22,(6.)Real Sociedad,Atlético Madrid(3.),1,2
+2021/2022,2022-05-22,(4.)Sevilla FC,Athletic(8.),1,0
+2022/2023,2022-08-12,CA Osasuna,Sevilla FC,2,1
+2022/2023,2022-08-13,Celta de Vigo,Espanyol,2,2
+2022/2023,2022-08-13,Real Valladolid,Villarreal,0,3
+2022/2023,2022-08-13,Barcelona,Rayo Vallecano,0,0
+2022/2023,2022-08-14,Cádiz CF,Real Sociedad,0,1
+2022/2023,2022-08-14,Valencia,Girona,1,0
+2022/2023,2022-08-14,UD Almería,Real Madrid,1,2
+2022/2023,2022-08-15,Athletic,RCD Mallorca,0,0
+2022/2023,2022-08-15,Getafe,Atlético Madrid,0,3
+2022/2023,2022-08-15,Real Betis,Elche CF,3,0
+2022/2023,2022-08-19,(9.)Espanyol,Rayo Vallecano(12.),0,2
+2022/2023,2022-08-19,(14.)Sevilla FC,Real Valladolid(20.),1,1
+2022/2023,2022-08-20,(5.)CA Osasuna,Cádiz CF(16.),2,0
+2022/2023,2022-08-20,(13.)RCD Mallorca,Real Betis(2.),1,2
+2022/2023,2022-08-20,(8.)Celta de Vigo,Real Madrid(4.),1,4
+2022/2023,2022-08-21,(11.)Athletic,Valencia(7.),1,0
+2022/2023,2022-08-21,(1.)Atlético Madrid,Villarreal(3.),0,2
+2022/2023,2022-08-21,(6.)Real Sociedad,Barcelona(10.),1,4
+2022/2023,2022-08-22,(18.)Elche CF,UD Almería(15.),1,1
+2022/2023,2022-08-22,(17.)Girona,Getafe(19.),3,1
+2022/2023,2022-08-26,(9.)Girona,Celta de Vigo(16.),0,1
+2022/2023,2022-08-26,(3.)Real Betis,CA Osasuna(4.),1,0
+2022/2023,2022-08-27,(17.)Elche CF,Real Sociedad(11.),0,1
+2022/2023,2022-08-27,(6.)Rayo Vallecano,RCD Mallorca(14.),0,2
+2022/2023,2022-08-27,(13.)UD Almería,Sevilla FC(12.),2,1
+2022/2023,2022-08-28,(20.)Getafe,Villarreal(1.),0,0
+2022/2023,2022-08-28,(5.)Barcelona,Real Valladolid(18.),4,0
+2022/2023,2022-08-28,(15.)Espanyol,Real Madrid(2.),1,3
+2022/2023,2022-08-29,(19.)Cádiz CF,Athletic(7.),0,4
+2022/2023,2022-08-29,(10.)Valencia,Atlético Madrid(8.),0,1
+2022/2023,2022-09-02,(12.)Celta de Vigo,Cádiz CF(20.),3,0
+2022/2023,2022-09-03,(9.)RCD Mallorca,Girona(13.),1,1
+2022/2023,2022-09-03,(1.)Real Madrid,Real Betis(2.),2,1
+2022/2023,2022-09-03,(8.)Real Sociedad,Atlético Madrid(6.),1,1
+2022/2023,2022-09-03,(15.)Sevilla FC,Barcelona(3.),0,3
+2022/2023,2022-09-04,(7.)CA Osasuna,Rayo Vallecano(11.),2,1
+2022/2023,2022-09-04,(5.)Athletic,Espanyol(16.),0,1
+2022/2023,2022-09-04,(4.)Villarreal,Elche CF(17.),4,0
+2022/2023,2022-09-04,(14.)Valencia,Getafe(18.),5,1
+2022/2023,2022-09-05,(19.)Real Valladolid,UD Almería(10.),1,0
+2022/2023,2022-09-09,(12.)Girona,Real Valladolid(16.),2,1
+2022/2023,2022-09-10,(14.)Rayo Vallecano,Valencia(10.),2,1
+2022/2023,2022-09-10,(15.)Espanyol,Sevilla FC(17.),2,3
+2022/2023,2022-09-10,(20.)Cádiz CF,Barcelona(2.),0,4
+2022/2023,2022-09-10,(7.)Atlético Madrid,Celta de Vigo(8.),4,1
+2022/2023,2022-09-11,(1.)Real Madrid,RCD Mallorca(11.),4,1
+2022/2023,2022-09-11,(19.)Getafe,Real Sociedad(9.),2,1
+2022/2023,2022-09-11,(18.)Elche CF,Athletic(6.),1,4
+2022/2023,2022-09-11,(4.)Real Betis,Villarreal(3.),1,0
+2022/2023,2022-09-12,(13.)UD Almería,CA Osasuna(5.),0,1
+2022/2023,2022-09-16,(17.)Real Valladolid,Cádiz CF(20.),0,1
+2022/2023,2022-09-17,(13.)RCD Mallorca,UD Almería(14.),1,0
+2022/2023,2022-09-17,(2.)Barcelona,Elche CF(19.),3,0
+2022/2023,2022-09-17,(12.)Valencia,Celta de Vigo(10.),3,0
+2022/2023,2022-09-17,(6.)Athletic,Rayo Vallecano(9.),3,2
+2022/2023,2022-09-18,(3.)Real Betis,Girona(8.),2,1
+2022/2023,2022-09-18,(5.)Villarreal,Sevilla FC(15.),1,1
+2022/2023,2022-09-18,(11.)Real Sociedad,Espanyol(16.),2,1
+2022/2023,2022-09-18,(4.)CA Osasuna,Getafe(18.),0,2
+2022/2023,2022-09-18,(7.)Atlético Madrid,Real Madrid(1.),1,2
+2022/2023,2022-09-30,(4.)Athletic,UD Almería(16.),4,0
+2022/2023,2022-10-01,(19.)Cádiz CF,Villarreal(6.),0,0
+2022/2023,2022-10-01,(14.)Getafe,Real Valladolid(18.),2,3
+2022/2023,2022-10-01,(15.)Sevilla FC,Atlético Madrid(7.),0,2
+2022/2023,2022-10-01,(10.)RCD Mallorca,Barcelona(2.),0,1
+2022/2023,2022-10-02,(17.)Espanyol,Valencia(9.),2,2
+2022/2023,2022-10-02,(13.)Celta de Vigo,Real Betis(3.),1,0
+2022/2023,2022-10-02,(11.)Girona,Real Sociedad(8.),3,5
+2022/2023,2022-10-02,(1.)Real Madrid,CA Osasuna(5.),1,1
+2022/2023,2022-10-03,(12.)Rayo Vallecano,Elche CF(20.),2,1
+2022/2023,2022-10-07,(6.)CA Osasuna,Valencia(9.),1,2
+2022/2023,2022-10-08,(18.)UD Almería,Rayo Vallecano(10.),3,1
+2022/2023,2022-10-08,(5.)Atlético Madrid,Girona(13.),2,1
+2022/2023,2022-10-08,(17.)Sevilla FC,Athletic(3.),1,1
+2022/2023,2022-10-08,(14.)Getafe,Real Madrid(2.),0,1
+2022/2023,2022-10-09,(15.)Real Valladolid,Real Betis(4.),0,0
+2022/2023,2022-10-09,(19.)Cádiz CF,Espanyol(16.),2,2
+2022/2023,2022-10-09,(7.)Real Sociedad,Villarreal(8.),1,0
+2022/2023,2022-10-09,(1.)Barcelona,Celta de Vigo(11.),1,0
+2022/2023,2022-10-10,(20.)Elche CF,RCD Mallorca(12.),1,1
+2022/2023,2022-10-14,(10.)Rayo Vallecano,Getafe(16.),0,0
+2022/2023,2022-10-15,(14.)Girona,Cádiz CF(19.),1,1
+2022/2023,2022-10-15,(7.)Valencia,Elche CF(20.),2,2
+2022/2023,2022-10-15,(12.)RCD Mallorca,Sevilla FC(18.),0,1
+2022/2023,2022-10-15,(3.)Athletic,Atlético Madrid(4.),0,1
+2022/2023,2022-10-16,(11.)Celta de Vigo,Real Sociedad(6.),1,2
+2022/2023,2022-10-16,(2.)Real Madrid,Barcelona(1.),3,1
+2022/2023,2022-10-16,(17.)Espanyol,Real Valladolid(13.),1,0
+2022/2023,2022-10-16,(5.)Real Betis,UD Almería(15.),3,1
+2022/2023,2022-10-17,(9.)Villarreal,CA Osasuna(8.),2,0
+2022/2023,2022-10-18,(14.)Sevilla FC,Valencia(8.),1,1
+2022/2023,2022-10-18,(16.)Getafe,Athletic(6.),2,2
+2022/2023,2022-10-18,(3.)Atlético Madrid,Rayo Vallecano(10.),1,1
+2022/2023,2022-10-19,(19.)Cádiz CF,Real Betis(4.),0,0
+2022/2023,2022-10-19,(17.)Real Valladolid,Celta de Vigo(11.),4,1
+2022/2023,2022-10-19,(5.)Real Sociedad,RCD Mallorca(12.),1,0
+2022/2023,2022-10-19,(20.)Elche CF,Real Madrid(1.),0,3
+2022/2023,2022-10-20,(18.)UD Almería,Girona(15.),3,2
+2022/2023,2022-10-20,(9.)CA Osasuna,Espanyol(13.),1,0
+2022/2023,2022-10-20,(2.)Barcelona,Villarreal(7.),3,0
+2022/2023,2022-10-22,(10.)Rayo Vallecano,Cádiz CF(19.),5,1
+2022/2023,2022-10-22,(11.)Real Valladolid,Real Sociedad(3.),1,0
+2022/2023,2022-10-22,(8.)Valencia,RCD Mallorca(15.),1,2
+2022/2023,2022-10-22,(1.)Real Madrid,Sevilla FC(12.),3,1
+2022/2023,2022-10-23,(16.)Espanyol,Elche CF(20.),2,2
+2022/2023,2022-10-23,(5.)Real Betis,Atlético Madrid(4.),1,2
+2022/2023,2022-10-23,(18.)Girona,CA Osasuna(7.),1,1
+2022/2023,2022-10-23,(9.)Villarreal,UD Almería(13.),2,1
+2022/2023,2022-10-23,(2.)Barcelona,Athletic(6.),4,0
+2022/2023,2022-10-24,(14.)Celta de Vigo,Getafe(17.),1,1
+2022/2023,2022-10-28,(12.)RCD Mallorca,Espanyol(14.),1,1
+2022/2023,2022-10-29,(15.)UD Almería,Celta de Vigo(13.),3,1
+2022/2023,2022-10-29,(19.)Cádiz CF,Atlético Madrid(3.),3,2
+2022/2023,2022-10-29,(16.)Sevilla FC,Rayo Vallecano(10.),0,1
+2022/2023,2022-10-29,(9.)Valencia,Barcelona(2.),0,1
+2022/2023,2022-10-30,(8.)CA Osasuna,Real Valladolid(11.),2,0
+2022/2023,2022-10-30,(1.)Real Madrid,Girona(18.),1,1
+2022/2023,2022-10-30,(6.)Athletic,Villarreal(7.),1,0
+2022/2023,2022-10-30,(4.)Real Sociedad,Real Betis(5.),0,2
+2022/2023,2022-10-31,(20.)Elche CF,Getafe(17.),0,1
+2022/2023,2022-11-04,(17.)Girona,Athletic(6.),2,1
+2022/2023,2022-11-05,(14.)Getafe,Cádiz CF(19.),0,0
+2022/2023,2022-11-05,(11.)Real Valladolid,Elche CF(20.),2,1
+2022/2023,2022-11-05,(16.)Celta de Vigo,CA Osasuna(7.),1,2
+2022/2023,2022-11-05,(2.)Barcelona,UD Almería(13.),2,0
+2022/2023,2022-11-06,(3.)Atlético Madrid,Espanyol(15.),1,1
+2022/2023,2022-11-06,(5.)Real Sociedad,Valencia(10.),1,1
+2022/2023,2022-11-06,(8.)Villarreal,RCD Mallorca(12.),0,2
+2022/2023,2022-11-06,(4.)Real Betis,Sevilla FC(18.),1,1
+2022/2023,2022-11-07,(9.)Rayo Vallecano,Real Madrid(1.),3,2
+2022/2023,2022-11-08,(20.)Elche CF,Girona(14.),1,2
+2022/2023,2022-11-08,(7.)Athletic,Real Valladolid(10.),3,0
+2022/2023,2022-11-08,(5.)CA Osasuna,Barcelona(1.),1,2
+2022/2023,2022-11-09,(15.)UD Almería,Getafe(13.),1,0
+2022/2023,2022-11-09,(17.)Sevilla FC,Real Sociedad(6.),1,2
+2022/2023,2022-11-09,(16.)Espanyol,Villarreal(9.),0,1
+2022/2023,2022-11-09,(12.)RCD Mallorca,Atlético Madrid(3.),1,0
+2022/2023,2022-11-10,(8.)Rayo Vallecano,Celta de Vigo(18.),0,0
+2022/2023,2022-11-10,(11.)Valencia,Real Betis(4.),3,0
+2022/2023,2022-11-10,(2.)Real Madrid,Cádiz CF(19.),2,1
+2022/2023,2022-12-29,(13.)Girona,Rayo Vallecano(8.),2,2
+2022/2023,2022-12-29,(6.)Real Betis,Athletic(4.),0,0
+2022/2023,2022-12-30,(15.)Getafe,RCD Mallorca(11.),2,0
+2022/2023,2022-12-30,(17.)Celta de Vigo,Sevilla FC(18.),1,1
+2022/2023,2022-12-30,(19.)Cádiz CF,UD Almería(14.),1,1
+2022/2023,2022-12-30,(5.)Atlético Madrid,Elche CF(20.),2,0
+2022/2023,2022-12-30,(12.)Real Valladolid,Real Madrid(2.),0,2
+2022/2023,2022-12-31,(1.)Barcelona,Espanyol(16.),1,1
+2022/2023,2022-12-31,(3.)Real Sociedad,CA Osasuna(7.),2,0
+2022/2023,2022-12-31,(9.)Villarreal,Valencia(10.),2,1
+2022/2023,2023-01-06,(20.)Elche CF,Celta de Vigo(17.),0,1
+2022/2023,2023-01-06,(10.)Valencia,Cádiz CF(19.),0,1
+2022/2023,2023-01-07,(7.)Villarreal,Real Madrid(2.),2,1
+2022/2023,2023-01-07,(11.)RCD Mallorca,Real Valladolid(15.),1,0
+2022/2023,2023-01-07,(16.)Espanyol,Girona(12.),2,2
+2022/2023,2023-01-08,(13.)UD Almería,Real Sociedad(3.),0,2
+2022/2023,2023-01-08,(8.)Rayo Vallecano,Real Betis(6.),1,2
+2022/2023,2023-01-08,(18.)Sevilla FC,Getafe(14.),2,1
+2022/2023,2023-01-08,(4.)Atlético Madrid,Barcelona(1.),0,1
+2022/2023,2023-01-09,(5.)Athletic,CA Osasuna(9.),0,0
+2022/2023,2023-01-13,(16.)Celta de Vigo,Villarreal(6.),1,1
+2022/2023,2023-01-14,(15.)Real Valladolid,Rayo Vallecano(9.),0,1
+2022/2023,2023-01-14,(12.)Girona,Sevilla FC(17.),2,1
+2022/2023,2023-01-14,(8.)CA Osasuna,RCD Mallorca(10.),1,0
+2022/2023,2023-01-14,(3.)Real Sociedad,Athletic(7.),3,1
+2022/2023,2023-01-15,(13.)Getafe,Espanyol(19.),1,2
+2022/2023,2023-01-15,(14.)UD Almería,Atlético Madrid(5.),1,1
+2022/2023,2023-01-16,(18.)Cádiz CF,Elche CF(20.),1,1
+2022/2023,2023-02-01,(4.)Real Betis,Barcelona(1.),1,2
+2022/2023,2023-02-02,(2.)Real Madrid,Valencia(11.),2,0
+2022/2023,2023-01-20,(10.)RCD Mallorca,Celta de Vigo(16.),1,0
+2022/2023,2023-01-21,(9.)Rayo Vallecano,Real Sociedad(3.),0,2
+2022/2023,2023-01-21,(14.)Espanyol,Real Betis(6.),1,0
+2022/2023,2023-01-21,(4.)Atlético Madrid,Real Valladolid(17.),3,0
+2022/2023,2023-01-21,(19.)Sevilla FC,Cádiz CF(18.),1,0
+2022/2023,2023-01-22,(5.)Villarreal,Girona(11.),1,0
+2022/2023,2023-01-22,(20.)Elche CF,CA Osasuna(7.),1,1
+2022/2023,2023-01-22,(1.)Barcelona,Getafe(15.),1,0
+2022/2023,2023-01-22,(8.)Athletic,Real Madrid(2.),0,2
+2022/2023,2023-01-23,(12.)Valencia,UD Almería(13.),2,2
+2022/2023,2023-01-27,(14.)UD Almería,Espanyol(13.),3,1
+2022/2023,2023-01-28,(19.)Cádiz CF,RCD Mallorca(10.),2,0
+2022/2023,2023-01-28,(11.)Girona,Barcelona(1.),0,1
+2022/2023,2023-01-28,(15.)Sevilla FC,Elche CF(20.),3,0
+2022/2023,2023-01-28,(16.)Getafe,Real Betis(6.),0,1
+2022/2023,2023-01-29,(18.)Real Valladolid,Valencia(12.),1,0
+2022/2023,2023-01-29,(7.)CA Osasuna,Atlético Madrid(4.),0,1
+2022/2023,2023-01-29,(17.)Celta de Vigo,Athletic(8.),1,0
+2022/2023,2023-01-29,(2.)Real Madrid,Real Sociedad(3.),0,0
+2022/2023,2023-01-30,(5.)Villarreal,Rayo Vallecano(9.),0,1
+2022/2023,2023-02-03,(9.)Athletic,Cádiz CF(18.),4,1
+2022/2023,2023-02-04,(15.)Espanyol,CA Osasuna(8.),1,1
+2022/2023,2023-02-04,(20.)Elche CF,Villarreal(5.),3,1
+2022/2023,2023-02-04,(4.)Atlético Madrid,Getafe(19.),1,1
+2022/2023,2023-02-04,(6.)Real Betis,Celta de Vigo(16.),3,4
+2022/2023,2023-02-05,(10.)RCD Mallorca,Real Madrid(2.),1,0
+2022/2023,2023-02-05,(12.)Girona,Valencia(14.),1,0
+2022/2023,2023-02-05,(3.)Real Sociedad,Real Valladolid(17.),0,1
+2022/2023,2023-02-05,(1.)Barcelona,Sevilla FC(13.),3,0
+2022/2023,2023-02-06,(7.)Rayo Vallecano,UD Almería(11.),2,0
+2022/2023,2023-02-10,(18.)Cádiz CF,Girona(11.),2,0
+2022/2023,2023-02-11,(14.)UD Almería,Real Betis(7.),2,3
+2022/2023,2023-02-11,(16.)Sevilla FC,RCD Mallorca(10.),2,0
+2022/2023,2023-02-11,(17.)Valencia,Athletic(8.),1,2
+2022/2023,2023-02-12,(19.)Getafe,Rayo Vallecano(5.),1,1
+2022/2023,2023-02-12,(12.)Celta de Vigo,Atlético Madrid(4.),0,1
+2022/2023,2023-02-12,(13.)Real Valladolid,CA Osasuna(9.),0,0
+2022/2023,2023-02-12,(6.)Villarreal,Barcelona(1.),0,1
+2022/2023,2023-02-13,(15.)Espanyol,Real Sociedad(3.),2,3
+2022/2023,2023-02-15,(2.)Real Madrid,Elche CF(20.),4,0
+2022/2023,2023-02-17,(11.)Girona,UD Almería(15.),6,2
+2022/2023,2023-02-18,(3.)Real Sociedad,Celta de Vigo(14.),1,1
+2022/2023,2023-02-18,(5.)Real Betis,Real Valladolid(13.),2,1
+2022/2023,2023-02-18,(10.)RCD Mallorca,Villarreal(8.),4,2
+2022/2023,2023-02-18,(9.)CA Osasuna,Real Madrid(2.),0,2
+2022/2023,2023-02-19,(20.)Elche CF,Espanyol(17.),0,1
+2022/2023,2023-02-19,(6.)Rayo Vallecano,Sevilla FC(12.),1,1
+2022/2023,2023-02-19,(4.)Atlético Madrid,Athletic(7.),1,0
+2022/2023,2023-02-19,(1.)Barcelona,Cádiz CF(16.),2,0
+2022/2023,2023-02-20,(19.)Getafe,Valencia(18.),1,0
+2022/2023,2023-02-24,(20.)Elche CF,Real Betis(5.),2,3
+2022/2023,2023-02-25,(13.)Espanyol,RCD Mallorca(9.),2,1
+2022/2023,2023-02-25,(18.)Cádiz CF,Rayo Vallecano(6.),1,0
+2022/2023,2023-02-25,(2.)Real Madrid,Atlético Madrid(4.),1,1
+2022/2023,2023-02-25,(19.)Valencia,Real Sociedad(3.),1,0
+2022/2023,2023-02-26,(7.)Athletic,Girona(11.),2,3
+2022/2023,2023-02-26,(14.)Celta de Vigo,Real Valladolid(15.),3,0
+2022/2023,2023-02-26,(17.)UD Almería,Barcelona(1.),1,0
+2022/2023,2023-02-26,(12.)Sevilla FC,CA Osasuna(10.),2,3
+2022/2023,2023-02-27,(8.)Villarreal,Getafe(16.),2,1
+2022/2023,2023-03-03,(3.)Real Sociedad,Cádiz CF(16.),0,0
+2022/2023,2023-03-04,(19.)Getafe,Girona(11.),3,2
+2022/2023,2023-03-04,(15.)UD Almería,Villarreal(7.),0,2
+2022/2023,2023-03-04,(10.)RCD Mallorca,Elche CF(20.),0,1
+2022/2023,2023-03-04,(4.)Atlético Madrid,Sevilla FC(14.),6,1
+2022/2023,2023-03-05,(17.)Real Valladolid,Espanyol(12.),2,1
+2022/2023,2023-03-05,(1.)Barcelona,Valencia(18.),1,0
+2022/2023,2023-03-05,(6.)Rayo Vallecano,Athletic(9.),0,0
+2022/2023,2023-03-05,(5.)Real Betis,Real Madrid(2.),0,0
+2022/2023,2023-03-06,(8.)CA Osasuna,Celta de Vigo(13.),0,0
+2022/2023,2023-03-10,(15.)Cádiz CF,Getafe(16.),2,2
+2022/2023,2023-03-11,(2.)Real Madrid,Espanyol(13.),3,1
+2022/2023,2023-03-11,(20.)Elche CF,Real Valladolid(14.),1,1
+2022/2023,2023-03-11,(12.)Celta de Vigo,Rayo Vallecano(7.),3,0
+2022/2023,2023-03-11,(19.)Valencia,CA Osasuna(8.),1,0
+2022/2023,2023-03-12,(10.)RCD Mallorca,Real Sociedad(4.),1,1
+2022/2023,2023-03-12,(17.)Sevilla FC,UD Almería(18.),2,1
+2022/2023,2023-03-12,(6.)Villarreal,Real Betis(5.),1,1
+2022/2023,2023-03-12,(9.)Athletic,Barcelona(1.),0,1
+2022/2023,2023-03-13,(11.)Girona,Atlético Madrid(3.),0,1
+2022/2023,2023-03-17,(14.)Real Valladolid,Athletic(9.),1,3
+2022/2023,2023-03-18,(19.)UD Almería,Cádiz CF(16.),1,1
+2022/2023,2023-03-18,(7.)Rayo Vallecano,Girona(12.),2,2
+2022/2023,2023-03-18,(15.)Espanyol,Celta de Vigo(11.),1,3
+2022/2023,2023-03-18,(3.)Atlético Madrid,Valencia(17.),3,0
+2022/2023,2023-03-19,(5.)Real Betis,RCD Mallorca(10.),1,0
+2022/2023,2023-03-19,(8.)CA Osasuna,Villarreal(6.),0,3
+2022/2023,2023-03-19,(4.)Real Sociedad,Elche CF(20.),2,0
+2022/2023,2023-03-19,(18.)Getafe,Sevilla FC(13.),2,0
+2022/2023,2023-03-19,(1.)Barcelona,Real Madrid(2.),2,1
+2022/2023,2023-03-31,(11.)RCD Mallorca,CA Osasuna(10.),0,0
+2022/2023,2023-04-01,(12.)Girona,Espanyol(17.),2,1
+2022/2023,2023-04-01,(7.)Athletic,Getafe(13.),0,0
+2022/2023,2023-04-01,(15.)Cádiz CF,Sevilla FC(14.),0,2
+2022/2023,2023-04-01,(20.)Elche CF,Barcelona(1.),0,4
+2022/2023,2023-04-02,(9.)Celta de Vigo,UD Almería(19.),2,2
+2022/2023,2023-04-02,(2.)Real Madrid,Real Valladolid(16.),6,0
+2022/2023,2023-04-02,(6.)Villarreal,Real Sociedad(4.),2,0
+2022/2023,2023-04-02,(3.)Atlético Madrid,Real Betis(5.),1,0
+2022/2023,2023-04-03,(18.)Valencia,Rayo Vallecano(8.),1,1
+2022/2023,2023-04-07,(13.)Sevilla FC,Celta de Vigo(9.),2,2
+2022/2023,2023-04-08,(10.)CA Osasuna,Elche CF(20.),2,1
+2022/2023,2023-04-08,(18.)Espanyol,Athletic(7.),1,2
+2022/2023,2023-04-08,(4.)Real Sociedad,Getafe(14.),2,0
+2022/2023,2023-04-08,(2.)Real Madrid,Villarreal(6.),2,3
+2022/2023,2023-04-09,(16.)Real Valladolid,RCD Mallorca(12.),3,3
+2022/2023,2023-04-09,(5.)Real Betis,Cádiz CF(15.),0,2
+2022/2023,2023-04-09,(19.)UD Almería,Valencia(17.),2,1
+2022/2023,2023-04-09,(8.)Rayo Vallecano,Atlético Madrid(3.),1,2
+2022/2023,2023-04-10,(1.)Barcelona,Girona(11.),0,0
+2022/2023,2023-04-14,(9.)Rayo Vallecano,CA Osasuna(8.),2,1
+2022/2023,2023-04-15,(5.)Villarreal,Real Valladolid(17.),1,2
+2022/2023,2023-04-15,(7.)Athletic,Real Sociedad(4.),2,0
+2022/2023,2023-04-15,(6.)Real Betis,Espanyol(19.),3,1
+2022/2023,2023-04-15,(14.)Cádiz CF,Real Madrid(2.),0,2
+2022/2023,2023-04-16,(11.)Girona,Elche CF(20.),2,0
+2022/2023,2023-04-16,(15.)Getafe,Barcelona(1.),0,0
+2022/2023,2023-04-16,(3.)Atlético Madrid,UD Almería(16.),2,1
+2022/2023,2023-04-16,(18.)Valencia,Sevilla FC(13.),0,2
+2022/2023,2023-04-17,(10.)Celta de Vigo,RCD Mallorca(12.),0,1
+2022/2023,2023-04-21,(19.)Espanyol,Cádiz CF(16.),0,0
+2022/2023,2023-04-22,(10.)CA Osasuna,Real Betis(5.),3,2
+2022/2023,2023-04-22,(17.)UD Almería,Athletic(7.),1,2
+2022/2023,2023-04-22,(4.)Real Sociedad,Rayo Vallecano(8.),2,1
+2022/2023,2023-04-22,(14.)Real Valladolid,Girona(9.),1,0
+2022/2023,2023-04-22,(2.)Real Madrid,Celta de Vigo(12.),2,0
+2022/2023,2023-04-23,(20.)Elche CF,Valencia(18.),0,2
+2022/2023,2023-04-23,(1.)Barcelona,Atlético Madrid(3.),1,0
+2022/2023,2023-04-23,(11.)RCD Mallorca,Getafe(15.),3,1
+2022/2023,2023-04-23,(13.)Sevilla FC,Villarreal(6.),2,1
+2022/2023,2023-04-25,(15.)Cádiz CF,CA Osasuna(8.),0,1
+2022/2023,2023-04-25,(11.)Girona,Real Madrid(2.),4,2
+2022/2023,2023-04-25,(5.)Real Betis,Real Sociedad(4.),0,0
+2022/2023,2023-04-26,(3.)Atlético Madrid,RCD Mallorca(10.),3,1
+2022/2023,2023-04-26,(16.)Getafe,UD Almería(18.),1,2
+2022/2023,2023-04-26,(13.)Celta de Vigo,Elche CF(20.),1,0
+2022/2023,2023-04-26,(9.)Rayo Vallecano,Barcelona(1.),2,1
+2022/2023,2023-04-27,(17.)Valencia,Real Valladolid(14.),2,1
+2022/2023,2023-04-27,(6.)Villarreal,Espanyol(19.),4,2
+2022/2023,2023-04-27,(7.)Athletic,Sevilla FC(12.),0,1
+2022/2023,2023-04-28,(8.)CA Osasuna,Real Sociedad(4.),0,2
+2022/2023,2023-04-29,(20.)Elche CF,Rayo Vallecano(9.),4,0
+2022/2023,2023-04-29,(2.)Real Madrid,UD Almería(16.),4,2
+2022/2023,2023-04-29,(1.)Barcelona,Real Betis(6.),4,0
+2022/2023,2023-04-30,(17.)Cádiz CF,Valencia(15.),2,1
+2022/2023,2023-04-30,(5.)Villarreal,Celta de Vigo(13.),3,1
+2022/2023,2023-04-30,(19.)Espanyol,Getafe(18.),1,0
+2022/2023,2023-04-30,(14.)Real Valladolid,Atlético Madrid(3.),2,5
+2022/2023,2023-05-01,(12.)RCD Mallorca,Athletic(7.),1,1
+2022/2023,2023-05-01,(11.)Sevilla FC,Girona(10.),0,2
+2022/2023,2023-05-02,(1.)Barcelona,CA Osasuna(9.),1,0
+2022/2023,2023-05-02,(17.)UD Almería,Elche CF(20.),2,1
+2022/2023,2023-05-02,(4.)Real Sociedad,Real Madrid(2.),2,0
+2022/2023,2023-05-03,(16.)Valencia,Villarreal(5.),1,1
+2022/2023,2023-05-03,(3.)Atlético Madrid,Cádiz CF(14.),5,1
+2022/2023,2023-05-03,(18.)Getafe,Celta de Vigo(13.),1,0
+2022/2023,2023-05-04,(8.)Girona,RCD Mallorca(11.),2,1
+2022/2023,2023-05-04,(12.)Sevilla FC,Espanyol(19.),3,2
+2022/2023,2023-05-04,(7.)Athletic,Real Betis(6.),0,1
+2022/2023,2023-05-04,(10.)Rayo Vallecano,Real Valladolid(15.),2,1
+2022/2023,2023-05-12,(12.)RCD Mallorca,Cádiz CF(15.),1,0
+2022/2023,2023-05-13,(4.)Real Sociedad,Girona(8.),2,2
+2022/2023,2023-05-13,(10.)CA Osasuna,UD Almería(14.),3,1
+2022/2023,2023-05-13,(5.)Villarreal,Athletic(7.),5,1
+2022/2023,2023-05-13,(3.)Real Madrid,Getafe(18.),1,0
+2022/2023,2023-05-14,(13.)Celta de Vigo,Valencia(17.),1,2
+2022/2023,2023-05-14,(20.)Elche CF,Atlético Madrid(2.),1,0
+2022/2023,2023-05-14,(16.)Real Valladolid,Sevilla FC(11.),0,3
+2022/2023,2023-05-14,(19.)Espanyol,Barcelona(1.),2,4
+2022/2023,2023-05-15,(6.)Real Betis,Rayo Vallecano(9.),3,1
+2022/2023,2023-05-19,(16.)Cádiz CF,Real Valladolid(17.),2,0
+2022/2023,2023-05-20,(7.)Girona,Villarreal(5.),1,2
+2022/2023,2023-05-20,(8.)Athletic,Celta de Vigo(13.),2,1
+2022/2023,2023-05-20,(15.)UD Almería,RCD Mallorca(12.),3,0
+2022/2023,2023-05-20,(18.)Getafe,Elche CF(20.),1,1
+2022/2023,2023-05-20,(1.)Barcelona,Real Sociedad(4.),1,2
+2022/2023,2023-05-21,(11.)Rayo Vallecano,Espanyol(19.),1,2
+2022/2023,2023-05-21,(3.)Atlético Madrid,CA Osasuna(9.),3,0
+2022/2023,2023-05-21,(14.)Valencia,Real Madrid(2.),1,0
+2022/2023,2023-05-21,(10.)Sevilla FC,Real Betis(6.),0,0
+2022/2023,2023-05-23,(14.)Celta de Vigo,Girona(8.),1,1
+2022/2023,2023-05-23,(4.)Real Sociedad,UD Almería(15.),1,0
+2022/2023,2023-05-23,(18.)Real Valladolid,Barcelona(1.),3,1
+2022/2023,2023-05-24,(20.)Elche CF,Sevilla FC(9.),1,1
+2022/2023,2023-05-24,(5.)Villarreal,Cádiz CF(16.),2,0
+2022/2023,2023-05-24,(3.)Real Madrid,Rayo Vallecano(11.),2,1
+2022/2023,2023-05-24,(6.)Real Betis,Getafe(17.),0,1
+2022/2023,2023-05-24,(19.)Espanyol,Atlético Madrid(2.),3,3
+2022/2023,2023-05-25,(12.)RCD Mallorca,Valencia(13.),1,0
+2022/2023,2023-05-25,(10.)CA Osasuna,Athletic(7.),2,0
+2022/2023,2023-05-27,(10.)Sevilla FC,Real Madrid(2.),1,2
+2022/2023,2023-05-28,(9.)Girona,Real Betis(6.),1,2
+2022/2023,2023-05-28,(7.)Athletic,Elche CF(20.),0,1
+2022/2023,2023-05-28,(3.)Atlético Madrid,Real Sociedad(4.),2,1
+2022/2023,2023-05-28,(1.)Barcelona,RCD Mallorca(11.),3,0
+2022/2023,2023-05-28,(16.)Getafe,CA Osasuna(8.),2,1
+2022/2023,2023-05-28,(17.)Cádiz CF,Celta de Vigo(14.),1,0
+2022/2023,2023-05-28,(12.)Rayo Vallecano,Villarreal(5.),2,1
+2022/2023,2023-05-28,(15.)UD Almería,Real Valladolid(18.),0,0
+2022/2023,2023-05-28,(13.)Valencia,Espanyol(19.),2,2
+2022/2023,2023-06-04,(12.)RCD Mallorca,Rayo Vallecano(10.),3,0
+2022/2023,2023-06-04,(4.)Real Sociedad,Sevilla FC(11.),2,1
+2022/2023,2023-06-04,(2.)Real Madrid,Athletic(7.),1,1
+2022/2023,2023-06-04,(8.)CA Osasuna,Girona(9.),2,1
+2022/2023,2023-06-04,(5.)Villarreal,Atlético Madrid(3.),2,2
+2022/2023,2023-06-04,(6.)Real Betis,Valencia(13.),1,1
+2022/2023,2023-06-04,(16.)Celta de Vigo,Barcelona(1.),2,1
+2022/2023,2023-06-04,(18.)Real Valladolid,Getafe(14.),0,0
+2022/2023,2023-06-04,(20.)Elche CF,Cádiz CF(15.),1,1
+2022/2023,2023-06-04,(19.)Espanyol,UD Almería(17.),3,3
+2023/2024,2023-08-11,UD Almería,Rayo Vallecano,0,2
+2023/2024,2023-08-11,Sevilla FC,Valencia,1,2
+2023/2024,2023-08-12,Real Sociedad,Girona,1,1
+2023/2024,2023-08-12,UD Las Palmas,RCD Mallorca,1,1
+2023/2024,2023-08-12,Athletic,Real Madrid,0,2
+2023/2024,2023-08-13,Celta de Vigo,CA Osasuna,0,2
+2023/2024,2023-08-13,Villarreal,Real Betis,1,2
+2023/2024,2023-08-13,Getafe,Barcelona,0,0
+2023/2024,2023-08-14,Cádiz CF,Alavés,1,0
+2023/2024,2023-08-14,Atlético Madrid,Granada CF,3,1
+2023/2024,2023-08-18,(11.)RCD Mallorca,Villarreal(15.),0,1
+2023/2024,2023-08-18,(6.)Valencia,UD Las Palmas(10.),1,0
+2023/2024,2023-08-19,(9.)Real Sociedad,Celta de Vigo(20.),1,1
+2023/2024,2023-08-19,(19.)UD Almería,Real Madrid(3.),1,3
+2023/2024,2023-08-19,(2.)CA Osasuna,Athletic(18.),0,2
+2023/2024,2023-08-20,(8.)Girona,Getafe(13.),3,0
+2023/2024,2023-08-20,(12.)Barcelona,Cádiz CF(7.),2,0
+2023/2024,2023-08-20,(5.)Real Betis,Atlético Madrid(1.),0,0
+2023/2024,2023-08-21,(16.)Alavés,Sevilla FC(14.),4,3
+2023/2024,2023-08-21,(17.)Granada CF,Rayo Vallecano(4.),0,2
+2023/2024,2023-08-25,(14.)UD Las Palmas,Real Sociedad(13.),0,0
+2023/2024,2023-08-25,(16.)Celta de Vigo,Real Madrid(1.),0,1
+2023/2024,2023-08-26,(12.)Cádiz CF,UD Almería(20.),1,1
+2023/2024,2023-08-26,(19.)Granada CF,RCD Mallorca(15.),3,2
+2023/2024,2023-08-26,(18.)Sevilla FC,Girona(4.),1,2
+2023/2024,2023-08-27,(11.)Villarreal,Barcelona(6.),3,4
+2023/2024,2023-08-27,(3.)Valencia,CA Osasuna(10.),1,2
+2023/2024,2023-08-27,(9.)Athletic,Real Betis(7.),4,2
+2023/2024,2023-08-28,(17.)Getafe,Alavés(8.),1,0
+2023/2024,2023-08-28,(2.)Rayo Vallecano,Atlético Madrid(5.),0,7
+2023/2024,2023-09-01,(10.)Cádiz CF,Villarreal(13.),3,1
+2023/2024,2023-09-01,(19.)UD Almería,Celta de Vigo(18.),2,3
+2023/2024,2023-09-02,(12.)Real Sociedad,Granada CF(15.),5,3
+2023/2024,2023-09-02,(1.)Real Madrid,Getafe(11.),2,1
+2023/2024,2023-09-02,(14.)Alavés,Valencia(7.),1,0
+2023/2024,2023-09-02,(9.)Real Betis,Rayo Vallecano(8.),1,0
+2023/2024,2023-09-03,(3.)Girona,UD Las Palmas(16.),1,0
+2023/2024,2023-09-03,(17.)RCD Mallorca,Athletic(5.),0,0
+2023/2024,2023-09-03,(6.)CA Osasuna,Barcelona(4.),1,2
+2023/2024,2023-12-23,(2.)Atlético Madrid,Sevilla FC(20.),1,0
+2023/2024,2023-09-15,(12.)Rayo Vallecano,Alavés(10.),2,0
+2023/2024,2023-09-16,(5.)Athletic,Cádiz CF(6.),3,0
+2023/2024,2023-09-16,(11.)Valencia,Atlético Madrid(2.),3,0
+2023/2024,2023-09-16,(13.)Celta de Vigo,RCD Mallorca(17.),0,1
+2023/2024,2023-09-16,(4.)Barcelona,Real Betis(7.),5,0
+2023/2024,2023-09-17,(14.)Getafe,CA Osasuna(9.),3,2
+2023/2024,2023-09-17,(15.)Villarreal,UD Almería(19.),2,1
+2023/2024,2023-09-17,(20.)Sevilla FC,UD Las Palmas(18.),1,0
+2023/2024,2023-09-17,(1.)Real Madrid,Real Sociedad(8.),2,1
+2023/2024,2023-09-18,(16.)Granada CF,Girona(3.),2,4
+2023/2024,2023-09-22,(14.)Alavés,Athletic(5.),0,2
+2023/2024,2023-09-23,(3.)Girona,RCD Mallorca(15.),5,3
+2023/2024,2023-09-23,(12.)CA Osasuna,Sevilla FC(17.),0,0
+2023/2024,2023-09-23,(2.)Barcelona,Celta de Vigo(16.),3,2
+2023/2024,2023-09-23,(20.)UD Almería,Valencia(6.),2,2
+2023/2024,2023-09-24,(11.)Real Sociedad,Getafe(8.),4,3
+2023/2024,2023-09-24,(7.)Rayo Vallecano,Villarreal(13.),1,1
+2023/2024,2023-09-24,(10.)Real Betis,Cádiz CF(9.),1,1
+2023/2024,2023-09-24,(19.)UD Las Palmas,Granada CF(18.),1,0
+2023/2024,2023-09-24,(4.)Atlético Madrid,Real Madrid(1.),3,1
+2023/2024,2023-09-26,(17.)Sevilla FC,UD Almería(20.),5,1
+2023/2024,2023-09-26,(16.)RCD Mallorca,Barcelona(1.),2,2
+2023/2024,2023-09-27,(5.)Athletic,Getafe(13.),2,2
+2023/2024,2023-09-27,(12.)Villarreal,Girona(2.),1,2
+2023/2024,2023-09-27,(3.)Real Madrid,UD Las Palmas(15.),2,0
+2023/2024,2023-09-27,(9.)Cádiz CF,Rayo Vallecano(7.),0,0
+2023/2024,2023-09-27,(6.)Valencia,Real Sociedad(8.),0,1
+2023/2024,2023-09-28,(19.)Granada CF,Real Betis(10.),1,1
+2023/2024,2023-09-28,(18.)Celta de Vigo,Alavés(14.),1,1
+2023/2024,2023-09-28,(11.)CA Osasuna,Atlético Madrid(4.),0,2
+2023/2024,2023-09-29,(3.)Barcelona,Sevilla FC(12.),1,0
+2023/2024,2023-09-30,(11.)Getafe,Villarreal(13.),0,0
+2023/2024,2023-09-30,(7.)Rayo Vallecano,RCD Mallorca(16.),2,2
+2023/2024,2023-09-30,(1.)Girona,Real Madrid(2.),0,3
+2023/2024,2023-09-30,(6.)Real Sociedad,Athletic(5.),3,0
+2023/2024,2023-10-01,(20.)UD Almería,Granada CF(19.),3,3
+2023/2024,2023-10-01,(15.)Alavés,CA Osasuna(14.),0,2
+2023/2024,2023-10-01,(10.)Real Betis,Valencia(8.),3,0
+2023/2024,2023-10-01,(4.)Atlético Madrid,Cádiz CF(9.),3,2
+2023/2024,2023-10-02,(18.)UD Las Palmas,Celta de Vigo(17.),2,1
+2023/2024,2023-10-06,(6.)Athletic,UD Almería(20.),3,0
+2023/2024,2023-10-07,(12.)Cádiz CF,Girona(4.),0,1
+2023/2024,2023-10-07,(1.)Real Madrid,CA Osasuna(9.),4,0
+2023/2024,2023-10-07,(16.)RCD Mallorca,Valencia(10.),1,1
+2023/2024,2023-10-07,(15.)Sevilla FC,Rayo Vallecano(8.),2,2
+2023/2024,2023-10-08,(13.)Villarreal,UD Las Palmas(14.),1,2
+2023/2024,2023-10-08,(3.)Atlético Madrid,Real Sociedad(5.),2,1
+2023/2024,2023-10-08,(18.)Celta de Vigo,Getafe(11.),2,2
+2023/2024,2023-10-08,(17.)Alavés,Real Betis(7.),1,1
+2023/2024,2023-10-08,(19.)Granada CF,Barcelona(2.),2,2
+2023/2024,2023-10-20,(12.)CA Osasuna,Granada CF(19.),2,0
+2023/2024,2023-10-21,(6.)Real Sociedad,RCD Mallorca(15.),1,0
+2023/2024,2023-10-21,(11.)Getafe,Real Betis(7.),1,1
+2023/2024,2023-10-21,(14.)Sevilla FC,Real Madrid(1.),1,1
+2023/2024,2023-10-21,(18.)Celta de Vigo,Atlético Madrid(2.),0,3
+2023/2024,2023-10-22,(10.)UD Las Palmas,Rayo Vallecano(8.),0,1
+2023/2024,2023-10-22,(3.)Girona,UD Almería(20.),5,2
+2023/2024,2023-10-22,(16.)Villarreal,Alavés(17.),1,1
+2023/2024,2023-10-22,(4.)Barcelona,Athletic(5.),1,0
+2023/2024,2023-10-23,(9.)Valencia,Cádiz CF(13.),2,0
+2023/2024,2023-10-27,(3.)Girona,Celta de Vigo(18.),1,0
+2023/2024,2023-10-28,(20.)UD Almería,UD Las Palmas(12.),1,2
+2023/2024,2023-10-28,(4.)Barcelona,Real Madrid(2.),1,2
+2023/2024,2023-10-28,(17.)RCD Mallorca,Getafe(11.),0,0
+2023/2024,2023-10-28,(15.)Cádiz CF,Sevilla FC(13.),2,2
+2023/2024,2023-10-29,(9.)Real Betis,CA Osasuna(10.),2,1
+2023/2024,2023-10-29,(7.)Rayo Vallecano,Real Sociedad(5.),2,2
+2023/2024,2023-10-29,(6.)Athletic,Valencia(8.),2,2
+2023/2024,2023-10-29,(1.)Atlético Madrid,Alavés(16.),2,1
+2023/2024,2023-10-30,(19.)Granada CF,Villarreal(14.),2,3
+2023/2024,2023-11-03,(10.)UD Las Palmas,Atlético Madrid(1.),2,1
+2023/2024,2023-11-04,(11.)CA Osasuna,Girona(3.),2,4
+2023/2024,2023-11-04,(7.)Real Betis,RCD Mallorca(16.),2,0
+2023/2024,2023-11-04,(18.)Celta de Vigo,Sevilla FC(14.),1,1
+2023/2024,2023-11-04,(5.)Real Sociedad,Barcelona(4.),0,1
+2023/2024,2023-11-05,(17.)Alavés,UD Almería(20.),1,0
+2023/2024,2023-11-05,(9.)Valencia,Granada CF(19.),1,0
+2023/2024,2023-11-05,(12.)Villarreal,Athletic(6.),2,3
+2023/2024,2023-11-05,(2.)Real Madrid,Rayo Vallecano(8.),0,0
+2023/2024,2023-11-06,(13.)Getafe,Cádiz CF(15.),1,0
+2023/2024,2023-11-10,(5.)Athletic,Celta de Vigo(18.),4,3
+2023/2024,2023-11-11,(9.)Rayo Vallecano,Girona(1.),1,2
+2023/2024,2023-11-11,(20.)UD Almería,Real Sociedad(7.),1,3
+2023/2024,2023-11-11,(19.)Granada CF,Getafe(11.),1,1
+2023/2024,2023-11-11,(12.)CA Osasuna,UD Las Palmas(10.),1,1
+2023/2024,2023-11-11,(2.)Real Madrid,Valencia(8.),5,1
+2023/2024,2023-11-12,(4.)Barcelona,Alavés(14.),2,1
+2023/2024,2023-11-12,(15.)Sevilla FC,Real Betis(6.),1,1
+2023/2024,2023-11-12,(3.)Atlético Madrid,Villarreal(13.),3,1
+2023/2024,2023-11-29,(17.)RCD Mallorca,Cádiz CF(16.),1,1
+2023/2024,2023-11-24,(15.)Alavés,Granada CF(19.),3,1
+2023/2024,2023-11-25,(10.)Rayo Vallecano,Barcelona(4.),1,1
+2023/2024,2023-11-25,(9.)Valencia,Celta de Vigo(18.),0,0
+2023/2024,2023-11-25,(11.)Getafe,UD Almería(20.),2,1
+2023/2024,2023-11-25,(3.)Atlético Madrid,RCD Mallorca(17.),1,0
+2023/2024,2023-11-26,(14.)Villarreal,CA Osasuna(12.),3,1
+2023/2024,2023-11-26,(6.)Real Sociedad,Sevilla FC(13.),2,1
+2023/2024,2023-11-26,(16.)Cádiz CF,Real Madrid(2.),0,3
+2023/2024,2023-11-26,(7.)Real Betis,UD Las Palmas(8.),1,0
+2023/2024,2023-11-27,(1.)Girona,Athletic(5.),1,1
+2023/2024,2023-12-01,(11.)UD Las Palmas,Getafe(8.),2,0
+2023/2024,2023-12-02,(2.)Girona,Valencia(10.),2,1
+2023/2024,2023-12-02,(5.)Athletic,Rayo Vallecano(9.),4,0
+2023/2024,2023-12-02,(1.)Real Madrid,Granada CF(19.),2,0
+2023/2024,2023-12-02,(14.)CA Osasuna,Real Sociedad(6.),1,1
+2023/2024,2023-12-03,(17.)RCD Mallorca,Alavés(13.),0,0
+2023/2024,2023-12-03,(20.)UD Almería,Real Betis(7.),0,0
+2023/2024,2023-12-03,(15.)Sevilla FC,Villarreal(12.),1,1
+2023/2024,2023-12-03,(4.)Barcelona,Atlético Madrid(3.),1,0
+2023/2024,2023-12-04,(18.)Celta de Vigo,Cádiz CF(16.),1,1
+2023/2024,2023-12-08,(9.)Getafe,Valencia(10.),1,0
+2023/2024,2023-12-09,(13.)Alavés,UD Las Palmas(8.),0,1
+2023/2024,2023-12-09,(7.)Real Betis,Real Madrid(1.),1,1
+2023/2024,2023-12-09,(12.)Villarreal,Real Sociedad(6.),0,3
+2023/2024,2023-12-09,(17.)RCD Mallorca,Sevilla FC(15.),1,0
+2023/2024,2023-12-10,(3.)Atlético Madrid,UD Almería(20.),2,1
+2023/2024,2023-12-10,(19.)Granada CF,Athletic(5.),1,1
+2023/2024,2023-12-10,(16.)Cádiz CF,CA Osasuna(14.),1,1
+2023/2024,2023-12-10,(4.)Barcelona,Girona(2.),2,4
+2023/2024,2023-12-11,(11.)Rayo Vallecano,Celta de Vigo(18.),0,0
+2023/2024,2023-12-15,(14.)CA Osasuna,Rayo Vallecano(10.),1,0
+2023/2024,2023-12-16,(18.)Celta de Vigo,Granada CF(19.),1,0
+2023/2024,2023-12-16,(5.)Athletic,Atlético Madrid(3.),2,0
+2023/2024,2023-12-16,(16.)Sevilla FC,Getafe(9.),0,3
+2023/2024,2023-12-16,(11.)Valencia,Barcelona(4.),1,1
+2023/2024,2023-12-17,(20.)UD Almería,RCD Mallorca(15.),0,0
+2023/2024,2023-12-17,(6.)Real Sociedad,Real Betis(7.),0,0
+2023/2024,2023-12-17,(8.)UD Las Palmas,Cádiz CF(17.),1,1
+2023/2024,2023-12-17,(2.)Real Madrid,Villarreal(13.),4,1
+2023/2024,2023-12-18,(1.)Girona,Alavés(12.),3,0
+2023/2024,2023-12-19,(11.)Rayo Vallecano,Valencia(10.),0,1
+2023/2024,2023-12-19,(3.)Atlético Madrid,Getafe(8.),3,3
+2023/2024,2023-12-19,(19.)Granada CF,Sevilla FC(17.),0,3
+2023/2024,2023-12-20,(4.)Barcelona,UD Almería(20.),3,2
+2023/2024,2023-12-20,(5.)Athletic,UD Las Palmas(9.),1,0
+2023/2024,2023-12-20,(14.)Villarreal,Celta de Vigo(18.),3,2
+2023/2024,2023-12-21,(7.)Real Betis,Girona(1.),1,1
+2023/2024,2023-12-21,(16.)Cádiz CF,Real Sociedad(6.),0,0
+2023/2024,2023-12-21,(15.)RCD Mallorca,CA Osasuna(12.),3,2
+2023/2024,2023-12-21,(13.)Alavés,Real Madrid(2.),0,1
+2023/2024,2024-01-02,(8.)Getafe,Rayo Vallecano(11.),0,2
+2023/2024,2024-01-02,(6.)Real Sociedad,Alavés(16.),1,1
+2023/2024,2024-01-02,(10.)Valencia,Villarreal(13.),3,1
+2023/2024,2024-01-03,(19.)Granada CF,Cádiz CF(17.),2,0
+2023/2024,2024-01-03,(18.)Celta de Vigo,Real Betis(7.),2,1
+2023/2024,2024-01-03,(1.)Real Madrid,RCD Mallorca(14.),1,0
+2023/2024,2024-01-03,(2.)Girona,Atlético Madrid(3.),4,3
+2023/2024,2024-01-04,(12.)CA Osasuna,UD Almería(20.),1,0
+2023/2024,2024-01-04,(15.)Sevilla FC,Athletic(5.),0,2
+2023/2024,2024-01-04,(9.)UD Las Palmas,Barcelona(4.),1,2
+2023/2024,2024-01-12,(16.)Sevilla FC,Alavés(15.),2,3
+2023/2024,2024-01-13,(10.)UD Las Palmas,Villarreal(13.),3,0
+2023/2024,2024-01-13,(14.)RCD Mallorca,Celta de Vigo(17.),1,1
+2023/2024,2024-01-13,(4.)Athletic,Real Sociedad(6.),2,1
+2023/2024,2024-01-13,(7.)Real Betis,Granada CF(19.),1,0
+2023/2024,2024-01-14,(20.)UD Almería,Girona(2.),0,0
+2023/2024,2024-01-14,(18.)Cádiz CF,Valencia(9.),1,4
+2023/2024,2024-01-31,(3.)Barcelona,CA Osasuna(12.),1,0
+2023/2024,2024-01-31,(5.)Atlético Madrid,Rayo Vallecano(11.),2,1
+2023/2024,2024-02-01,(8.)Getafe,Real Madrid(1.),0,2
+2023/2024,2024-01-19,(13.)Alavés,Cádiz CF(18.),1,0
+2023/2024,2024-01-20,(11.)Rayo Vallecano,UD Las Palmas(9.),0,2
+2023/2024,2024-01-20,(15.)Villarreal,RCD Mallorca(14.),1,1
+2023/2024,2024-01-20,(8.)Valencia,Athletic(4.),1,0
+2023/2024,2024-01-20,(16.)Celta de Vigo,Real Sociedad(6.),0,1
+2023/2024,2024-01-21,(12.)CA Osasuna,Getafe(10.),3,2
+2023/2024,2024-01-21,(1.)Real Madrid,UD Almería(20.),3,2
+2023/2024,2024-01-21,(7.)Real Betis,Barcelona(3.),2,4
+2023/2024,2024-01-21,(2.)Girona,Sevilla FC(17.),5,1
+2023/2024,2024-01-22,(19.)Granada CF,Atlético Madrid(5.),0,1
+2023/2024,2024-01-26,(20.)UD Almería,Alavés(12.),0,3
+2023/2024,2024-01-27,(6.)Real Sociedad,Rayo Vallecano(13.),0,0
+2023/2024,2024-01-27,(8.)UD Las Palmas,Real Madrid(1.),1,2
+2023/2024,2024-01-27,(3.)Barcelona,Villarreal(15.),3,5
+2023/2024,2024-01-27,(14.)RCD Mallorca,Real Betis(9.),0,1
+2023/2024,2024-01-28,(16.)Celta de Vigo,Girona(2.),0,1
+2023/2024,2024-01-28,(18.)Cádiz CF,Athletic(5.),0,0
+2023/2024,2024-01-28,(17.)Sevilla FC,CA Osasuna(11.),1,1
+2023/2024,2024-01-28,(4.)Atlético Madrid,Valencia(7.),2,0
+2023/2024,2024-01-29,(10.)Getafe,Granada CF(19.),2,0
+2023/2024,2024-02-02,(5.)Athletic,RCD Mallorca(15.),4,0
+2023/2024,2024-02-03,(8.)Valencia,UD Almería(20.),2,1
+2023/2024,2024-02-03,(19.)Granada CF,UD Las Palmas(9.),1,1
+2023/2024,2024-02-03,(11.)Alavés,Barcelona(4.),1,3
+2023/2024,2024-02-03,(2.)Girona,Real Sociedad(6.),0,0
+2023/2024,2024-02-04,(14.)Villarreal,Cádiz CF(18.),0,0
+2023/2024,2024-02-04,(12.)CA Osasuna,Celta de Vigo(17.),0,3
+2023/2024,2024-02-04,(7.)Real Betis,Getafe(10.),1,1
+2023/2024,2024-02-04,(1.)Real Madrid,Atlético Madrid(3.),1,1
+2023/2024,2024-02-05,(13.)Rayo Vallecano,Sevilla FC(16.),1,2
+2023/2024,2024-02-09,(18.)Cádiz CF,Real Betis(8.),0,2
+2023/2024,2024-02-10,(11.)Alavés,Villarreal(14.),1,1
+2023/2024,2024-02-10,(6.)Real Sociedad,CA Osasuna(12.),0,1
+2023/2024,2024-02-10,(1.)Real Madrid,Girona(2.),4,0
+2023/2024,2024-02-10,(9.)UD Las Palmas,Valencia(7.),2,0
+2023/2024,2024-02-11,(10.)Getafe,Celta de Vigo(16.),3,2
+2023/2024,2024-02-11,(17.)RCD Mallorca,Rayo Vallecano(13.),2,1
+2023/2024,2024-02-11,(15.)Sevilla FC,Atlético Madrid(4.),1,0
+2023/2024,2024-02-11,(3.)Barcelona,Granada CF(19.),3,3
+2023/2024,2024-02-12,(20.)UD Almería,Athletic(5.),0,0
+2023/2024,2024-02-16,(13.)Villarreal,Getafe(10.),1,1
+2023/2024,2024-02-17,(4.)Atlético Madrid,UD Las Palmas(8.),5,0
+2023/2024,2024-02-17,(11.)CA Osasuna,Cádiz CF(18.),2,0
+2023/2024,2024-02-17,(17.)Celta de Vigo,Barcelona(3.),1,2
+2023/2024,2024-02-17,(9.)Valencia,Sevilla FC(15.),0,0
+2023/2024,2024-02-18,(14.)Rayo Vallecano,Real Madrid(1.),1,1
+2023/2024,2024-02-18,(19.)Granada CF,UD Almería(20.),1,1
+2023/2024,2024-02-18,(16.)RCD Mallorca,Real Sociedad(7.),1,2
+2023/2024,2024-02-18,(6.)Real Betis,Alavés(12.),0,0
+2023/2024,2024-02-19,(5.)Athletic,Girona(2.),3,2
+2023/2024,2024-02-23,(6.)Real Sociedad,Villarreal(13.),1,3
+2023/2024,2024-02-24,(3.)Barcelona,Getafe(10.),4,0
+2023/2024,2024-02-24,(12.)Alavés,RCD Mallorca(16.),1,1
+2023/2024,2024-02-24,(20.)UD Almería,Atlético Madrid(4.),2,2
+2023/2024,2024-02-25,(18.)Cádiz CF,Celta de Vigo(17.),2,2
+2023/2024,2024-02-25,(7.)Real Betis,Athletic(5.),3,1
+2023/2024,2024-02-25,(9.)UD Las Palmas,CA Osasuna(11.),1,1
+2023/2024,2024-02-25,(1.)Real Madrid,Sevilla FC(15.),1,0
+2023/2024,2024-02-26,(2.)Girona,Rayo Vallecano(14.),3,0
+2023/2024,2024-04-04,(19.)Granada CF,Valencia(8.),0,1
+2023/2024,2024-03-01,(17.)Celta de Vigo,UD Almería(20.),1,0
+2023/2024,2024-03-02,(15.)Sevilla FC,Real Sociedad(7.),3,2
+2023/2024,2024-03-02,(14.)Rayo Vallecano,Cádiz CF(18.),1,1
+2023/2024,2024-03-02,(10.)Getafe,UD Las Palmas(9.),3,3
+2023/2024,2024-03-02,(8.)Valencia,Real Madrid(1.),2,2
+2023/2024,2024-03-03,(13.)Villarreal,Granada CF(19.),5,1
+2023/2024,2024-03-03,(4.)Atlético Madrid,Real Betis(6.),2,1
+2023/2024,2024-03-03,(16.)RCD Mallorca,Girona(2.),1,0
+2023/2024,2024-03-03,(5.)Athletic,Barcelona(3.),0,0
+2023/2024,2024-03-04,(11.)CA Osasuna,Alavés(12.),1,0
+2023/2024,2024-03-08,(3.)Barcelona,RCD Mallorca(15.),1,0
+2023/2024,2024-03-09,(8.)Valencia,Getafe(11.),1,0
+2023/2024,2024-03-09,(18.)Cádiz CF,Atlético Madrid(4.),2,0
+2023/2024,2024-03-09,(19.)Granada CF,Real Sociedad(7.),2,3
+2023/2024,2024-03-09,(2.)Girona,CA Osasuna(10.),2,0
+2023/2024,2024-03-10,(13.)Alavés,Rayo Vallecano(16.),1,0
+2023/2024,2024-03-10,(9.)UD Las Palmas,Athletic(5.),0,2
+2023/2024,2024-03-10,(1.)Real Madrid,Celta de Vigo(17.),4,0
+2023/2024,2024-03-10,(6.)Real Betis,Villarreal(12.),2,3
+2023/2024,2024-03-11,(20.)UD Almería,Sevilla FC(14.),2,2
+2023/2024,2024-03-15,(6.)Real Sociedad,Cádiz CF(18.),2,0
+2023/2024,2024-03-16,(15.)RCD Mallorca,Granada CF(19.),1,0
+2023/2024,2024-03-16,(10.)CA Osasuna,Real Madrid(1.),2,4
+2023/2024,2024-03-16,(12.)Getafe,Girona(2.),1,0
+2023/2024,2024-03-16,(5.)Athletic,Alavés(13.),2,0
+2023/2024,2024-03-17,(14.)Sevilla FC,Celta de Vigo(17.),1,2
+2023/2024,2024-03-17,(9.)UD Las Palmas,UD Almería(20.),0,1
+2023/2024,2024-03-17,(11.)Villarreal,Valencia(7.),1,0
+2023/2024,2024-03-17,(16.)Rayo Vallecano,Real Betis(8.),2,0
+2023/2024,2024-03-17,(4.)Atlético Madrid,Barcelona(3.),0,3
+2023/2024,2024-03-29,(18.)Cádiz CF,Granada CF(19.),1,0
+2023/2024,2024-03-30,(10.)Getafe,Sevilla FC(16.),0,1
+2023/2024,2024-03-30,(20.)UD Almería,CA Osasuna(12.),0,3
+2023/2024,2024-03-30,(7.)Valencia,RCD Mallorca(14.),0,0
+2023/2024,2024-03-30,(2.)Barcelona,UD Las Palmas(11.),1,0
+2023/2024,2024-03-31,(17.)Celta de Vigo,Rayo Vallecano(15.),0,0
+2023/2024,2024-03-31,(3.)Girona,Real Betis(8.),3,2
+2023/2024,2024-03-31,(13.)Alavés,Real Sociedad(6.),0,1
+2023/2024,2024-03-31,(1.)Real Madrid,Athletic(4.),2,0
+2023/2024,2024-04-01,(9.)Villarreal,Atlético Madrid(5.),1,2
+2023/2024,2024-04-12,(8.)Real Betis,Celta de Vigo(17.),2,1
+2023/2024,2024-04-13,(4.)Atlético Madrid,Girona(3.),3,1
+2023/2024,2024-04-13,(16.)Rayo Vallecano,Getafe(11.),0,0
+2023/2024,2024-04-13,(15.)RCD Mallorca,Real Madrid(1.),0,1
+2023/2024,2024-04-13,(18.)Cádiz CF,Barcelona(2.),0,1
+2023/2024,2024-04-14,(12.)UD Las Palmas,Sevilla FC(14.),0,2
+2023/2024,2024-04-14,(19.)Granada CF,Alavés(13.),2,0
+2023/2024,2024-04-14,(5.)Athletic,Villarreal(10.),1,1
+2023/2024,2024-04-14,(6.)Real Sociedad,UD Almería(20.),2,2
+2023/2024,2024-04-15,(9.)CA Osasuna,Valencia(7.),0,1
+2023/2024,2024-04-19,(5.)Athletic,Granada CF(19.),1,1
+2023/2024,2024-04-20,(17.)Celta de Vigo,UD Las Palmas(12.),4,1
+2023/2024,2024-04-20,(16.)Rayo Vallecano,CA Osasuna(11.),2,1
+2023/2024,2024-04-20,(7.)Valencia,Real Betis(8.),1,2
+2023/2024,2024-04-20,(3.)Girona,Cádiz CF(18.),4,1
+2023/2024,2024-04-21,(10.)Getafe,Real Sociedad(6.),1,1
+2023/2024,2024-04-21,(20.)UD Almería,Villarreal(9.),1,2
+2023/2024,2024-04-21,(14.)Alavés,Atlético Madrid(4.),2,0
+2023/2024,2024-04-21,(1.)Real Madrid,Barcelona(2.),3,2
+2023/2024,2024-04-22,(13.)Sevilla FC,RCD Mallorca(15.),2,1
+2023/2024,2024-04-26,(6.)Real Sociedad,Real Madrid(1.),0,1
+2023/2024,2024-04-27,(13.)UD Las Palmas,Girona(3.),0,2
+2023/2024,2024-04-27,(20.)UD Almería,Getafe(10.),1,3
+2023/2024,2024-04-27,(14.)Alavés,Celta de Vigo(16.),3,0
+2023/2024,2024-04-27,(4.)Atlético Madrid,Athletic(5.),3,1
+2023/2024,2024-04-28,(18.)Cádiz CF,RCD Mallorca(17.),1,1
+2023/2024,2024-04-28,(19.)Granada CF,CA Osasuna(11.),3,0
+2023/2024,2024-04-28,(9.)Villarreal,Rayo Vallecano(15.),3,0
+2023/2024,2024-04-28,(7.)Real Betis,Sevilla FC(12.),1,1
+2023/2024,2024-04-29,(2.)Barcelona,Valencia(8.),4,2
+2023/2024,2024-05-03,(10.)Getafe,Athletic(5.),0,2
+2023/2024,2024-05-04,(6.)Real Sociedad,UD Las Palmas(14.),2,0
+2023/2024,2024-05-04,(1.)Real Madrid,Cádiz CF(18.),3,0
+2023/2024,2024-05-04,(3.)Girona,Barcelona(2.),4,2
+2023/2024,2024-05-04,(16.)RCD Mallorca,Atlético Madrid(4.),0,1
+2023/2024,2024-05-05,(11.)CA Osasuna,Real Betis(7.),0,2
+2023/2024,2024-05-05,(17.)Celta de Vigo,Villarreal(9.),3,2
+2023/2024,2024-05-05,(8.)Valencia,Alavés(13.),0,1
+2023/2024,2024-05-05,(15.)Rayo Vallecano,UD Almería(20.),0,1
+2023/2024,2024-05-05,(12.)Sevilla FC,Granada CF(19.),3,0
+2023/2024,2024-05-10,(12.)Alavés,Girona(2.),2,2
+2023/2024,2024-05-11,(17.)RCD Mallorca,UD Las Palmas(14.),1,0
+2023/2024,2024-05-11,(9.)Villarreal,Sevilla FC(11.),3,2
+2023/2024,2024-05-11,(19.)Granada CF,Real Madrid(1.),0,4
+2023/2024,2024-05-11,(5.)Athletic,CA Osasuna(13.),2,2
+2023/2024,2024-05-12,(18.)Cádiz CF,Getafe(10.),1,0
+2023/2024,2024-05-12,(4.)Atlético Madrid,Celta de Vigo(15.),1,0
+2023/2024,2024-05-12,(8.)Valencia,Rayo Vallecano(16.),0,0
+2023/2024,2024-05-12,(7.)Real Betis,UD Almería(20.),3,2
+2023/2024,2024-05-13,(3.)Barcelona,Real Sociedad(6.),2,0
+2023/2024,2024-05-14,(13.)CA Osasuna,RCD Mallorca(15.),1,1
+2023/2024,2024-05-14,(1.)Real Madrid,Alavés(11.),5,0
+2023/2024,2024-05-14,(3.)Girona,Villarreal(8.),0,1
+2023/2024,2024-05-15,(12.)Sevilla FC,Cádiz CF(18.),0,1
+2023/2024,2024-05-15,(16.)Rayo Vallecano,Granada CF(19.),2,1
+2023/2024,2024-05-15,(17.)Celta de Vigo,Athletic(5.),2,1
+2023/2024,2024-05-15,(10.)Getafe,Atlético Madrid(4.),0,3
+2023/2024,2024-05-16,(14.)UD Las Palmas,Real Betis(6.),2,2
+2023/2024,2024-05-16,(20.)UD Almería,Barcelona(2.),0,2
+2023/2024,2024-05-16,(7.)Real Sociedad,Valencia(9.),1,0
+2023/2024,2024-05-18,(11.)Alavés,Getafe(10.),1,0
+2023/2024,2024-05-19,(5.)Athletic,Sevilla FC(12.),2,0
+2023/2024,2024-05-19,(4.)Atlético Madrid,CA Osasuna(13.),1,4
+2023/2024,2024-05-19,(2.)Barcelona,Rayo Vallecano(15.),3,0
+2023/2024,2024-05-19,(7.)Real Betis,Real Sociedad(6.),0,2
+2023/2024,2024-05-19,(18.)Cádiz CF,UD Las Palmas(14.),0,0
+2023/2024,2024-05-19,(17.)RCD Mallorca,UD Almería(20.),2,2
+2023/2024,2024-05-19,(19.)Granada CF,Celta de Vigo(16.),1,2
+2023/2024,2024-05-19,(9.)Valencia,Girona(3.),1,3
+2023/2024,2024-05-19,(8.)Villarreal,Real Madrid(1.),4,4
+2023/2024,2024-05-24,(3.)Girona,Granada CF(19.),7,0
+2023/2024,2024-05-25,(11.)CA Osasuna,Villarreal(8.),1,1
+2023/2024,2024-05-25,(6.)Real Sociedad,Atlético Madrid(4.),0,2
+2023/2024,2024-05-25,(20.)UD Almería,Cádiz CF(18.),6,1
+2023/2024,2024-05-25,(16.)Rayo Vallecano,Athletic(5.),0,1
+2023/2024,2024-05-25,(1.)Real Madrid,Real Betis(7.),0,0
+2023/2024,2024-05-26,(12.)Getafe,RCD Mallorca(17.),1,2
+2023/2024,2024-05-26,(14.)Celta de Vigo,Valencia(9.),2,2
+2023/2024,2024-05-26,(15.)UD Las Palmas,Alavés(10.),1,1
+2023/2024,2024-05-26,(13.)Sevilla FC,Barcelona(2.),1,2
+2024/2025,2024-08-15,Athletic,Getafe,1,1
+2024/2025,2024-08-15,Real Betis,Girona,1,1
+2024/2025,2024-08-16,Celta de Vigo,Alavés,2,1
+2024/2025,2024-08-16,UD Las Palmas,Sevilla FC,2,2
+2024/2025,2024-08-17,CA Osasuna,CD Leganés,1,1
+2024/2025,2024-08-17,Valencia,Barcelona,1,2
+2024/2025,2024-08-18,Real Sociedad,Rayo Vallecano,1,2
+2024/2025,2024-08-18,RCD Mallorca,Real Madrid,1,1
+2024/2025,2024-08-19,Real Valladolid,Espanyol,1,0
+2024/2025,2024-08-19,Villarreal,Atlético Madrid,2,2
+2024/2025,2024-08-23,(2.)Celta de Vigo,Valencia(19.),3,1
+2024/2025,2024-08-23,(6.)Sevilla FC,Villarreal(7.),1,2
+2024/2025,2024-08-24,(11.)CA Osasuna,RCD Mallorca(14.),1,0
+2024/2025,2024-08-24,(1.)Barcelona,Athletic(12.),2,1
+2024/2025,2024-08-24,(13.)Getafe,Rayo Vallecano(3.),0,0
+2024/2025,2024-08-24,(20.)Espanyol,Real Sociedad(17.),0,1
+2024/2025,2024-08-25,(9.)Real Madrid,Real Valladolid(4.),3,0
+2024/2025,2024-08-25,(16.)CD Leganés,UD Las Palmas(8.),2,1
+2024/2025,2024-08-25,(18.)Alavés,Real Betis(10.),0,0
+2024/2025,2024-08-25,(5.)Atlético Madrid,Girona(15.),3,0
+2024/2025,2024-08-26,(5.)Villarreal,Celta de Vigo(1.),4,3
+2024/2025,2024-08-27,(17.)RCD Mallorca,Sevilla FC(13.),0,0
+2024/2025,2024-08-27,(8.)Rayo Vallecano,Barcelona(2.),1,2
+2024/2025,2024-08-28,(15.)Athletic,Valencia(20.),1,0
+2024/2025,2024-08-28,(10.)Real Valladolid,CD Leganés(6.),0,0
+2024/2025,2024-08-28,(9.)Real Sociedad,Alavés(16.),1,2
+2024/2025,2024-08-28,(3.)Atlético Madrid,Espanyol(19.),0,0
+2024/2025,2024-08-29,(18.)Girona,CA Osasuna(7.),4,0
+2024/2025,2024-08-29,(14.)UD Las Palmas,Real Madrid(4.),1,1
+2024/2025,2024-09-18,(11.)Real Betis,Getafe(12.),2,1
+2024/2025,2024-08-31,(1.)Barcelona,Real Valladolid(12.),7,0
+2024/2025,2024-08-31,(9.)Athletic,Atlético Madrid(4.),0,1
+2024/2025,2024-08-31,(19.)Espanyol,Rayo Vallecano(11.),2,1
+2024/2025,2024-08-31,(20.)Valencia,Villarreal(2.),1,1
+2024/2025,2024-08-31,(7.)CD Leganés,RCD Mallorca(18.),0,1
+2024/2025,2024-09-01,(10.)Alavés,UD Las Palmas(15.),2,0
+2024/2025,2024-09-01,(13.)CA Osasuna,Celta de Vigo(3.),3,2
+2024/2025,2024-09-01,(16.)Sevilla FC,Girona(8.),0,2
+2024/2025,2024-09-01,(17.)Getafe,Real Sociedad(14.),0,0
+2024/2025,2024-09-01,(5.)Real Madrid,Real Betis(6.),2,0
+2024/2025,2024-09-13,(10.)Real Betis,CD Leganés(11.),2,0
+2024/2025,2024-09-14,(9.)RCD Mallorca,Villarreal(4.),1,2
+2024/2025,2024-09-14,(16.)Espanyol,Alavés(6.),3,2
+2024/2025,2024-09-14,(19.)Sevilla FC,Getafe(17.),1,0
+2024/2025,2024-09-14,(14.)Real Sociedad,Real Madrid(2.),0,2
+2024/2025,2024-09-15,(8.)Celta de Vigo,Real Valladolid(12.),3,1
+2024/2025,2024-09-15,(5.)Girona,Barcelona(1.),1,4
+2024/2025,2024-09-15,(18.)UD Las Palmas,Athletic(15.),2,3
+2024/2025,2024-09-15,(3.)Atlético Madrid,Valencia(20.),3,0
+2024/2025,2024-09-16,(13.)Rayo Vallecano,CA Osasuna(7.),3,1
+2024/2025,2024-09-20,(11.)Alavés,Sevilla FC(14.),2,1
+2024/2025,2024-09-21,(17.)Real Valladolid,Real Sociedad(16.),0,0
+2024/2025,2024-09-21,(12.)CA Osasuna,UD Las Palmas(19.),2,1
+2024/2025,2024-09-21,(20.)Valencia,Girona(7.),2,0
+2024/2025,2024-09-21,(3.)Real Madrid,Espanyol(8.),4,1
+2024/2025,2024-09-22,(18.)Getafe,CD Leganés(15.),1,1
+2024/2025,2024-09-22,(10.)Athletic,Celta de Vigo(5.),3,1
+2024/2025,2024-09-22,(4.)Villarreal,Barcelona(1.),1,5
+2024/2025,2024-09-22,(9.)Rayo Vallecano,Atlético Madrid(2.),1,1
+2024/2025,2024-09-23,(6.)Real Betis,RCD Mallorca(13.),1,2
+2024/2025,2024-09-17,(9.)RCD Mallorca,Real Sociedad(16.),1,0
+2024/2025,2024-09-19,(14.)CD Leganés,Athletic(5.),0,2
+2024/2025,2024-09-24,(15.)Sevilla FC,Real Valladolid(17.),2,1
+2024/2025,2024-09-24,(19.)Valencia,CA Osasuna(7.),0,0
+2024/2025,2024-09-24,(2.)Real Madrid,Alavés(6.),3,2
+2024/2025,2024-09-25,(12.)Girona,Rayo Vallecano(10.),0,0
+2024/2025,2024-09-25,(1.)Barcelona,Getafe(18.),1,0
+2024/2025,2024-09-26,(13.)Espanyol,Villarreal(4.),1,2
+2024/2025,2024-09-26,(20.)UD Las Palmas,Real Betis(11.),1,1
+2024/2025,2024-09-26,(8.)Celta de Vigo,Atlético Madrid(3.),0,1
+2024/2025,2024-09-27,(18.)Real Valladolid,RCD Mallorca(7.),1,2
+2024/2025,2024-09-28,(19.)Getafe,Alavés(8.),2,0
+2024/2025,2024-09-28,(9.)Rayo Vallecano,CD Leganés(15.),1,1
+2024/2025,2024-09-28,(16.)Real Sociedad,Valencia(17.),3,0
+2024/2025,2024-09-28,(6.)CA Osasuna,Barcelona(1.),4,2
+2024/2025,2024-09-29,(10.)Celta de Vigo,Girona(12.),1,1
+2024/2025,2024-09-29,(5.)Athletic,Sevilla FC(13.),1,1
+2024/2025,2024-09-29,(11.)Real Betis,Espanyol(14.),1,0
+2024/2025,2024-09-29,(3.)Atlético Madrid,Real Madrid(2.),1,1
+2024/2025,2024-09-30,(4.)Villarreal,UD Las Palmas(20.),3,1
+2024/2025,2024-10-04,(16.)CD Leganés,Valencia(18.),0,0
+2024/2025,2024-10-05,(17.)Espanyol,RCD Mallorca(7.),2,1
+2024/2025,2024-10-05,(15.)Getafe,CA Osasuna(5.),1,1
+2024/2025,2024-10-05,(20.)UD Las Palmas,Celta de Vigo(9.),0,1
+2024/2025,2024-10-05,(19.)Real Valladolid,Rayo Vallecano(10.),1,2
+2024/2025,2024-10-05,(2.)Real Madrid,Villarreal(3.),2,0
+2024/2025,2024-10-06,(12.)Girona,Athletic(6.),2,1
+2024/2025,2024-10-06,(11.)Alavés,Barcelona(1.),0,3
+2024/2025,2024-10-06,(13.)Sevilla FC,Real Betis(8.),1,0
+2024/2025,2024-10-06,(14.)Real Sociedad,Atlético Madrid(4.),1,1
+2024/2025,2024-10-18,(14.)Alavés,Real Valladolid(19.),2,3
+2024/2025,2024-10-19,(6.)Athletic,Espanyol(13.),4,1
+2024/2025,2024-10-19,(5.)CA Osasuna,Real Betis(11.),1,2
+2024/2025,2024-10-19,(10.)Girona,Real Sociedad(15.),0,1
+2024/2025,2024-10-19,(9.)Celta de Vigo,Real Madrid(2.),1,2
+2024/2025,2024-10-20,(7.)RCD Mallorca,Rayo Vallecano(8.),1,0
+2024/2025,2024-10-20,(3.)Atlético Madrid,CD Leganés(17.),3,1
+2024/2025,2024-10-20,(4.)Villarreal,Getafe(16.),1,1
+2024/2025,2024-10-20,(1.)Barcelona,Sevilla FC(12.),5,1
+2024/2025,2024-10-21,(18.)Valencia,UD Las Palmas(20.),2,3
+2024/2025,2024-10-25,(14.)Espanyol,Sevilla FC(13.),0,2
+2024/2025,2024-10-26,(18.)Real Valladolid,Villarreal(4.),1,2
+2024/2025,2024-10-26,(9.)Rayo Vallecano,Alavés(15.),1,0
+2024/2025,2024-10-26,(19.)UD Las Palmas,Girona(12.),1,0
+2024/2025,2024-10-26,(2.)Real Madrid,Barcelona(1.),0,4
+2024/2025,2024-10-27,(17.)CD Leganés,Celta de Vigo(10.),3,0
+2024/2025,2024-10-27,(16.)Getafe,Valencia(20.),1,1
+2024/2025,2024-10-27,(7.)Real Betis,Atlético Madrid(3.),1,0
+2024/2025,2024-10-27,(11.)Real Sociedad,CA Osasuna(8.),0,2
+2024/2025,2024-10-28,(6.)RCD Mallorca,Athletic(5.),0,0
+2024/2025,2024-11-01,(17.)Alavés,RCD Mallorca(7.),1,0
+2024/2025,2024-11-02,(8.)CA Osasuna,Real Valladolid(19.),1,0
+2024/2025,2024-11-02,(13.)Girona,CD Leganés(14.),4,3
+2024/2025,2024-11-03,(4.)Atlético Madrid,UD Las Palmas(18.),2,0
+2024/2025,2024-11-03,(1.)Barcelona,Espanyol(16.),3,1
+2024/2025,2024-11-03,(10.)Sevilla FC,Real Sociedad(12.),0,2
+2024/2025,2024-11-03,(5.)Athletic,Real Betis(6.),1,1
+2024/2025,2024-11-04,(11.)Celta de Vigo,Getafe(15.),1,0
+2024/2025,2024-12-18,(3.)Villarreal,Rayo Vallecano(9.),1,1
+2024/2025,2025-01-03,(20.)Valencia,Real Madrid(2.),1,2
+2024/2025,2024-11-08,(9.)Rayo Vallecano,UD Las Palmas(18.),1,3
+2024/2025,2024-11-09,(2.)Real Madrid,CA Osasuna(5.),4,0
+2024/2025,2024-11-09,(4.)Villarreal,Alavés(14.),3,0
+2024/2025,2024-11-09,(15.)CD Leganés,Sevilla FC(13.),1,0
+2024/2025,2024-11-10,(7.)Real Betis,Celta de Vigo(10.),2,2
+2024/2025,2024-11-10,(8.)RCD Mallorca,Atlético Madrid(3.),0,1
+2024/2025,2024-11-10,(16.)Getafe,Girona(12.),0,1
+2024/2025,2024-11-10,(19.)Real Valladolid,Athletic(6.),1,1
+2024/2025,2024-11-10,(11.)Real Sociedad,Barcelona(1.),1,0
+2024/2025,2024-12-18,(17.)Espanyol,Valencia(20.),1,1
+2024/2025,2024-11-22,(18.)Getafe,Real Valladolid(19.),2,0
+2024/2025,2024-11-23,(20.)Valencia,Real Betis(7.),4,2
+2024/2025,2024-11-23,(3.)Atlético Madrid,Alavés(15.),2,1
+2024/2025,2024-11-23,(16.)UD Las Palmas,RCD Mallorca(8.),2,3
+2024/2025,2024-11-23,(10.)Girona,Espanyol(17.),4,1
+2024/2025,2024-11-23,(12.)Celta de Vigo,Barcelona(1.),2,2
+2024/2025,2024-11-24,(5.)CA Osasuna,Villarreal(4.),2,2
+2024/2025,2024-11-24,(13.)Sevilla FC,Rayo Vallecano(11.),1,0
+2024/2025,2024-11-24,(14.)CD Leganés,Real Madrid(2.),0,3
+2024/2025,2024-11-24,(6.)Athletic,Real Sociedad(9.),1,0
+2024/2025,2024-11-29,(8.)RCD Mallorca,Valencia(18.),2,1
+2024/2025,2024-11-30,(1.)Barcelona,UD Las Palmas(17.),1,2
+2024/2025,2024-11-30,(16.)Alavés,CD Leganés(14.),1,1
+2024/2025,2024-11-30,(19.)Espanyol,Celta de Vigo(11.),3,1
+2024/2025,2024-11-30,(20.)Real Valladolid,Atlético Madrid(3.),0,5
+2024/2025,2024-12-01,(4.)Villarreal,Girona(7.),2,2
+2024/2025,2024-12-01,(2.)Real Madrid,Getafe(15.),2,0
+2024/2025,2024-12-01,(13.)Rayo Vallecano,Athletic(5.),1,2
+2024/2025,2024-12-01,(10.)Real Sociedad,Real Betis(9.),2,0
+2024/2025,2024-12-02,(12.)Sevilla FC,CA Osasuna(6.),1,1
+2024/2025,2024-12-06,(12.)Celta de Vigo,RCD Mallorca(6.),2,0
+2024/2025,2024-12-07,(15.)UD Las Palmas,Real Valladolid(20.),2,1
+2024/2025,2024-12-07,(10.)Real Betis,Barcelona(2.),2,2
+2024/2025,2024-12-07,(19.)Valencia,Rayo Vallecano(13.),0,1
+2024/2025,2024-12-07,(8.)Girona,Real Madrid(1.),0,3
+2024/2025,2024-12-08,(14.)CD Leganés,Real Sociedad(9.),0,3
+2024/2025,2024-12-08,(5.)Athletic,Villarreal(4.),2,0
+2024/2025,2024-12-08,(7.)CA Osasuna,Alavés(17.),2,2
+2024/2025,2024-12-08,(3.)Atlético Madrid,Sevilla FC(11.),4,3
+2024/2025,2024-12-09,(18.)Getafe,Espanyol(16.),1,0
+2024/2025,2024-12-13,(20.)Real Valladolid,Valencia(19.),1,0
+2024/2025,2024-12-14,(18.)Espanyol,CA Osasuna(6.),0,0
+2024/2025,2024-12-14,(7.)RCD Mallorca,Girona(9.),2,1
+2024/2025,2024-12-14,(13.)Sevilla FC,Celta de Vigo(10.),1,0
+2024/2025,2024-12-14,(12.)Rayo Vallecano,Real Madrid(1.),3,3
+2024/2025,2024-12-15,(3.)Atlético Madrid,Getafe(15.),1,0
+2024/2025,2024-12-15,(16.)Alavés,Athletic(4.),1,1
+2024/2025,2024-12-15,(5.)Villarreal,Real Betis(11.),1,2
+2024/2025,2024-12-15,(8.)Real Sociedad,UD Las Palmas(14.),0,0
+2024/2025,2024-12-15,(2.)Barcelona,CD Leganés(17.),0,1
+2024/2025,2024-12-20,(10.)Girona,Real Valladolid(19.),3,0
+2024/2025,2024-12-21,(16.)Getafe,RCD Mallorca(6.),0,1
+2024/2025,2024-12-21,(13.)Celta de Vigo,Real Sociedad(8.),2,0
+2024/2025,2024-12-21,(7.)CA Osasuna,Athletic(4.),1,2
+2024/2025,2024-12-21,(3.)Barcelona,Atlético Madrid(2.),1,2
+2024/2025,2024-12-22,(20.)Valencia,Alavés(17.),2,2
+2024/2025,2024-12-22,(1.)Real Madrid,Sevilla FC(11.),4,2
+2024/2025,2024-12-22,(15.)CD Leganés,Villarreal(5.),2,5
+2024/2025,2024-12-22,(14.)UD Las Palmas,Espanyol(18.),1,0
+2024/2025,2024-12-22,(9.)Real Betis,Rayo Vallecano(12.),1,1
+2024/2025,2024-12-03,(6.)RCD Mallorca,Barcelona(3.),1,5
+2024/2025,2024-12-04,(4.)Athletic,Real Madrid(1.),2,1
+2024/2025,2025-01-10,(14.)Rayo Vallecano,Celta de Vigo(11.),2,1
+2024/2025,2025-01-11,(16.)Alavés,Girona(7.),0,1
+2024/2025,2025-01-11,(19.)Real Valladolid,Real Betis(9.),1,0
+2024/2025,2025-01-11,(18.)Espanyol,CD Leganés(15.),1,1
+2024/2025,2025-01-11,(13.)Sevilla FC,Valencia(20.),1,1
+2024/2025,2025-01-12,(12.)UD Las Palmas,Getafe(17.),1,2
+2024/2025,2025-01-12,(2.)Atlético Madrid,CA Osasuna(10.),1,0
+2024/2025,2025-01-13,(8.)Real Sociedad,Villarreal(5.),1,0
+2024/2025,2025-01-17,(18.)Espanyol,Real Valladolid(19.),2,1
+2024/2025,2025-01-18,(8.)Girona,Sevilla FC(13.),1,2
+2024/2025,2025-01-18,(16.)CD Leganés,Atlético Madrid(1.),1,0
+2024/2025,2025-01-18,(10.)Real Betis,Alavés(17.),1,3
+2024/2025,2025-01-18,(15.)Getafe,Barcelona(3.),1,1
+2024/2025,2025-01-19,(12.)Celta de Vigo,Athletic(4.),1,2
+2024/2025,2025-01-19,(2.)Real Madrid,UD Las Palmas(14.),4,1
+2024/2025,2025-01-19,(11.)CA Osasuna,Rayo Vallecano(9.),1,1
+2024/2025,2025-01-19,(20.)Valencia,Real Sociedad(7.),1,0
+2024/2025,2025-01-20,(5.)Villarreal,RCD Mallorca(6.),4,0
+2024/2025,2025-01-24,(15.)UD Las Palmas,CA Osasuna(11.),1,1
+2024/2025,2025-01-25,(6.)RCD Mallorca,Real Betis(12.),0,1
+2024/2025,2025-01-25,(2.)Atlético Madrid,Villarreal(5.),1,1
+2024/2025,2025-01-25,(10.)Sevilla FC,Espanyol(18.),1,1
+2024/2025,2025-01-25,(20.)Real Valladolid,Real Madrid(1.),0,3
+2024/2025,2025-01-26,(9.)Rayo Vallecano,Girona(8.),2,1
+2024/2025,2025-01-26,(7.)Real Sociedad,Getafe(16.),0,3
+2024/2025,2025-01-26,(4.)Athletic,CD Leganés(14.),0,0
+2024/2025,2025-01-26,(3.)Barcelona,Valencia(19.),7,1
+2024/2025,2025-01-27,(17.)Alavés,Celta de Vigo(13.),1,1
+2024/2025,2025-01-31,(15.)CD Leganés,Rayo Vallecano(7.),0,1
+2024/2025,2025-02-01,(14.)Getafe,Sevilla FC(12.),0,0
+2024/2025,2025-02-01,(5.)Villarreal,Real Valladolid(20.),5,1
+2024/2025,2025-02-01,(2.)Atlético Madrid,RCD Mallorca(6.),2,0
+2024/2025,2025-02-01,(18.)Espanyol,Real Madrid(1.),1,0
+2024/2025,2025-02-02,(3.)Barcelona,Alavés(17.),1,0
+2024/2025,2025-02-02,(19.)Valencia,Celta de Vigo(13.),2,1
+2024/2025,2025-02-02,(11.)CA Osasuna,Real Sociedad(8.),2,1
+2024/2025,2025-02-02,(10.)Real Betis,Athletic(4.),2,2
+2024/2025,2025-02-03,(9.)Girona,UD Las Palmas(16.),2,1
+2024/2025,2025-02-07,(6.)Rayo Vallecano,Real Valladolid(20.),1,0
+2024/2025,2025-02-08,(13.)Celta de Vigo,Real Betis(10.),3,2
+2024/2025,2025-02-08,(4.)Athletic,Girona(7.),3,0
+2024/2025,2025-02-08,(16.)UD Las Palmas,Villarreal(5.),1,2
+2024/2025,2025-02-08,(1.)Real Madrid,Atlético Madrid(2.),1,1
+2024/2025,2025-02-09,(18.)Alavés,Getafe(14.),0,1
+2024/2025,2025-02-09,(19.)Valencia,CD Leganés(15.),2,0
+2024/2025,2025-02-09,(11.)Real Sociedad,Espanyol(17.),2,1
+2024/2025,2025-02-09,(12.)Sevilla FC,Barcelona(3.),1,4
+2024/2025,2025-02-10,(9.)RCD Mallorca,CA Osasuna(8.),1,1
+2024/2025,2025-02-14,(7.)Girona,Getafe(14.),1,2
+2024/2025,2025-02-15,(15.)CD Leganés,Alavés(19.),3,3
+2024/2025,2025-02-15,(9.)CA Osasuna,Real Madrid(1.),1,1
+2024/2025,2025-02-15,(2.)Atlético Madrid,Celta de Vigo(13.),1,1
+2024/2025,2025-02-15,(5.)Villarreal,Valencia(18.),1,1
+2024/2025,2025-02-16,(17.)Espanyol,Athletic(4.),1,1
+2024/2025,2025-02-16,(20.)Real Valladolid,Sevilla FC(12.),0,4
+2024/2025,2025-02-16,(8.)RCD Mallorca,UD Las Palmas(16.),3,1
+2024/2025,2025-02-16,(11.)Real Betis,Real Sociedad(10.),3,0
+2024/2025,2025-02-17,(3.)Barcelona,Rayo Vallecano(6.),1,0
+2024/2025,2025-02-21,(14.)Celta de Vigo,CA Osasuna(9.),1,0
+2024/2025,2025-02-22,(19.)Alavés,Espanyol(15.),0,1
+2024/2025,2025-02-22,(6.)Rayo Vallecano,Villarreal(5.),0,1
+2024/2025,2025-02-22,(18.)Valencia,Atlético Madrid(3.),0,3
+2024/2025,2025-02-22,(17.)UD Las Palmas,Barcelona(1.),0,2
+2024/2025,2025-02-23,(4.)Athletic,Real Valladolid(20.),7,1
+2024/2025,2025-02-23,(2.)Real Madrid,Girona(11.),2,0
+2024/2025,2025-02-23,(13.)Getafe,Real Betis(8.),1,2
+2024/2025,2025-02-23,(10.)Real Sociedad,CD Leganés(16.),3,0
+2024/2025,2025-02-24,(12.)Sevilla FC,RCD Mallorca(7.),1,1
+2024/2025,2025-02-28,(20.)Real Valladolid,UD Las Palmas(17.),1,1
+2024/2025,2025-03-01,(13.)Girona,Celta de Vigo(12.),2,2
+2024/2025,2025-03-01,(8.)Rayo Vallecano,Sevilla FC(10.),1,1
+2024/2025,2025-03-01,(7.)Real Betis,Real Madrid(2.),2,1
+2024/2025,2025-03-01,(3.)Atlético Madrid,Athletic(4.),1,0
+2024/2025,2025-03-02,(16.)CD Leganés,Getafe(14.),1,0
+2024/2025,2025-03-02,(1.)Barcelona,Real Sociedad(9.),4,0
+2024/2025,2025-03-02,(6.)RCD Mallorca,Alavés(19.),1,1
+2024/2025,2025-03-02,(11.)CA Osasuna,Valencia(18.),3,3
+2024/2025,2025-04-27,(5.)Villarreal,Espanyol(15.),1,0
+2024/2025,2025-03-08,(12.)Celta de Vigo,CD Leganés(16.),2,1
+2024/2025,2025-03-08,(19.)Alavés,Villarreal(5.),1,0
+2024/2025,2025-03-08,(18.)Valencia,Real Valladolid(20.),2,1
+2024/2025,2025-03-09,(14.)Getafe,Atlético Madrid(2.),2,1
+2024/2025,2025-03-09,(3.)Real Madrid,Rayo Vallecano(8.),2,1
+2024/2025,2025-03-09,(4.)Athletic,RCD Mallorca(7.),1,1
+2024/2025,2025-03-09,(6.)Real Betis,UD Las Palmas(17.),1,0
+2024/2025,2025-03-09,(9.)Real Sociedad,Sevilla FC(10.),0,1
+2024/2025,2025-03-10,(15.)Espanyol,Girona(13.),1,1
+2024/2025,2025-03-27,(1.)Barcelona,CA Osasuna(11.),3,0
+2024/2025,2025-03-14,(19.)UD Las Palmas,Alavés(18.),2,2
+2024/2025,2025-03-15,(20.)Real Valladolid,Celta de Vigo(10.),0,1
+2024/2025,2025-03-15,(7.)RCD Mallorca,Espanyol(15.),2,1
+2024/2025,2025-03-15,(5.)Villarreal,Real Madrid(2.),1,2
+2024/2025,2025-03-15,(12.)Girona,Valencia(16.),1,1
+2024/2025,2025-03-16,(17.)CD Leganés,Real Betis(6.),2,3
+2024/2025,2025-03-16,(8.)Sevilla FC,Athletic(4.),0,1
+2024/2025,2025-03-16,(9.)Rayo Vallecano,Real Sociedad(11.),2,2
+2024/2025,2025-03-16,(14.)CA Osasuna,Getafe(13.),1,2
+2024/2025,2025-03-16,(3.)Atlético Madrid,Barcelona(1.),2,4
+2024/2025,2025-03-29,(12.)Real Sociedad,Real Valladolid(20.),2,1
+2024/2025,2025-03-29,(15.)Espanyol,Atlético Madrid(3.),1,1
+2024/2025,2025-03-29,(17.)Alavés,Rayo Vallecano(9.),0,2
+2024/2025,2025-03-29,(2.)Real Madrid,CD Leganés(18.),3,2
+2024/2025,2025-03-30,(11.)Getafe,Villarreal(5.),1,2
+2024/2025,2025-03-30,(1.)Barcelona,Girona(13.),4,1
+2024/2025,2025-03-30,(4.)Athletic,CA Osasuna(14.),0,0
+2024/2025,2025-03-30,(16.)Valencia,RCD Mallorca(7.),1,0
+2024/2025,2025-03-30,(6.)Real Betis,Sevilla FC(10.),2,1
+2024/2025,2025-03-31,(8.)Celta de Vigo,UD Las Palmas(19.),1,1
+2024/2025,2025-04-04,(8.)Rayo Vallecano,Espanyol(16.),0,4
+2024/2025,2025-04-05,(13.)Girona,Alavés(17.),0,1
+2024/2025,2025-04-05,(2.)Real Madrid,Valencia(15.),1,2
+2024/2025,2025-04-05,(9.)RCD Mallorca,Celta de Vigo(7.),1,2
+2024/2025,2025-04-05,(1.)Barcelona,Real Betis(6.),1,1
+2024/2025,2025-04-06,(19.)UD Las Palmas,Real Sociedad(10.),1,3
+2024/2025,2025-04-06,(11.)Sevilla FC,Atlético Madrid(3.),1,2
+2024/2025,2025-04-06,(20.)Real Valladolid,Getafe(12.),0,4
+2024/2025,2025-04-06,(5.)Villarreal,Athletic(4.),0,0
+2024/2025,2025-04-07,(18.)CD Leganés,CA Osasuna(14.),1,1
+2024/2025,2025-04-11,(14.)Valencia,Sevilla FC(12.),1,0
+2024/2025,2025-04-12,(8.)Real Sociedad,RCD Mallorca(9.),0,2
+2024/2025,2025-04-12,(11.)Getafe,UD Las Palmas(19.),1,3
+2024/2025,2025-04-12,(7.)Celta de Vigo,Espanyol(16.),0,2
+2024/2025,2025-04-12,(18.)CD Leganés,Barcelona(1.),0,1
+2024/2025,2025-04-13,(13.)CA Osasuna,Girona(15.),2,1
+2024/2025,2025-04-13,(17.)Alavés,Real Madrid(2.),0,1
+2024/2025,2025-04-13,(6.)Real Betis,Villarreal(5.),1,2
+2024/2025,2025-04-13,(4.)Athletic,Rayo Vallecano(10.),3,1
+2024/2025,2025-04-14,(3.)Atlético Madrid,Real Valladolid(20.),4,2
+2024/2025,2025-04-18,(15.)Espanyol,Getafe(11.),1,0
+2024/2025,2025-04-19,(10.)Rayo Vallecano,Valencia(13.),1,1
+2024/2025,2025-04-19,(1.)Barcelona,Celta de Vigo(7.),4,3
+2024/2025,2025-04-19,(8.)RCD Mallorca,CD Leganés(19.),0,0
+2024/2025,2025-04-19,(18.)UD Las Palmas,Atlético Madrid(3.),1,0
+2024/2025,2025-04-20,(20.)Real Valladolid,CA Osasuna(12.),2,3
+2024/2025,2025-04-20,(5.)Villarreal,Real Sociedad(9.),2,2
+2024/2025,2025-04-20,(14.)Sevilla FC,Alavés(17.),1,1
+2024/2025,2025-04-20,(2.)Real Madrid,Athletic(4.),1,0
+2024/2025,2025-04-21,(16.)Girona,Real Betis(6.),1,3
+2024/2025,2025-04-22,(14.)Valencia,Espanyol(13.),1,1
+2024/2025,2025-04-22,(1.)Barcelona,RCD Mallorca(7.),1,0
+2024/2025,2025-04-23,(4.)Athletic,UD Las Palmas(17.),1,0
+2024/2025,2025-04-23,(8.)Celta de Vigo,Villarreal(5.),3,0
+2024/2025,2025-04-23,(12.)Getafe,Real Madrid(2.),0,1
+2024/2025,2025-04-23,(18.)Alavés,Real Sociedad(9.),1,0
+2024/2025,2025-04-24,(11.)CA Osasuna,Sevilla FC(15.),1,0
+2024/2025,2025-04-24,(19.)CD Leganés,Girona(16.),1,1
+2024/2025,2025-04-24,(3.)Atlético Madrid,Rayo Vallecano(10.),3,0
+2024/2025,2025-04-24,(6.)Real Betis,Real Valladolid(20.),5,1
+2024/2025,2025-05-02,(11.)Rayo Vallecano,Getafe(12.),1,0
+2024/2025,2025-05-03,(17.)Alavés,Atlético Madrid(3.),0,0
+2024/2025,2025-05-03,(5.)Villarreal,CA Osasuna(8.),4,2
+2024/2025,2025-05-03,(18.)UD Las Palmas,Valencia(14.),2,3
+2024/2025,2025-05-03,(20.)Real Valladolid,Barcelona(1.),1,2
+2024/2025,2025-05-04,(2.)Real Madrid,Celta de Vigo(7.),3,2
+2024/2025,2025-05-04,(15.)Sevilla FC,CD Leganés(19.),2,2
+2024/2025,2025-05-04,(13.)Espanyol,Real Betis(6.),1,2
+2024/2025,2025-05-04,(10.)Real Sociedad,Athletic(4.),0,0
+2024/2025,2025-05-05,(16.)Girona,RCD Mallorca(9.),1,0
+2024/2025,2025-05-09,(18.)UD Las Palmas,Rayo Vallecano(8.),0,1
+2024/2025,2025-05-10,(12.)Valencia,Getafe(13.),3,0
+2024/2025,2025-05-10,(7.)Celta de Vigo,Sevilla FC(16.),3,2
+2024/2025,2025-05-10,(15.)Girona,Villarreal(5.),0,1
+2024/2025,2025-05-10,(9.)RCD Mallorca,Real Valladolid(20.),2,1
+2024/2025,2025-05-10,(3.)Atlético Madrid,Real Sociedad(11.),4,0
+2024/2025,2025-05-11,(19.)CD Leganés,Espanyol(14.),3,2
+2024/2025,2025-05-11,(1.)Barcelona,Real Madrid(2.),4,3
+2024/2025,2025-05-11,(4.)Athletic,Alavés(17.),1,0
+2024/2025,2025-05-11,(6.)Real Betis,CA Osasuna(10.),1,1
+2024/2025,2025-05-13,(20.)Real Valladolid,Girona(15.),0,1
+2024/2025,2025-05-13,(12.)Real Sociedad,Celta de Vigo(7.),0,1
+2024/2025,2025-05-13,(16.)Sevilla FC,UD Las Palmas(19.),1,0
+2024/2025,2025-05-14,(17.)Alavés,Valencia(11.),1,0
+2024/2025,2025-05-14,(5.)Villarreal,CD Leganés(18.),3,0
+2024/2025,2025-05-14,(2.)Real Madrid,RCD Mallorca(8.),2,1
+2024/2025,2025-05-15,(10.)CA Osasuna,Atlético Madrid(3.),2,0
+2024/2025,2025-05-15,(9.)Rayo Vallecano,Real Betis(6.),2,2
+2024/2025,2025-05-15,(14.)Espanyol,Barcelona(1.),0,2
+2024/2025,2025-05-15,(13.)Getafe,Athletic(4.),0,2
+2024/2025,2025-05-18,(3.)Atlético Madrid,Real Betis(6.),4,1
+2024/2025,2025-05-18,(1.)Barcelona,Villarreal(5.),2,3
+2024/2025,2025-05-18,(7.)Celta de Vigo,Rayo Vallecano(8.),1,2
+2024/2025,2025-05-18,(11.)Valencia,Athletic(4.),0,1
+2024/2025,2025-05-18,(10.)RCD Mallorca,Getafe(15.),1,2
+2024/2025,2025-05-18,(12.)Real Sociedad,Girona(13.),3,2
+2024/2025,2025-05-18,(14.)Sevilla FC,Real Madrid(2.),0,2
+2024/2025,2025-05-18,(20.)Real Valladolid,Alavés(17.),0,1
+2024/2025,2025-05-18,(19.)UD Las Palmas,CD Leganés(18.),0,1
+2024/2025,2025-05-18,(9.)CA Osasuna,Espanyol(16.),2,0
+2024/2025,2025-05-23,(6.)Real Betis,Valencia(12.),1,1
+2024/2025,2025-05-24,(2.)Real Madrid,Real Sociedad(11.),2,0
+2024/2025,2025-05-24,(18.)CD Leganés,Real Valladolid(20.),3,0
+2024/2025,2025-05-24,(17.)Espanyol,UD Las Palmas(19.),2,0
+2024/2025,2025-05-24,(14.)Alavés,CA Osasuna(9.),1,1
+2024/2025,2025-05-24,(13.)Getafe,Celta de Vigo(7.),1,2
+2024/2025,2025-05-24,(8.)Rayo Vallecano,RCD Mallorca(10.),0,0
+2024/2025,2025-05-25,(15.)Girona,Atlético Madrid(3.),0,4
+2024/2025,2025-05-25,(5.)Villarreal,Sevilla FC(16.),4,2
+2024/2025,2025-05-25,(4.)Athletic,Barcelona(1.),0,3
